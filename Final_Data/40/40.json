@@ -1,0 +1,75 @@
+{
+    "folder_index": "40",
+    "object_list": [
+        "Books",
+        "Lamp",
+        "Flowers",
+        "Picture frame",
+        "Chair",
+        "Table",
+        "Quilt"
+    ],
+    "whole_object": "This room's so well-dressed, even the table gets to wear a quilted skirt\u2014guess it's not quite ready to table the notion of being fashionable!",
+    "single_object": "- Books: I'm reading a book on anti-gravity. It's impossible to put down!\n- Lamp: I switched my lamp on today, but it just couldn't see the light of day.\n- Flowers: I bought some flowers to cheer myself up, but they just said, \"Aloe there,\" and now we're best buds.\n- Picture frame: I had a photo framed, but it got sentenced to life on the wall.\n- Chair: My chair was into politics, but it just couldn't stand up for itself.\n- Table: The table is currently on a diet, it just can't hold as much as it used to.\n- Quilt: The quilt seemed chilly, so it decided to cover up its emotions.",
+    "multi_object": "- Books  \n- Lamp  \n- \"These books are so bright, they could outshine that lamp if they had a light reading!\"\n\n- Lamp  \n- Flowers  \n- \"This lamp is feeling a bit dim; maybe it needs some flower power to brighten its day!\"\n\n- Flowers  \n- Picture frame  \n- \"These flowers are so stunning, they could frame themselves better than that picture frame ever could!\"\n\n- Picture frame  \n- Quilt  \n- \"That picture frame is jealous of the quilt; it wishes it could wrap up memories as snugly!\"\n\n- Chair  \n- Table  \n- \"This chair is tired of being sat on; it wants to take a break at the table and have a seat at the discussion!\"\n\n- Table  \n- Books  \n- \"This table is tired of holding books; it wants to turn the pages and join the story!\" \n\n- Quilt  \n- Flowers  \n- \"This quilt is so cozy, it could make even the flowers feel like they need a nap!\"",
+    "single_object_dict": {
+        "Books": "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "Lamp": "I switched my lamp on today, but it just couldn't see the light of day.",
+        "Flowers": "I bought some flowers to cheer myself up, but they just said, \"Aloe there,\" and now we're best buds.",
+        "Picture frame": "I had a photo framed, but it got sentenced to life on the wall.",
+        "Chair": "My chair was into politics, but it just couldn't stand up for itself.",
+        "Table": "The table is currently on a diet, it just can't hold as much as it used to.",
+        "Quilt": "The quilt seemed chilly, so it decided to cover up its emotions."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"These books are so bright, they could outshine that lamp if they had a light reading!\""
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"This lamp is feeling a bit dim; maybe it needs some flower power to brighten its day!\""
+        },
+        {
+            "main_object": "Flowers",
+            "other_object_list": [
+                "Picture frame"
+            ],
+            "object_sentence": "\"These flowers are so stunning, they could frame themselves better than that picture frame ever could!\""
+        },
+        {
+            "main_object": "Picture frame",
+            "other_object_list": [
+                "Quilt"
+            ],
+            "object_sentence": "\"That picture frame is jealous of the quilt; it wishes it could wrap up memories as snugly!\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"This chair is tired of being sat on; it wants to take a break at the table and have a seat at the discussion!\""
+        },
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "\"This table is tired of holding books; it wants to turn the pages and join the story!\""
+        },
+        {
+            "main_object": "Quilt",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"This quilt is so cozy, it could make even the flowers feel like they need a nap!\""
+        }
+    ]
+}

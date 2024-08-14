@@ -1,0 +1,93 @@
+{
+    "folder_index": "33",
+    "object_list": [
+        "Sofa",
+        "Cushions",
+        "Coffee table",
+        "Glasses",
+        "Tray",
+        "Paintings",
+        "Fireplace",
+        "Rug",
+        "Bookshelves"
+    ],
+    "whole_object": "This room is so impeccably clean, you'd think the dust bunnies have been evicted for not paying rent!",
+    "single_object": "- Sofa: This sofa's so good at comfort, it's been promoted to 'chief relaxation officer'!\n- Cushions: The cushions' motto is 'support you can count on' \u2013 literally.\n- Coffee table: This coffee table is a 'board' member of the living room's interior design committee.\n- Glasses: These glasses have a clear vision for quenching your thirst.\n- Tray: This tray holds its position well, never spilling the beans about its contents.\n- Paintings: The painting's hanging out, enjoying a bit of wall-time.\n- Fireplace: The fireplace is so cool, it's hot property in the room.\n- Rug: This rug really ties the room together without getting knotty.\n- Bookshelves: The bookshelves are so well-read, they can shelf-help themselves!",
+    "multi_object": "- Sofa  \n- Cushions  \n- The sofa is so comfortable, even the cushions are taking a nap!\n\n- Cushions  \n- Coffee table  \n- The cushions are so fluffy, they could start a pillow fight with the coffee table!\n\n- Coffee table  \n- Glasses  \n- The coffee table is always the life of the party, but it can't handle the pressure of the glasses!\n\n- Glasses  \n- Tray  \n- The glasses are feeling a bit empty, but the tray is always ready to serve up some fun!\n\n- Tray  \n- Paintings  \n- The tray is tired of holding snacks; it wants to be a canvas for the paintings!\n\n- Paintings  \n- Fireplace  \n- The paintings are hanging around, hoping the fireplace will spark some conversation!\n\n- Fireplace  \n- Rug  \n- The fireplace is so hot, it makes the rug feel like it's on fire\u2014figuratively, of course!\n\n- Rug  \n- Bookshelves  \n- The rug is tired of being walked on; it wants to be the star of a story from the bookshelves! \n\n- Bookshelves  \n- Sofa  \n- The bookshelves are stacked with stories, but the sofa is the one that really knows how to relax!",
+    "single_object_dict": {
+        "Sofa": "This sofa's so good at comfort, it's been promoted to 'chief relaxation officer'!",
+        "Cushions": "The cushions' motto is 'support you can count on' \u2013 literally.",
+        "Coffee table": "This coffee table is a 'board' member of the living room's interior design committee.",
+        "Glasses": "These glasses have a clear vision for quenching your thirst.",
+        "Tray": "This tray holds its position well, never spilling the beans about its contents.",
+        "Paintings": "The painting's hanging out, enjoying a bit of wall-time.",
+        "Fireplace": "The fireplace is so cool, it's hot property in the room.",
+        "Rug": "This rug really ties the room together without getting knotty.",
+        "Bookshelves": "The bookshelves are so well-read, they can shelf-help themselves!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Cushions"
+            ],
+            "object_sentence": "The sofa is so comfortable, even the cushions are taking a nap!"
+        },
+        {
+            "main_object": "Cushions",
+            "other_object_list": [
+                "Coffee table"
+            ],
+            "object_sentence": "The cushions are so fluffy, they could start a pillow fight with the coffee table!"
+        },
+        {
+            "main_object": "Coffee table",
+            "other_object_list": [
+                "Glasses"
+            ],
+            "object_sentence": "The coffee table is always the life of the party, but it can't handle the pressure of the glasses!"
+        },
+        {
+            "main_object": "Glasses",
+            "other_object_list": [
+                "Tray"
+            ],
+            "object_sentence": "The glasses are feeling a bit empty, but the tray is always ready to serve up some fun!"
+        },
+        {
+            "main_object": "Tray",
+            "other_object_list": [
+                "Paintings"
+            ],
+            "object_sentence": "The tray is tired of holding snacks; it wants to be a canvas for the paintings!"
+        },
+        {
+            "main_object": "Paintings",
+            "other_object_list": [
+                "Fireplace"
+            ],
+            "object_sentence": "The paintings are hanging around, hoping the fireplace will spark some conversation!"
+        },
+        {
+            "main_object": "Fireplace",
+            "other_object_list": [
+                "Rug"
+            ],
+            "object_sentence": "The fireplace is so hot, it makes the rug feel like it's on fire\u2014figuratively, of course!"
+        },
+        {
+            "main_object": "Rug",
+            "other_object_list": [
+                "Bookshelves"
+            ],
+            "object_sentence": "The rug is tired of being walked on; it wants to be the star of a story from the bookshelves!"
+        },
+        {
+            "main_object": "Bookshelves",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "The bookshelves are stacked with stories, but the sofa is the one that really knows how to relax!"
+        }
+    ]
+}

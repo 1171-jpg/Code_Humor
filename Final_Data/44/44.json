@@ -1,0 +1,48 @@
+{
+    "folder_index": "44",
+    "object_list": [
+        "Tables",
+        "Chairs",
+        "Whiteboard",
+        "Projector screen"
+    ],
+    "whole_object": "The classroom was so quiet you could hear a pin drop, probably because the students were on a roll... to another class!",
+    "single_object": "- Tables: These tables are outstanding in their field\u2014mostly because they never learned how to sit.\n- Chairs: Chairs in this room always stand up for what they believe in\u2014unfortunately, it's usually just the floor.\n- Whiteboard: This whiteboard is truly remarkable\u2014especially when it's clean and can't remember anything.\n- Projector screen: The projector screen is clearly a movie fan\u2014it loves to hang out and watch the pictures come to life.",
+    "multi_object": "- Tables  \n- Chairs  \n- \"These tables are so supportive, they should start a therapy group for chairs with commitment issues!\"  \n\n- Chairs  \n- Whiteboard  \n- \"These chairs are always ready to take a seat at the whiteboard's brainstorming sessions, but they never seem to get any ideas!\"  \n\n- Whiteboard  \n- Projector screen  \n- \"The whiteboard and projector screen are in a constant battle\u2014one wants to draw attention, while the other just wants to project its feelings!\"  \n\n- Projector screen  \n- Tables  \n- \"The projector screen is so dramatic; it always wants to make a scene, but the tables just want to keep things grounded!\"  ",
+    "single_object_dict": {
+        "Tables": "These tables are outstanding in their field\u2014mostly because they never learned how to sit.",
+        "Chairs": "Chairs in this room always stand up for what they believe in\u2014unfortunately, it's usually just the floor.",
+        "Whiteboard": "This whiteboard is truly remarkable\u2014especially when it's clean and can't remember anything.",
+        "Projector screen": "The projector screen is clearly a movie fan\u2014it loves to hang out and watch the pictures come to life."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tables",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These tables are so supportive, they should start a therapy group for chairs with commitment issues!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Whiteboard"
+            ],
+            "object_sentence": "\"These chairs are always ready to take a seat at the whiteboard's brainstorming sessions, but they never seem to get any ideas!\""
+        },
+        {
+            "main_object": "Whiteboard",
+            "other_object_list": [
+                "Projector screen"
+            ],
+            "object_sentence": "\"The whiteboard and projector screen are in a constant battle\u2014one wants to draw attention, while the other just wants to project its feelings!\""
+        },
+        {
+            "main_object": "Projector screen",
+            "other_object_list": [
+                "Tables"
+            ],
+            "object_sentence": "\"The projector screen is so dramatic; it always wants to make a scene, but the tables just want to keep things grounded!\""
+        }
+    ]
+}

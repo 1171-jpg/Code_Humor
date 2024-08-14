@@ -1,0 +1,30 @@
+{
+    "folder_index": "131",
+    "object_list": [
+        "People",
+        "Buildings"
+    ],
+    "whole_object": "As the crowd bustled down the sidewalk, one gentleman's shoulder ninja skills were so stealthy, the pigeons considered taking lessons.",
+    "single_object": "- People: With all the hustle and sidewalk shuffle, it looks like rush hour's got pedestrians playing a game of human Tetris!\n- Buildings: The buildings are gossiping about the sky's outfit today; they think it's a bit too plain and could use some cloud accessories.",
+    "multi_object": "- People  \n- Buildings  \n- \"These people are walking so fast, I think the buildings are trying to catch up with their gossip!\"  \n\n- Buildings  \n- People  \n- \"The buildings are so tall, they must be the ones giving the people a lift in conversation!\"  ",
+    "single_object_dict": {
+        "People": "With all the hustle and sidewalk shuffle, it looks like rush hour's got pedestrians playing a game of human Tetris!",
+        "Buildings": "The buildings are gossiping about the sky's outfit today; they think it's a bit too plain and could use some cloud accessories."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "\"These people are walking so fast, I think the buildings are trying to catch up with their gossip!\""
+        },
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The buildings are so tall, they must be the ones giving the people a lift in conversation!\""
+        }
+    ]
+}

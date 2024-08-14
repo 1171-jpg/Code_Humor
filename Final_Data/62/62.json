@@ -1,0 +1,30 @@
+{
+    "folder_index": "62",
+    "object_list": [
+        "Car",
+        "Building"
+    ],
+    "whole_object": "It seems like the car's got the prime parking 'lot' in life, considering it's 'wheelie' close to all the nearby attractions!",
+    "single_object": "- Car: This car might not be fast, but it's always ahead in parking lot popularity contests.\n- Building: This building is such a concrete example of resilience, it's stayed upright through years of fashion changes.",
+    "multi_object": "- Car  \n- Building  \n- \"This car is so stylish, it could give that building a run for its money in a fashion show!\"  \n\n- Building  \n- Car  \n- \"That building looks like it\u2019s trying to impress the car, but it\u2019s just a little too brick-headed!\"  ",
+    "single_object_dict": {
+        "Car": "This car might not be fast, but it's always ahead in parking lot popularity contests.",
+        "Building": "This building is such a concrete example of resilience, it's stayed upright through years of fashion changes."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"This car is so stylish, it could give that building a run for its money in a fashion show!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"That building looks like it\u2019s trying to impress the car, but it\u2019s just a little too brick-headed!\""
+        }
+    ]
+}

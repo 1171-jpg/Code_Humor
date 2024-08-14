@@ -1,0 +1,93 @@
+{
+    "folder_index": "99",
+    "object_list": [
+        "Tables",
+        "Chairs",
+        "Paintings",
+        "Windows",
+        "Napkins",
+        "Candles",
+        "Glasses",
+        "Plates",
+        "Cutlery"
+    ],
+    "whole_object": "\"When it comes to dining here, they really put the 'win' in 'window' with that view!\" - Utilizing wordplay by playing off the phrase \"put the 'win' in 'window'\" to create a clever comment about the dining experience offered by the restaurant with the scenic view outside the window.",
+    "single_object": "- Tables: \"I told my table it was too flat, but it just said, 'I\u2019m just trying to keep things level!'\"\n- Chairs: \"Why did the chair break up with the table? It just couldn't handle the pressure!\"\n- Paintings: \"These paintings are so good, they should be hanging out with the cool kids\u2014oh wait, they already are!\"\n- Windows: \"I asked the window how it felt about the weather, and it said, 'I\u2019m just trying to keep it clear!'\"\n- Napkins: \"I tried to fold my napkin into a swan, but it just flapped back and said, 'I\u2019m not that kind of cloth!'\"\n- Candles: \"These candles are so bright, they could light up a room... or at least a really dark corner!\"\n- Glasses: \"I told my glasses they were looking sharp, and they replied, 'Thanks, I always aim to focus!'\"\n- Plates: \"My plate is on a diet; it just can't handle all the weight of expectations!\"\n- Cutlery: \"The fork and knife had a heated argument, but the spoon just wanted to stir the pot!\"",
+    "multi_object": "- Tables  \n- Chairs  \n- \"These tables are so well-dressed, they could host a fashion show with the chairs as their runway models!\"  \n\n- Chairs  \n- Napkins  \n- \"These chairs are so comfortable, even the napkins are folding themselves into cozy little blankets!\"  \n\n- Paintings  \n- Windows  \n- \"The paintings are so captivating, even the windows are peeking in for a better view!\"  \n\n- Windows  \n- Candles  \n- \"These windows are so clear, they could give the candles a run for their money in the 'light up the room' competition!\"  \n\n- Napkins  \n- Plates  \n- \"These napkins are so fancy, they make the plates feel like they're just here for the food!\"  \n\n- Candles  \n- Glasses  \n- \"These candles are burning bright, but they still can't outshine the glasses when it comes to raising a toast!\"  \n\n- Glasses  \n- Cutlery  \n- \"These glasses are so full of themselves, they think they can outshine the cutlery at a dinner party!\"  \n\n- Plates  \n- Tables  \n- \"These plates are so stacked with food, they\u2019re practically auditioning for a role in a table-top circus!\"  \n\n- Cutlery  \n- Paintings  \n- \"This cutlery is so sharp, it could slice through the competition with the paintings hanging around!\"  ",
+    "single_object_dict": {
+        "Tables": "\"I told my table it was too flat, but it just said, 'I\u2019m just trying to keep things level!'\"",
+        "Chairs": "\"Why did the chair break up with the table? It just couldn't handle the pressure!\"",
+        "Paintings": "\"These paintings are so good, they should be hanging out with the cool kids\u2014oh wait, they already are!\"",
+        "Windows": "\"I asked the window how it felt about the weather, and it said, 'I\u2019m just trying to keep it clear!'\"",
+        "Napkins": "\"I tried to fold my napkin into a swan, but it just flapped back and said, 'I\u2019m not that kind of cloth!'\"",
+        "Candles": "\"These candles are so bright, they could light up a room... or at least a really dark corner!\"",
+        "Glasses": "\"I told my glasses they were looking sharp, and they replied, 'Thanks, I always aim to focus!'\"",
+        "Plates": "\"My plate is on a diet; it just can't handle all the weight of expectations!\"",
+        "Cutlery": "\"The fork and knife had a heated argument, but the spoon just wanted to stir the pot!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tables",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These tables are so well-dressed, they could host a fashion show with the chairs as their runway models!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Napkins"
+            ],
+            "object_sentence": "\"These chairs are so comfortable, even the napkins are folding themselves into cozy little blankets!\""
+        },
+        {
+            "main_object": "Paintings",
+            "other_object_list": [
+                "Windows"
+            ],
+            "object_sentence": "\"The paintings are so captivating, even the windows are peeking in for a better view!\""
+        },
+        {
+            "main_object": "Windows",
+            "other_object_list": [
+                "Candles"
+            ],
+            "object_sentence": "\"These windows are so clear, they could give the candles a run for their money in the 'light up the room' competition!\""
+        },
+        {
+            "main_object": "Napkins",
+            "other_object_list": [
+                "Plates"
+            ],
+            "object_sentence": "\"These napkins are so fancy, they make the plates feel like they're just here for the food!\""
+        },
+        {
+            "main_object": "Candles",
+            "other_object_list": [
+                "Glasses"
+            ],
+            "object_sentence": "\"These candles are burning bright, but they still can't outshine the glasses when it comes to raising a toast!\""
+        },
+        {
+            "main_object": "Glasses",
+            "other_object_list": [
+                "Cutlery"
+            ],
+            "object_sentence": "\"These glasses are so full of themselves, they think they can outshine the cutlery at a dinner party!\""
+        },
+        {
+            "main_object": "Plates",
+            "other_object_list": [
+                "Tables"
+            ],
+            "object_sentence": "\"These plates are so stacked with food, they\u2019re practically auditioning for a role in a table-top circus!\""
+        },
+        {
+            "main_object": "Cutlery",
+            "other_object_list": [
+                "Paintings"
+            ],
+            "object_sentence": "\"This cutlery is so sharp, it could slice through the competition with the paintings hanging around!\""
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "folder_index": "6",
+    "object_list": [
+        "Apple",
+        "Water bottle",
+        "Plate",
+        "Fork",
+        "Glasses",
+        "Sauce packet",
+        "Bowl",
+        "Pan",
+        "Chair",
+        "Napkin"
+    ],
+    "whole_object": "Contrary to popular belief, this apple refused to keep the doctor away - it's signed up for med school instead!",
+    "single_object": "- Apple: This apple is feeling a bit peckish, itching to take a byte out of life!\n- Water bottle: The water bottle's dreams of being a pop star burst when it realized it could only do water-falls.\n- Plate: After the meal, the plate couldn't help but dish out its empty feelings.\n- Fork: The fork always thought its life had a point until it met a spoon.\n- Glasses: The glasses didn't see the humor until they looked at everything with a tint of irony.\n- Sauce packet: This sauce packet is just trying to ketch-up with the rest of the condiments.\n- Bowl: The bowl went on strike wanting to be recognized for carrying the weight of every meal.\n- Pan: The pan always wanted to be in the limelight, but it just kept getting burned.\n- Chair: The chair complained about always being taken for granite until it stood up for itself.\n- Napkin: The napkin was torn between folding under pressure and wiping away its problems.",
+    "multi_object": "- Apple  \n- Water bottle  \n- \"I told the water bottle to stay hydrated, but it just couldn't ketchup with my apple-a-day routine!\"  \n\n- Water bottle  \n- Plate  \n- \"The water bottle tried to make a splash, but the plate just said, 'I'm already full of drama!'\"  \n\n- Plate  \n- Fork  \n- \"The plate and fork had a heated debate, but in the end, they decided to just dish it out!\"  \n\n- Fork  \n- Glasses  \n- \"The fork tried to impress the glasses, but they just couldn't see the point!\"  \n\n- Glasses  \n- Sauce packet  \n- \"The glasses thought the sauce packet was a little too saucy for their taste!\"  \n\n- Sauce packet  \n- Bowl  \n- \"The sauce packet claimed it was the life of the party, but the bowl just said, 'I\u2019m the one holding all the fun!'\"  \n\n- Bowl  \n- Pan  \n- \"The bowl told the pan it was tired of being empty, but the pan just said, 'You need to stir things up!'\"  \n\n- Pan  \n- Chair  \n- \"The pan tried to sit on the chair, but the chair said, 'I can't handle that kind of heat!'\"  \n\n- Chair  \n- Napkin  \n- \"The chair asked the napkin for a clean slate, but the napkin replied, 'I\u2019m just here to wipe the slate clean!'\"  \n\n- Napkin  \n- Apple  \n- \"The napkin was ready for a spill, but the apple just rolled its eyes and said, 'I\u2019m not that kind of fruit!'\"  ",
+    "single_object_dict": {
+        "Apple": "This apple is feeling a bit peckish, itching to take a byte out of life!",
+        "Water bottle": "The water bottle's dreams of being a pop star burst when it realized it could only do water-falls.",
+        "Plate": "After the meal, the plate couldn't help but dish out its empty feelings.",
+        "Fork": "The fork always thought its life had a point until it met a spoon.",
+        "Glasses": "The glasses didn't see the humor until they looked at everything with a tint of irony.",
+        "Sauce packet": "This sauce packet is just trying to ketch-up with the rest of the condiments.",
+        "Bowl": "The bowl went on strike wanting to be recognized for carrying the weight of every meal.",
+        "Pan": "The pan always wanted to be in the limelight, but it just kept getting burned.",
+        "Chair": "The chair complained about always being taken for granite until it stood up for itself.",
+        "Napkin": "The napkin was torn between folding under pressure and wiping away its problems."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Apple",
+            "other_object_list": [
+                "Water bottle"
+            ],
+            "object_sentence": "\"I told the water bottle to stay hydrated, but it just couldn't ketchup with my apple-a-day routine!\""
+        },
+        {
+            "main_object": "Water bottle",
+            "other_object_list": [
+                "Plate"
+            ],
+            "object_sentence": "\"The water bottle tried to make a splash, but the plate just said, 'I'm already full of drama!'\""
+        },
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Fork"
+            ],
+            "object_sentence": "\"The plate and fork had a heated debate, but in the end, they decided to just dish it out!\""
+        },
+        {
+            "main_object": "Fork",
+            "other_object_list": [
+                "Glasses"
+            ],
+            "object_sentence": "\"The fork tried to impress the glasses, but they just couldn't see the point!\""
+        },
+        {
+            "main_object": "Glasses",
+            "other_object_list": [
+                "Sauce packet"
+            ],
+            "object_sentence": "\"The glasses thought the sauce packet was a little too saucy for their taste!\""
+        },
+        {
+            "main_object": "Sauce packet",
+            "other_object_list": [
+                "Bowl"
+            ],
+            "object_sentence": "\"The sauce packet claimed it was the life of the party, but the bowl just said, 'I\u2019m the one holding all the fun!'\""
+        },
+        {
+            "main_object": "Bowl",
+            "other_object_list": [
+                "Pan"
+            ],
+            "object_sentence": "\"The bowl told the pan it was tired of being empty, but the pan just said, 'You need to stir things up!'\""
+        },
+        {
+            "main_object": "Pan",
+            "other_object_list": [
+                "Chair"
+            ],
+            "object_sentence": "\"The pan tried to sit on the chair, but the chair said, 'I can't handle that kind of heat!'\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Napkin"
+            ],
+            "object_sentence": "\"The chair asked the napkin for a clean slate, but the napkin replied, 'I\u2019m just here to wipe the slate clean!'\""
+        },
+        {
+            "main_object": "Napkin",
+            "other_object_list": [
+                "Apple"
+            ],
+            "object_sentence": "\"The napkin was ready for a spill, but the apple just rolled its eyes and said, 'I\u2019m not that kind of fruit!'\""
+        }
+    ]
+}

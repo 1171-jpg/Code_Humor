@@ -1,0 +1,84 @@
+{
+    "folder_index": "19",
+    "object_list": [
+        "Printer",
+        "Monitor",
+        "Keyboard",
+        "Mouse",
+        "Computer tower",
+        "Chair",
+        "Tape",
+        "Paper"
+    ],
+    "whole_object": "This computer lab is so old school, it's practically a history lesson in tech-archaeology\u2014keyboardosaurs and mousasauruses included!",
+    "single_object": "- Printer: This printer must have a 'toner' body from all that heavy lifting of words.\n- Monitor: When it comes to size, this monitor is clearly not in the 'resolution.'\n- Keyboard: They say this keyboard once went on a diet and lost all its 'function' keys.\n- Mouse: The mouse felt cornered, but it wasn't a trap, just the end of the mousepad.\n- Computer tower: This computer tower stands tall, clearly it doesn't have a 'byte' size complex.\n- Chair: The chair looks stable, though rumors say it's been supporting backsides for too long.\n- Tape: This tape must feel 'stationery,' sitting there while the world sticks together.\n- Paper: The paper lays flat, hoping not to be 'crumpled' under the pressure of the next print job.",
+    "multi_object": "- Printer  \n- Monitor  \n- \"The printer and the monitor are in a constant battle: one wants to make copies, while the other just wants to display the drama!\"  \n\n- Monitor  \n- Keyboard  \n- \"The monitor told the keyboard, 'I can't see your point, but I can definitely type it out!'\"  \n\n- Keyboard  \n- Mouse  \n- \"The keyboard said to the mouse, 'I may have all the keys, but you\u2019re the one who really clicks with everyone!'\"  \n\n- Mouse  \n- Computer tower  \n- \"The mouse looked at the computer tower and said, 'You may have the power, but I\u2019m the one who really knows how to navigate!'\"  \n\n- Computer tower  \n- Tape  \n- \"The computer tower told the tape, 'You may hold things together, but I\u2019m the one who really connects the dots!'\"  \n\n- Chair  \n- Paper  \n- \"The chair sighed to the paper, 'You may have all the ideas, but I\u2019m the one who supports them!'\"\n\n- Tape  \n- Printer  \n- \"The tape joked with the printer, 'You may print the documents, but I\u2019m the one who really sticks around!'\"  \n\n- Paper  \n- Monitor  \n- \"The paper said to the monitor, 'You may display the news, but I\u2019m the one who gets all the headlines!'\"  ",
+    "single_object_dict": {
+        "Printer": "This printer must have a 'toner' body from all that heavy lifting of words.",
+        "Monitor": "When it comes to size, this monitor is clearly not in the 'resolution.'",
+        "Keyboard": "They say this keyboard once went on a diet and lost all its 'function' keys.",
+        "Mouse": "The mouse felt cornered, but it wasn't a trap, just the end of the mousepad.",
+        "Computer tower": "This computer tower stands tall, clearly it doesn't have a 'byte' size complex.",
+        "Chair": "The chair looks stable, though rumors say it's been supporting backsides for too long.",
+        "Tape": "This tape must feel 'stationery,' sitting there while the world sticks together.",
+        "Paper": "The paper lays flat, hoping not to be 'crumpled' under the pressure of the next print job."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Printer",
+            "other_object_list": [
+                "Monitor"
+            ],
+            "object_sentence": "\"The printer and the monitor are in a constant battle: one wants to make copies, while the other just wants to display the drama!\""
+        },
+        {
+            "main_object": "Monitor",
+            "other_object_list": [
+                "Keyboard"
+            ],
+            "object_sentence": "\"The monitor told the keyboard, 'I can't see your point, but I can definitely type it out!'\""
+        },
+        {
+            "main_object": "Keyboard",
+            "other_object_list": [
+                "Mouse"
+            ],
+            "object_sentence": "\"The keyboard said to the mouse, 'I may have all the keys, but you\u2019re the one who really clicks with everyone!'\""
+        },
+        {
+            "main_object": "Mouse",
+            "other_object_list": [
+                "Computer tower"
+            ],
+            "object_sentence": "\"The mouse looked at the computer tower and said, 'You may have the power, but I\u2019m the one who really knows how to navigate!'\""
+        },
+        {
+            "main_object": "Computer tower",
+            "other_object_list": [
+                "Tape"
+            ],
+            "object_sentence": "\"The computer tower told the tape, 'You may hold things together, but I\u2019m the one who really connects the dots!'\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Paper"
+            ],
+            "object_sentence": "\"The chair sighed to the paper, 'You may have all the ideas, but I\u2019m the one who supports them!'\""
+        },
+        {
+            "main_object": "Tape",
+            "other_object_list": [
+                "Printer"
+            ],
+            "object_sentence": "\"The tape joked with the printer, 'You may print the documents, but I\u2019m the one who really sticks around!'\""
+        },
+        {
+            "main_object": "Paper",
+            "other_object_list": [
+                "Monitor"
+            ],
+            "object_sentence": "\"The paper said to the monitor, 'You may display the news, but I\u2019m the one who gets all the headlines!'\""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "49",
+    "object_list": [
+        "Buildings",
+        "People"
+    ],
+    "whole_object": "When city buildings play hide and seek, you're always it because they know how to blend in with the skyline!",
+    "single_object": "- Buildings: These buildings aren't just tall; they're skyscraping the surface of humor!\n- People: Rush hour is when the sidewalk becomes the latest model on the cat-walk of life.",
+    "multi_object": "- Buildings  \n- People  \n- These buildings are so tall, they must have a great view of the people trying to find their way in the concrete jungle!\n\n- People  \n- Buildings  \n- The people here are like the buildings\u2014always trying to reach new heights, but sometimes just stuck in a traffic jam!",
+    "single_object_dict": {
+        "Buildings": "These buildings aren't just tall; they're skyscraping the surface of humor!",
+        "People": "Rush hour is when the sidewalk becomes the latest model on the cat-walk of life."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "These buildings are so tall, they must have a great view of the people trying to find their way in the concrete jungle!"
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "The people here are like the buildings\u2014always trying to reach new heights, but sometimes just stuck in a traffic jam!"
+        }
+    ]
+}

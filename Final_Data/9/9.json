@@ -1,0 +1,84 @@
+{
+    "folder_index": "9",
+    "object_list": [
+        "Computers",
+        "Desks",
+        "Chairs",
+        "Bookshelf",
+        "Window",
+        "Papers",
+        "Bulletin board",
+        "Trash bin"
+    ],
+    "whole_object": "In this office, the computers have Windows but seem to have missed the view.",
+    "single_object": "- Computers: The computers in the office were \"processing\" the weekend couldn't come faster.\n- Desks: The desk was noted by peers as \"out-standing\" in its field of holding up paperwork.\n- Chairs: The office chairs, staging a \"sit-in,\" were ready to roll out their demands for more ergonomic features.\n- Bookshelf: The bookshelf was positively \"shelf-assured,\" always keeping the stories in line.\n- Window: The window, ever the \"pane\" in the glass, never failed to reflect on the brighter side of things.\n- Papers: Each sheet on the desk was part of a \"ream\" team, ready to cover every story.\n- Bulletin board: The bulletin board considered itself quite \"tack-ful,\" always sticking to important matters.\n- Trash bin: The trash bin felt it was misunderstood, but it wasn't just full of garbage; it held a lot of \"basket\" cases.",
+    "multi_object": "- Computers  \n- Desks  \n- \"These computers are so smart, they make the desks feel like they're just holding up the weight of the world!\"  \n\n- Desks  \n- Chairs  \n- \"These desks are like the introverts of the office, always supporting the chairs but never wanting to take the spotlight!\"  \n\n- Chairs  \n- Bulletin board  \n- \"These chairs are so comfortable, even the bulletin board is jealous of how much time they get to sit around!\"  \n\n- Bookshelf  \n- Papers  \n- \"This bookshelf is like a librarian's dream, but with all these papers, it feels more like a chaotic book club!\"  \n\n- Window  \n- Trash bin  \n- \"The window is always looking out for fresh air, while the trash bin is just trying to keep things from getting too trashy!\"  \n\n- Papers  \n- Computers  \n- \"These papers are like the gossipers of the office, always spreading rumors about what the computers are up to!\"  \n\n- Bulletin board  \n- Bookshelf  \n- \"The bulletin board is so full of announcements, it makes the bookshelf feel like it's just collecting dust!\"  \n\n- Trash bin  \n- Desks  \n- \"This trash bin is the office's secret keeper, collecting all the desk's dirty little secrets!\"  ",
+    "single_object_dict": {
+        "Computers": "The computers in the office were \"processing\" the weekend couldn't come faster.",
+        "Desks": "The desk was noted by peers as \"out-standing\" in its field of holding up paperwork.",
+        "Chairs": "The office chairs, staging a \"sit-in,\" were ready to roll out their demands for more ergonomic features.",
+        "Bookshelf": "The bookshelf was positively \"shelf-assured,\" always keeping the stories in line.",
+        "Window": "The window, ever the \"pane\" in the glass, never failed to reflect on the brighter side of things.",
+        "Papers": "Each sheet on the desk was part of a \"ream\" team, ready to cover every story.",
+        "Bulletin board": "The bulletin board considered itself quite \"tack-ful,\" always sticking to important matters.",
+        "Trash bin": "The trash bin felt it was misunderstood, but it wasn't just full of garbage; it held a lot of \"basket\" cases."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Computers",
+            "other_object_list": [
+                "Desks"
+            ],
+            "object_sentence": "\"These computers are so smart, they make the desks feel like they're just holding up the weight of the world!\""
+        },
+        {
+            "main_object": "Desks",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These desks are like the introverts of the office, always supporting the chairs but never wanting to take the spotlight!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Bulletin board"
+            ],
+            "object_sentence": "\"These chairs are so comfortable, even the bulletin board is jealous of how much time they get to sit around!\""
+        },
+        {
+            "main_object": "Bookshelf",
+            "other_object_list": [
+                "Papers"
+            ],
+            "object_sentence": "\"This bookshelf is like a librarian's dream, but with all these papers, it feels more like a chaotic book club!\""
+        },
+        {
+            "main_object": "Window",
+            "other_object_list": [
+                "Trash bin"
+            ],
+            "object_sentence": "\"The window is always looking out for fresh air, while the trash bin is just trying to keep things from getting too trashy!\""
+        },
+        {
+            "main_object": "Papers",
+            "other_object_list": [
+                "Computers"
+            ],
+            "object_sentence": "\"These papers are like the gossipers of the office, always spreading rumors about what the computers are up to!\""
+        },
+        {
+            "main_object": "Bulletin board",
+            "other_object_list": [
+                "Bookshelf"
+            ],
+            "object_sentence": "\"The bulletin board is so full of announcements, it makes the bookshelf feel like it's just collecting dust!\""
+        },
+        {
+            "main_object": "Trash bin",
+            "other_object_list": [
+                "Desks"
+            ],
+            "object_sentence": "\"This trash bin is the office's secret keeper, collecting all the desk's dirty little secrets!\""
+        }
+    ]
+}

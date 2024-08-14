@@ -1,0 +1,30 @@
+{
+    "folder_index": "169",
+    "object_list": [
+        "Bread",
+        "Pastries"
+    ],
+    "whole_object": "This bakery is so committed to freshness, even the bread shelves have a \"rise and shine\" policy every morning!",
+    "single_object": "- Bread: \"I loaf you more than butter loves bread!\"\n- Pastries: \"These pastries are so flaky, they could star in their own soap opera!\"",
+    "multi_object": "- Bread  \n- Pastries  \n- \"I told the bread to rise to the occasion, but it just loafed around with the pastries!\"  \n\n- Pastries  \n- Bread  \n- \"The pastries were feeling flaky, but they knew the bread would always roll with the punches!\"  ",
+    "single_object_dict": {
+        "Bread": "\"I loaf you more than butter loves bread!\"",
+        "Pastries": "\"These pastries are so flaky, they could star in their own soap opera!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bread",
+            "other_object_list": [
+                "Pastries"
+            ],
+            "object_sentence": "\"I told the bread to rise to the occasion, but it just loafed around with the pastries!\""
+        },
+        {
+            "main_object": "Pastries",
+            "other_object_list": [
+                "Bread"
+            ],
+            "object_sentence": "\"The pastries were feeling flaky, but they knew the bread would always roll with the punches!\""
+        }
+    ]
+}

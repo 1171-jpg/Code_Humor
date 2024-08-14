@@ -1,0 +1,75 @@
+{
+    "folder_index": "126",
+    "object_list": [
+        "Bus",
+        "People",
+        "Buildings",
+        "Crosswalk",
+        "Cars",
+        "Trash bags",
+        "Street signs"
+    ],
+    "whole_object": "Looks like those people are about to embark on a 'fare-ly' interesting journey \u2013 they're getting a crash course in street-crossing while hitching a ride on the giggle express!",
+    "single_object": "- Bus: When the bus goes on a \"see-food\" diet, it devours the whole city in one tour!\n- People: Pedestrians have their own social network; it's called the sidewalk, and they're constantly updating their \"current location.\"\n- Buildings: The buildings are having a competition to see who can stretch out of bed the tallest in the morning skyline.\n- Crosswalk: The crosswalk is the city's barcode, and every pedestrian is a unique product passing through.\n- Cars: Every car is a rolling karaoke box, but the world's worst singers always seem to have their windows down!\n- Trash bags: The sidewalk's version of a black-tie event includes trash bags wearing their sleekest, shiniest plastic.\n- Street signs: The street signs are the city's oldest teachers, but they only ever teach one lesson: \"Read me or else!\"",
+    "multi_object": "- Bus  \n- People  \n- The bus is so big, it needs its own crosswalk just to let the people know it\u2019s on a sightseeing tour of the city\u2019s best traffic jams!  \n\n- People  \n- Trash bags  \n- The people are dodging the trash bags like they\u2019re in an Olympic event, proving that avoiding garbage is a true art form!  \n\n- Buildings  \n- Cars  \n- The buildings are so tall, they\u2019re giving the cars a complex about their height\u2014talk about a skyscraper complex!  \n\n- Crosswalk  \n- Street signs  \n- The crosswalk is like a dance floor, but the street signs keep changing the music, making everyone do the cha-cha instead of the walk!  \n\n- Cars  \n- Bus  \n- The cars are honking at the bus, but it\u2019s just trying to take a leisurely stroll down the street\u2014who knew buses could be so laid-back?  \n\n- Trash bags  \n- Buildings  \n- The trash bags are plotting to take over the buildings, claiming they have more character than some of the tenants!  \n\n- Street signs  \n- People  \n- The street signs are giving directions, but the people are just following their hearts\u2014clearly, GPS isn\u2019t the only navigation system!  ",
+    "single_object_dict": {
+        "Bus": "When the bus goes on a \"see-food\" diet, it devours the whole city in one tour!",
+        "People": "Pedestrians have their own social network; it's called the sidewalk, and they're constantly updating their \"current location.\"",
+        "Buildings": "The buildings are having a competition to see who can stretch out of bed the tallest in the morning skyline.",
+        "Crosswalk": "The crosswalk is the city's barcode, and every pedestrian is a unique product passing through.",
+        "Cars": "Every car is a rolling karaoke box, but the world's worst singers always seem to have their windows down!",
+        "Trash bags": "The sidewalk's version of a black-tie event includes trash bags wearing their sleekest, shiniest plastic.",
+        "Street signs": "The street signs are the city's oldest teachers, but they only ever teach one lesson"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bus",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "The bus is so big, it needs its own crosswalk just to let the people know it\u2019s on a sightseeing tour of the city\u2019s best traffic jams!"
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Trash bags"
+            ],
+            "object_sentence": "The people are dodging the trash bags like they\u2019re in an Olympic event, proving that avoiding garbage is a true art form!"
+        },
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "The buildings are so tall, they\u2019re giving the cars a complex about their height\u2014talk about a skyscraper complex!"
+        },
+        {
+            "main_object": "Crosswalk",
+            "other_object_list": [
+                "Street signs"
+            ],
+            "object_sentence": "The crosswalk is like a dance floor, but the street signs keep changing the music, making everyone do the cha-cha instead of the walk!"
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Bus"
+            ],
+            "object_sentence": "The cars are honking at the bus, but it\u2019s just trying to take a leisurely stroll down the street\u2014who knew buses could be so laid-back?"
+        },
+        {
+            "main_object": "Trash bags",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "The trash bags are plotting to take over the buildings, claiming they have more character than some of the tenants!"
+        },
+        {
+            "main_object": "Street signs",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "The street signs are giving directions, but the people are just following their hearts\u2014clearly, GPS isn\u2019t the only navigation system!"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "170",
+    "object_list": [
+        "Bar counter",
+        "Bar stools"
+    ],
+    "whole_object": "It seems the bar stools are so engaging, even the shadows can't resist sitting down for a pint.",
+    "single_object": "- Bar counter: This bar counter's so polished, it reflects better on you than a room full of mirrors!\n- Bar stools: These bar stools must moonlight as magicians \u2013 every time I sit, my worries disappear!",
+    "multi_object": "- Bar counter  \n- Bar stools  \n- The bar counter is so polished, it could double as a runway for bar stools strutting their stuff!  \n\n- Bar stools  \n- Bar counter  \n- These bar stools are so supportive, they should start a motivational podcast with the bar counter as their co-host!",
+    "single_object_dict": {
+        "Bar counter": "This bar counter's so polished, it reflects better on you than a room full of mirrors!",
+        "Bar stools": "These bar stools must moonlight as magicians \u2013 every time I sit, my worries disappear!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bar counter",
+            "other_object_list": [
+                "Bar stools"
+            ],
+            "object_sentence": "The bar counter is so polished, it could double as a runway for bar stools strutting their stuff!"
+        },
+        {
+            "main_object": "Bar stools",
+            "other_object_list": [
+                "Bar counter"
+            ],
+            "object_sentence": "These bar stools are so supportive, they should start a motivational podcast with the bar counter as their co-host!"
+        }
+    ]
+}

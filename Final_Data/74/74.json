@@ -1,0 +1,84 @@
+{
+    "folder_index": "74",
+    "object_list": [
+        "Tables",
+        "Chairs",
+        "Television",
+        "Bar counter",
+        "Plants",
+        "Lights",
+        "Menu board",
+        "Bar stools"
+    ],
+    "whole_object": "This pub is so quiet, you can hear a pint drop!",
+    "single_object": "- Tables: These tables are outstanding in their field \u2013 especially since there's no field around.\n- Chairs: These chairs are always supportive, even when you take their seats for granted.\n- Television: The television is truly flat-out entertaining.\n- Bar counter: This bar counter serves more spirits than a haunted mansion.\n- Plants: These plants are so good at photosynthesis, they really know how to turn the lights on.\n- Lights: These lights never get bright ideas; they're too busy illuminating others.\n- Menu board: This menu board is where chalk outlines of today's specials are found \u2013 no crime scene, just fine cuisine!\n- Bar stools: The bar stools are the best in 'supporting roles,' always under the limelight.",
+    "multi_object": "- Tables  \n- Chairs  \n- \"These tables are so supportive, they always have a chair-ishing attitude!\"  \n\n- Chairs  \n- Bar counter  \n- \"These chairs are just waiting for the bar counter to spill the tea!\"  \n\n- Television  \n- Menu board  \n- \"The television is always tuned in, but the menu board is the real star of the show with its delicious drama!\"  \n\n- Bar counter  \n- Plants  \n- \"The bar counter is so popular, even the plants are trying to get a drink!\"  \n\n- Plants  \n- Lights  \n- \"These plants are thriving under the lights, proving that even greenery needs a little spotlight!\"  \n\n- Lights  \n- Tables  \n- \"The lights are so bright, they make the tables feel like they\u2019re on a reality show!\"  \n\n- Menu board  \n- Bar stools  \n- \"The menu board is so enticing, even the bar stools are getting a little wobbly with excitement!\"  \n\n- Bar stools  \n- Chairs  \n- \"These bar stools are always trying to outshine the chairs, but they just can\u2019t handle the seat pressure!\"  ",
+    "single_object_dict": {
+        "Tables": "These tables are outstanding in their field \u2013 especially since there's no field around.",
+        "Chairs": "These chairs are always supportive, even when you take their seats for granted.",
+        "Television": "The television is truly flat-out entertaining.",
+        "Bar counter": "This bar counter serves more spirits than a haunted mansion.",
+        "Plants": "These plants are so good at photosynthesis, they really know how to turn the lights on.",
+        "Lights": "These lights never get bright ideas; they're too busy illuminating others.",
+        "Menu board": "This menu board is where chalk outlines of today's specials are found \u2013 no crime scene, just fine cuisine!",
+        "Bar stools": "The bar stools are the best in 'supporting roles,' always under the limelight."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tables",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These tables are so supportive, they always have a chair-ishing attitude!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Bar counter"
+            ],
+            "object_sentence": "\"These chairs are just waiting for the bar counter to spill the tea!\""
+        },
+        {
+            "main_object": "Television",
+            "other_object_list": [
+                "Menu board"
+            ],
+            "object_sentence": "\"The television is always tuned in, but the menu board is the real star of the show with its delicious drama!\""
+        },
+        {
+            "main_object": "Bar counter",
+            "other_object_list": [
+                "Plants"
+            ],
+            "object_sentence": "\"The bar counter is so popular, even the plants are trying to get a drink!\""
+        },
+        {
+            "main_object": "Plants",
+            "other_object_list": [
+                "Lights"
+            ],
+            "object_sentence": "\"These plants are thriving under the lights, proving that even greenery needs a little spotlight!\""
+        },
+        {
+            "main_object": "Lights",
+            "other_object_list": [
+                "Tables"
+            ],
+            "object_sentence": "\"The lights are so bright, they make the tables feel like they\u2019re on a reality show!\""
+        },
+        {
+            "main_object": "Menu board",
+            "other_object_list": [
+                "Bar stools"
+            ],
+            "object_sentence": "\"The menu board is so enticing, even the bar stools are getting a little wobbly with excitement!\""
+        },
+        {
+            "main_object": "Bar stools",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These bar stools are always trying to outshine the chairs, but they just can\u2019t handle the seat pressure!\""
+        }
+    ]
+}

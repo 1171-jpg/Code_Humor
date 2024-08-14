@@ -1,0 +1,30 @@
+{
+    "folder_index": "104",
+    "object_list": [
+        "Car",
+        "Bicycle"
+    ],
+    "whole_object": "Well, it looks like this car's been through a lot, now it's truly a car-bon copy of a dirt road!",
+    "single_object": "- Car: This car's favorite song must be 'Dirty Dancing' because it's absolutely nailing the 'mudslide' move!\n- Bicycle: It's too \"tired\" to go out today; it's taking a \"brake\" from the usual \"cycle\" of things.",
+    "multi_object": "- Car  \n- Bicycle  \n- \"This car is so dirty, it looks like it took a mud bath while the bicycle was out for a spin!\"  \n\n- Bicycle  \n- Car  \n- \"The bicycle said, 'I may be two-tired, but at least I don\u2019t need a car wash to look good!'\"  ",
+    "single_object_dict": {
+        "Car": "This car's favorite song must be 'Dirty Dancing' because it's absolutely nailing the 'mudslide' move!",
+        "Bicycle": "It's too \"tired\" to go out today; it's taking a \"brake\" from the usual \"cycle\" of things."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"This car is so dirty, it looks like it took a mud bath while the bicycle was out for a spin!\""
+        },
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The bicycle said, 'I may be two-tired, but at least I don\u2019t need a car wash to look good!'\""
+        }
+    ]
+}

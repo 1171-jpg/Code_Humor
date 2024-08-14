@@ -1,0 +1,30 @@
+{
+    "folder_index": "189",
+    "object_list": [
+        "Lion",
+        "Grassland"
+    ],
+    "whole_object": "Oh, I just spotted the mane attraction of the savannah doing his impawsible version of hide and seek!",
+    "single_object": "- Lion: When the lion's mane event is just chilling in the grassland, you know it's going to be a roaring good time!\n- Grassland: This grassland is so vast it makes the grandest of canyons look merely okay-ish.",
+    "multi_object": "- Lion  \n- Grassland  \n- \"Why did the lion sit in the grassland? Because he wanted to be the mane attraction!\"  \n\n- Grassland  \n- Lion  \n- \"The grassland said to the lion, 'You may be king, but I\u2019m the one with all the green!'\u201d",
+    "single_object_dict": {
+        "Lion": "When the lion's mane event is just chilling in the grassland, you know it's going to be a roaring good time!",
+        "Grassland": "This grassland is so vast it makes the grandest of canyons look merely okay-ish."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Lion",
+            "other_object_list": [
+                "Grassland"
+            ],
+            "object_sentence": "\"Why did the lion sit in the grassland? Because he wanted to be the mane attraction!\""
+        },
+        {
+            "main_object": "Grassland",
+            "other_object_list": [
+                "Lion"
+            ],
+            "object_sentence": "\"The grassland said to the lion, 'You may be king, but I\u2019m the one with all the green!'\u201d"
+        }
+    ]
+}

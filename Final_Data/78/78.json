@@ -1,0 +1,57 @@
+{
+    "folder_index": "78",
+    "object_list": [
+        "Computers",
+        "Projector",
+        "Desks",
+        "Chairs",
+        "Screen"
+    ],
+    "whole_object": "It seems the screens in this classroom are really trying to excel in their field, but they're all just projecting an image!",
+    "single_object": "- Computers: These computers must be great comedians \u2013 they have a lot of good bytes.\n- Projector: This projector is so old school, it still thinks powerpoint is the peak of visual effects.\n- Desks: This desk's career is flat out impressive \u2013 it's a top-notch surface performer.\n- Chairs: These chairs must be in politics, they always back up the sitting member.\n- Screen: This screen has seen so much drama, it\u2019s considering a career in acting.",
+    "multi_object": "- Computers  \n- Projector  \n- \"These computers are so bright, they might just outshine the projector at the next talent show!\"  \n\n- Projector  \n- Desks  \n- \"The projector is feeling a bit overshadowed by the desks; it just wants to beam with pride!\"  \n\n- Desks  \n- Chairs  \n- \"The desks are tired of being the support system; they wish the chairs would take a seat and share the load!\"  \n\n- Chairs  \n- Screen  \n- \"These chairs are ready for a movie night, but the screen keeps saying, 'I\u2019m not just a pretty face!'\"  \n\n- Screen  \n- Computers  \n- \"The screen is tired of being the main attraction; it thinks the computers should take a byte out of the spotlight!\"  ",
+    "single_object_dict": {
+        "Computers": "These computers must be great comedians \u2013 they have a lot of good bytes.",
+        "Projector": "This projector is so old school, it still thinks powerpoint is the peak of visual effects.",
+        "Desks": "This desk's career is flat out impressive \u2013 it's a top-notch surface performer.",
+        "Chairs": "These chairs must be in politics, they always back up the sitting member.",
+        "Screen": "This screen has seen so much drama, it\u2019s considering a career in acting."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Computers",
+            "other_object_list": [
+                "Projector"
+            ],
+            "object_sentence": "\"These computers are so bright, they might just outshine the projector at the next talent show!\""
+        },
+        {
+            "main_object": "Projector",
+            "other_object_list": [
+                "Desks"
+            ],
+            "object_sentence": "\"The projector is feeling a bit overshadowed by the desks; it just wants to beam with pride!\""
+        },
+        {
+            "main_object": "Desks",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"The desks are tired of being the support system; they wish the chairs would take a seat and share the load!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Screen"
+            ],
+            "object_sentence": "\"These chairs are ready for a movie night, but the screen keeps saying, 'I\u2019m not just a pretty face!'\""
+        },
+        {
+            "main_object": "Screen",
+            "other_object_list": [
+                "Computers"
+            ],
+            "object_sentence": "\"The screen is tired of being the main attraction; it thinks the computers should take a byte out of the spotlight!\""
+        }
+    ]
+}

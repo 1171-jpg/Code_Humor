@@ -1,0 +1,30 @@
+{
+    "folder_index": "130",
+    "object_list": [
+        "Building",
+        "Trees"
+    ],
+    "whole_object": "After visiting the Marzipan Museum, it's clear that even the most bittersweet moments can be sugar-coated with a little creativity!",
+    "single_object": "- Building: This building is truly outstanding \u2013 it's always up to some floor-ish business!\n- Trees: These trees must be the best comedians in the park because they're outstanding in their field, always leaving the audience in stitches!",
+    "multi_object": "- Building  \n- Trees  \n- This building is so sweet, it could give the trees a sugar rush just by standing next to it!  \n\n- Trees  \n- Building  \n- These trees are so tall, they must be trying to reach the roof of the building for a sweet selfie!",
+    "single_object_dict": {
+        "Building": "This building is truly outstanding \u2013 it's always up to some floor-ish business!",
+        "Trees": "These trees must be the best comedians in the park because they're outstanding in their field, always leaving the audience in stitches!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "This building is so sweet, it could give the trees a sugar rush just by standing next to it!"
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "These trees are so tall, they must be trying to reach the roof of the building for a sweet selfie!"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "27",
+    "object_list": [
+        "Table",
+        "Chairs"
+    ],
+    "whole_object": "This meeting room's so quiet, you could hear a pin drop, which is great because the pins have been planning a hostile takeover for weeks now.",
+    "single_object": "- Table: This table is such a board room staple, it's almost pun-furniture, always ready to table a discussion!\n- Chairs: These chairs are always taking a back seat when it comes to room decor, but today they stand up to be counted!",
+    "multi_object": "- Table  \n- Chairs  \n- The table is feeling a bit lonely; it\u2019s just waiting for the chairs to come and sit down for a serious chat about their seating arrangements!  \n\n- Chairs  \n- Table  \n- These chairs are tired of being pushed around; they want to take a stand and demand a more exciting table to gather around!  ",
+    "single_object_dict": {
+        "Table": "This table is such a board room staple, it's almost pun-furniture, always ready to table a discussion!",
+        "Chairs": "These chairs are always taking a back seat when it comes to room decor, but today they stand up to be counted!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "The table is feeling a bit lonely; it\u2019s just waiting for the chairs to come and sit down for a serious chat about their seating arrangements!"
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "These chairs are tired of being pushed around; they want to take a stand and demand a more exciting table to gather around!"
+        }
+    ]
+}

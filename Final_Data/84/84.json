@@ -1,0 +1,120 @@
+{
+    "folder_index": "84",
+    "object_list": [
+        "Table",
+        "Lamp",
+        "Flowers",
+        "Sofa",
+        "Cushions",
+        "Books",
+        "Glasses",
+        "Tray",
+        "Curtains",
+        "Door",
+        "Mirror",
+        "Chair"
+    ],
+    "whole_object": "This room's so sunny, even the flowers are trying to put down roots on the table, while the chairs are just lounging around!",
+    "single_object": "- Table: \"I told the table to stand up for itself, but it just couldn't find its legs!\"\n- Lamp: \"Why did the lamp break up with the light bulb? It found someone who really brightened its day!\"\n- Flowers: \"These flowers are so vibrant, they must have taken a few selfies in the sun!\"\n- Sofa: \"The sofa is so comfortable, it should really consider a career in relaxation therapy!\"\n- Cushions: \"These cushions are like comedians; they always know how to lighten the mood!\"\n- Books: \"These books are so well-read, they should start charging for their life advice!\"\n- Glasses: \"These glasses are always looking for a good time, but they just can't seem to focus!\"\n- Tray: \"The tray is feeling a bit flat; it just wants to elevate its serving game!\"\n- Curtains: \"These curtains are so dramatic, they could win an Oscar for best performance in a living room!\"\n- Door: \"The door is always open to new opportunities, but it really hates being pushed around!\"\n- Mirror: \"The mirror is a real narcissist; it just can't stop reflecting on itself!\"\n- Chair: \"This chair is so supportive, it should consider a career in counseling!\"",
+    "multi_object": "- Table  \n- Lamp  \n- \"The table was feeling a bit dim until the lamp decided to brighten up the mood!\"  \n\n- Lamp  \n- Flowers  \n- \"The lamp tried to steal the spotlight, but the flowers were blooming with confidence!\"  \n\n- Flowers  \n- Sofa  \n- \"The flowers were so vibrant that even the sofa felt like it needed a makeover!\"  \n\n- Sofa  \n- Cushions  \n- \"The sofa and cushions were in a heated debate about who was more comfortable\u2014spoiler alert: it was a soft landing!\"  \n\n- Cushions  \n- Books  \n- \"The cushions were so fluffy that the books were jealous they couldn't take a nap!\"  \n\n- Books  \n- Glasses  \n- \"The books were feeling a little blurry until the glasses showed up to help them focus!\"  \n\n- Glasses  \n- Tray  \n- \"The glasses were ready for a toast, but the tray was just trying to keep it all together!\"  \n\n- Tray  \n- Curtains  \n- \"The tray was feeling a bit exposed until the curtains swooped in for a dramatic cover-up!\"  \n\n- Curtains  \n- Door  \n- \"The curtains were always ready to make a grand entrance, but the door just wanted to keep things on the down-low!\"  \n\n- Door  \n- Mirror  \n- \"The door thought it was the entrance to a grand adventure, but the mirror just reflected on its past!\"  \n\n- Mirror  \n- Chair  \n- \"The mirror was always reflecting on its life choices, while the chair just wanted to take a seat and relax!\"  \n\n- Chair  \n- Table  \n- \"The chair was tired of being overlooked, so it decided to pull up to the table and join the conversation!\"  ",
+    "single_object_dict": {
+        "Table": "\"I told the table to stand up for itself, but it just couldn't find its legs!\"",
+        "Lamp": "\"Why did the lamp break up with the light bulb? It found someone who really brightened its day!\"",
+        "Flowers": "\"These flowers are so vibrant, they must have taken a few selfies in the sun!\"",
+        "Sofa": "\"The sofa is so comfortable, it should really consider a career in relaxation therapy!\"",
+        "Cushions": "\"These cushions are like comedians; they always know how to lighten the mood!\"",
+        "Books": "\"These books are so well-read, they should start charging for their life advice!\"",
+        "Glasses": "\"These glasses are always looking for a good time, but they just can't seem to focus!\"",
+        "Tray": "\"The tray is feeling a bit flat; it just wants to elevate its serving game!\"",
+        "Curtains": "\"These curtains are so dramatic, they could win an Oscar for best performance in a living room!\"",
+        "Door": "\"The door is always open to new opportunities, but it really hates being pushed around!\"",
+        "Mirror": "\"The mirror is a real narcissist; it just can't stop reflecting on itself!\"",
+        "Chair": "\"This chair is so supportive, it should consider a career in counseling!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"The table was feeling a bit dim until the lamp decided to brighten up the mood!\""
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"The lamp tried to steal the spotlight, but the flowers were blooming with confidence!\""
+        },
+        {
+            "main_object": "Flowers",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "\"The flowers were so vibrant that even the sofa felt like it needed a makeover!\""
+        },
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Cushions"
+            ],
+            "object_sentence": "\"The sofa and cushions were in a heated debate about who was more comfortable\u2014spoiler alert: it was a soft landing!\""
+        },
+        {
+            "main_object": "Cushions",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "\"The cushions were so fluffy that the books were jealous they couldn't take a nap!\""
+        },
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "Glasses"
+            ],
+            "object_sentence": "\"The books were feeling a little blurry until the glasses showed up to help them focus!\""
+        },
+        {
+            "main_object": "Glasses",
+            "other_object_list": [
+                "Tray"
+            ],
+            "object_sentence": "\"The glasses were ready for a toast, but the tray was just trying to keep it all together!\""
+        },
+        {
+            "main_object": "Tray",
+            "other_object_list": [
+                "Curtains"
+            ],
+            "object_sentence": "\"The tray was feeling a bit exposed until the curtains swooped in for a dramatic cover-up!\""
+        },
+        {
+            "main_object": "Curtains",
+            "other_object_list": [
+                "Door"
+            ],
+            "object_sentence": "\"The curtains were always ready to make a grand entrance, but the door just wanted to keep things on the down-low!\""
+        },
+        {
+            "main_object": "Door",
+            "other_object_list": [
+                "Mirror"
+            ],
+            "object_sentence": "\"The door thought it was the entrance to a grand adventure, but the mirror just reflected on its past!\""
+        },
+        {
+            "main_object": "Mirror",
+            "other_object_list": [
+                "Chair"
+            ],
+            "object_sentence": "\"The mirror was always reflecting on its life choices, while the chair just wanted to take a seat and relax!\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"The chair was tired of being overlooked, so it decided to pull up to the table and join the conversation!\""
+        }
+    ]
+}

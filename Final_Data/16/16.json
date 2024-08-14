@@ -1,0 +1,57 @@
+{
+    "folder_index": "16",
+    "object_list": [
+        "Car",
+        "Sign",
+        "Building",
+        "Sidewalk",
+        "People"
+    ],
+    "whole_object": "When the sidewalk is a runway, these pedestrians truly become 'fashion models' \u2013 strutting their confidence one step at a time, flaunting the latest in 'casual commute couture'.",
+    "single_object": "- Car: This car is so tired, it decided to take a brake.\n- Sign: Talk about mixed signals, this sign meets more directions than a lost tourist.\n- Building: Despite the rumors, this building isn't up for a promotion; it's been story-telling the same level for years.\n- Sidewalk: The sidewalk is always so concrete in its advice, stay grounded.\n- People: They're off to a running start, but let's be honest, it's more of a casual saunter.",
+    "multi_object": "- Car  \n- Sign  \n- \"This car is parked so well, it should get a 'no parking' award for its outstanding performance in staying put!\"  \n\n- Sign  \n- Sidewalk  \n- \"This sign is really trying to make a point, but the sidewalk just wants to keep things moving!\"  \n\n- Building  \n- People  \n- \"The building is so tall, it\u2019s probably giving the people a complex about their height!\"  \n\n- Sidewalk  \n- Car  \n- \"The sidewalk is feeling a bit jealous of the car's smooth ride; it wishes it could roll with the best of them!\"  \n\n- People  \n- Building  \n- \"The people are walking by the building, wondering if it ever gets tired of standing around all day!\"  ",
+    "single_object_dict": {
+        "Car": "This car is so tired, it decided to take a brake.",
+        "Sign": "Talk about mixed signals, this sign meets more directions than a lost tourist.",
+        "Building": "Despite the rumors, this building isn't up for a promotion; it's been story-telling the same level for years.",
+        "Sidewalk": "The sidewalk is always so concrete in its advice, stay grounded.",
+        "People": "They're off to a running start, but let's be honest, it's more of a casual saunter."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Sign"
+            ],
+            "object_sentence": "\"This car is parked so well, it should get a 'no parking' award for its outstanding performance in staying put!\""
+        },
+        {
+            "main_object": "Sign",
+            "other_object_list": [
+                "Sidewalk"
+            ],
+            "object_sentence": "\"This sign is really trying to make a point, but the sidewalk just wants to keep things moving!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The building is so tall, it\u2019s probably giving the people a complex about their height!\""
+        },
+        {
+            "main_object": "Sidewalk",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The sidewalk is feeling a bit jealous of the car's smooth ride; it wishes it could roll with the best of them!\""
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The people are walking by the building, wondering if it ever gets tired of standing around all day!\""
+        }
+    ]
+}

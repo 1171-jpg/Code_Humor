@@ -1,0 +1,84 @@
+{
+    "folder_index": "4",
+    "object_list": [
+        "Floor lamp",
+        "Sofa",
+        "Pillow",
+        "Teddy bear",
+        "Curtains",
+        "Glass table",
+        "Chairs",
+        "Picture frame"
+    ],
+    "whole_object": "When the cat's away, the stuffed animals will play\u2014looks like Teddy's taken the best seat in the house for his bear-thlon of pawsome TV shows.",
+    "single_object": "- Floor lamp: This floor lamp stands so tall, you'd think it was trying to ceiling the deal with the ceiling!\n- Sofa: The sofa's so tired from all the sitting jobs, it's practically reclining its responsibilities.\n- Pillow: The pillow has such a plush job, you'd think it never loses sleep over anything.\n- Teddy bear: The teddy bear sits there like he owns the place, totally un-bear-able entitlement.\n- Curtains: The curtains never act shady, they always come clean about who's coming to the window.\n- Glass table: The glass table is so transparent about its feelings, it can't help reflecting on everything.\n- Chairs: These chairs are such good supporters, they've got your back without any backtalk.\n- Picture frame: This picture frame is quite the character; it's always bordering on the edge of a joke.",
+    "multi_object": "- Floor lamp  \n- Sofa  \n- \"The floor lamp tried to brighten up the sofa's day, but it just ended up casting shade!\"  \n\n- Sofa  \n- Teddy bear  \n- \"The sofa thought it was the comfiest seat in the house, but the teddy bear claimed it was just a plush competition!\"  \n\n- Pillow  \n- Glass table  \n- \"The pillow was feeling a bit deflated after realizing the glass table was the real centerpiece of the room!\"  \n\n- Teddy bear  \n- Curtains  \n- \"The teddy bear tried to peek out from behind the curtains, but they were too busy making a scene!\"  \n\n- Curtains  \n- Picture frame  \n- \"The curtains were always drawn to the picture frame, thinking it was the best view in the house!\"  \n\n- Glass table  \n- Chairs  \n- \"The glass table felt transparent about its feelings, but the chairs just couldn't take a seat on the matter!\"  \n\n- Chairs  \n- Floor lamp  \n- \"The chairs were tired of being left out, so they decided to stand up to the floor lamp's bright ideas!\"  \n\n- Picture frame  \n- Pillow  \n- \"The picture frame was framed for being too picture-perfect, while the pillow just wanted to be the softest star!\"  ",
+    "single_object_dict": {
+        "Floor lamp": "This floor lamp stands so tall, you'd think it was trying to ceiling the deal with the ceiling!",
+        "Sofa": "The sofa's so tired from all the sitting jobs, it's practically reclining its responsibilities.",
+        "Pillow": "The pillow has such a plush job, you'd think it never loses sleep over anything.",
+        "Teddy bear": "The teddy bear sits there like he owns the place, totally un-bear-able entitlement.",
+        "Curtains": "The curtains never act shady, they always come clean about who's coming to the window.",
+        "Glass table": "The glass table is so transparent about its feelings, it can't help reflecting on everything.",
+        "Chairs": "These chairs are such good supporters, they've got your back without any backtalk.",
+        "Picture frame": "This picture frame is quite the character; it's always bordering on the edge of a joke."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Floor lamp",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "\"The floor lamp tried to brighten up the sofa's day, but it just ended up casting shade!\""
+        },
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Teddy bear"
+            ],
+            "object_sentence": "\"The sofa thought it was the comfiest seat in the house, but the teddy bear claimed it was just a plush competition!\""
+        },
+        {
+            "main_object": "Pillow",
+            "other_object_list": [
+                "Glass table"
+            ],
+            "object_sentence": "\"The pillow was feeling a bit deflated after realizing the glass table was the real centerpiece of the room!\""
+        },
+        {
+            "main_object": "Teddy bear",
+            "other_object_list": [
+                "Curtains"
+            ],
+            "object_sentence": "\"The teddy bear tried to peek out from behind the curtains, but they were too busy making a scene!\""
+        },
+        {
+            "main_object": "Curtains",
+            "other_object_list": [
+                "Picture frame"
+            ],
+            "object_sentence": "\"The curtains were always drawn to the picture frame, thinking it was the best view in the house!\""
+        },
+        {
+            "main_object": "Glass table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"The glass table felt transparent about its feelings, but the chairs just couldn't take a seat on the matter!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Floor lamp"
+            ],
+            "object_sentence": "\"The chairs were tired of being left out, so they decided to stand up to the floor lamp's bright ideas!\""
+        },
+        {
+            "main_object": "Picture frame",
+            "other_object_list": [
+                "Pillow"
+            ],
+            "object_sentence": "\"The picture frame was framed for being too picture-perfect, while the pillow just wanted to be the softest star!\""
+        }
+    ]
+}

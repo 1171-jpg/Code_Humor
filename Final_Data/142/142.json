@@ -1,0 +1,84 @@
+{
+    "folder_index": "142",
+    "object_list": [
+        "Fountain",
+        "Benches",
+        "Trees",
+        "Building",
+        "Walkway",
+        "Lamp posts",
+        "Grass",
+        "Bridge"
+    ],
+    "whole_object": "This park is so popular, even the benches are always taken\u2014talk about taking a stand, or in this case, a seat!",
+    "single_object": "- Fountain: This fountain, a splash hit with the local birds, clearly has the best liquid assets in town.\n- Benches: If you're feeling benched by life, just remember, every good rest deserves a pause.\n- Trees: Leaf it to these trees to make sure everyone gets a fair shade of attention.\n- Building: This building's story is quite a tall tale - it's floors above the rest!\n- Walkway: This walkway is always on the right path, leading pedestrians to their destination one step at a time.\n- Lamp posts: By night, these lamp posts really know how to light up a room \u2013 outdoor edition.\n- Grass: This grass may just be a blade in the field of green, but it's outstanding in its own turf.\n- Bridge: The bridge always thought it could span new horizons; turns out it\u2019s quite an overachiever.",
+    "multi_object": "- Fountain  \n- Benches  \n- \"The fountain tried to impress the benches with its splashy personality, but they just sat there, totally unbent!\"  \n\n- Benches  \n- Trees  \n- \"The benches were feeling a bit shady, but the trees assured them it was just their leafy attitude!\"  \n\n- Trees  \n- Building  \n- \"The trees were so tall they thought they could give the building a run for its money, but the building just stood there, brick by brick!\"  \n\n- Building  \n- Walkway  \n- \"The building was so proud of its architecture that it thought the walkway was just a runway for its grand entrance!\"  \n\n- Walkway  \n- Lamp posts  \n- \"The walkway felt a bit dim until the lamp posts showed up, turning it into a bright idea!\"  \n\n- Lamp posts  \n- Grass  \n- \"The lamp posts were always trying to light up the grass, but the grass just wanted to keep things grounded!\"  \n\n- Grass  \n- Bridge  \n- \"The grass was feeling a bit green with envy, wishing it could stretch out like the bridge without getting trampled!\"  \n\n- Bridge  \n- Fountain  \n- \"The bridge thought it was the best at making connections, but the fountain just kept bubbling over with excitement!\"  ",
+    "single_object_dict": {
+        "Fountain": "This fountain, a splash hit with the local birds, clearly has the best liquid assets in town.",
+        "Benches": "If you're feeling benched by life, just remember, every good rest deserves a pause.",
+        "Trees": "Leaf it to these trees to make sure everyone gets a fair shade of attention.",
+        "Building": "This building's story is quite a tall tale - it's floors above the rest!",
+        "Walkway": "This walkway is always on the right path, leading pedestrians to their destination one step at a time.",
+        "Lamp posts": "By night, these lamp posts really know how to light up a room \u2013 outdoor edition.",
+        "Grass": "This grass may just be a blade in the field of green, but it's outstanding in its own turf.",
+        "Bridge": "The bridge always thought it could span new horizons; turns out it\u2019s quite an overachiever."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Fountain",
+            "other_object_list": [
+                "Benches"
+            ],
+            "object_sentence": "\"The fountain tried to impress the benches with its splashy personality, but they just sat there, totally unbent!\""
+        },
+        {
+            "main_object": "Benches",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "\"The benches were feeling a bit shady, but the trees assured them it was just their leafy attitude!\""
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The trees were so tall they thought they could give the building a run for its money, but the building just stood there, brick by brick!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Walkway"
+            ],
+            "object_sentence": "\"The building was so proud of its architecture that it thought the walkway was just a runway for its grand entrance!\""
+        },
+        {
+            "main_object": "Walkway",
+            "other_object_list": [
+                "Lamp posts"
+            ],
+            "object_sentence": "\"The walkway felt a bit dim until the lamp posts showed up, turning it into a bright idea!\""
+        },
+        {
+            "main_object": "Lamp posts",
+            "other_object_list": [
+                "Grass"
+            ],
+            "object_sentence": "\"The lamp posts were always trying to light up the grass, but the grass just wanted to keep things grounded!\""
+        },
+        {
+            "main_object": "Grass",
+            "other_object_list": [
+                "Bridge"
+            ],
+            "object_sentence": "\"The grass was feeling a bit green with envy, wishing it could stretch out like the bridge without getting trampled!\""
+        },
+        {
+            "main_object": "Bridge",
+            "other_object_list": [
+                "Fountain"
+            ],
+            "object_sentence": "\"The bridge thought it was the best at making connections, but the fountain just kept bubbling over with excitement!\""
+        }
+    ]
+}

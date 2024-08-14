@@ -1,0 +1,102 @@
+{
+    "folder_index": "98",
+    "object_list": [
+        "Pizza",
+        "Plate",
+        "Fork",
+        "Knife",
+        "Glass",
+        "Napkin",
+        "Salt shaker",
+        "Pepper shaker",
+        "Cheese shaker",
+        "Juice"
+    ],
+    "whole_object": "This pizza's so big, it's basically a \"cheese wheel\" of Fortune!",
+    "single_object": "- Pizza: This pizza is so good, even the toppings have a-meating about it every Friday night.\n- Plate: The plate whispered quietly, \"Self-control is overrated; go ahead, take another slice.\"\n- Fork: The fork always considered itself the ultimate 'piercer' of truths in the cutlery drawer.\n- Knife: The knife's favorite magic trick was performing a slice of hand.\n- Glass: The glass, half full with optimism, always looked on the bright cider life.\n- Napkin: The napkin is the only thing at the table that truly understands mess-takes.\n- Salt shaker: The salt shaker goes through life shaking things up by just a grain.\n- Pepper shaker: The pepper shaker always wanted to be a seasoned traveler.\n- Cheese shaker: The cheese shaker said to the pasta, \"You've got to brie kidding me, we make the grate-est team!\" \n- Juice: The juice couldn't concentrate, thinking about the pulp fiction it was steeped in.",
+    "multi_object": "- Pizza  \n- Plate  \n- \"This pizza is so cheesy, it could give a plate a run for its money in a beauty contest!\"  \n\n- Plate  \n- Fork  \n- \"This plate is feeling a bit forked up, trying to hold all this deliciousness!\"  \n\n- Fork  \n- Knife  \n- \"I told the fork to cut it out, but it just couldn't resist the knife's sharp wit!\"  \n\n- Knife  \n- Napkin  \n- \"This knife is so sharp, it could slice through a napkin's excuses for not being more absorbent!\"  \n\n- Glass  \n- Juice  \n- \"This glass is feeling a bit juiced up, ready to spill the tea on all the pizza drama!\"  \n\n- Napkin  \n- Salt shaker  \n- \"This napkin is ready to catch all the saltiness from the pizza's spicy gossip!\"  \n\n- Salt shaker  \n- Pepper shaker  \n- \"The salt shaker and pepper shaker are having a seasoning showdown\u2014who will spice things up more?\"  \n\n- Pepper shaker  \n- Cheese shaker  \n- \"The pepper shaker thinks it's the life of the party, but the cheese shaker knows it's the real flavor MVP!\"  \n\n- Cheese shaker  \n- Juice  \n- \"This cheese shaker is feeling a bit saucy, trying to outshine the juice at the table!\"  \n\n- Juice  \n- Pizza  \n- \"This juice is trying to squeeze into the pizza party, but it knows it can't ketchup with all that cheese!\"  ",
+    "single_object_dict": {
+        "Pizza": "This pizza is so good, even the toppings have a-meating about it every Friday night.",
+        "Plate": "The plate whispered quietly, \"Self-control is overrated; go ahead, take another slice.\"",
+        "Fork": "The fork always considered itself the ultimate 'piercer' of truths in the cutlery drawer.",
+        "Knife": "The knife's favorite magic trick was performing a slice of hand.",
+        "Glass": "The glass, half full with optimism, always looked on the bright cider life.",
+        "Napkin": "The napkin is the only thing at the table that truly understands mess-takes.",
+        "Salt shaker": "The salt shaker goes through life shaking things up by just a grain.",
+        "Pepper shaker": "The pepper shaker always wanted to be a seasoned traveler.",
+        "Cheese shaker": "The cheese shaker said to the pasta, \"You've got to brie kidding me, we make the grate-est team!\"",
+        "Juice": "The juice couldn't concentrate, thinking about the pulp fiction it was steeped in."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Pizza",
+            "other_object_list": [
+                "Plate"
+            ],
+            "object_sentence": "\"This pizza is so cheesy, it could give a plate a run for its money in a beauty contest!\""
+        },
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Fork"
+            ],
+            "object_sentence": "\"This plate is feeling a bit forked up, trying to hold all this deliciousness!\""
+        },
+        {
+            "main_object": "Fork",
+            "other_object_list": [
+                "Knife"
+            ],
+            "object_sentence": "\"I told the fork to cut it out, but it just couldn't resist the knife's sharp wit!\""
+        },
+        {
+            "main_object": "Knife",
+            "other_object_list": [
+                "Napkin"
+            ],
+            "object_sentence": "\"This knife is so sharp, it could slice through a napkin's excuses for not being more absorbent!\""
+        },
+        {
+            "main_object": "Glass",
+            "other_object_list": [
+                "Juice"
+            ],
+            "object_sentence": "\"This glass is feeling a bit juiced up, ready to spill the tea on all the pizza drama!\""
+        },
+        {
+            "main_object": "Napkin",
+            "other_object_list": [
+                "Salt shaker"
+            ],
+            "object_sentence": "\"This napkin is ready to catch all the saltiness from the pizza's spicy gossip!\""
+        },
+        {
+            "main_object": "Salt shaker",
+            "other_object_list": [
+                "Pepper shaker"
+            ],
+            "object_sentence": "\"The salt shaker and pepper shaker are having a seasoning showdown\u2014who will spice things up more?\""
+        },
+        {
+            "main_object": "Pepper shaker",
+            "other_object_list": [
+                "Cheese shaker"
+            ],
+            "object_sentence": "\"The pepper shaker thinks it's the life of the party, but the cheese shaker knows it's the real flavor MVP!\""
+        },
+        {
+            "main_object": "Cheese shaker",
+            "other_object_list": [
+                "Juice"
+            ],
+            "object_sentence": "\"This cheese shaker is feeling a bit saucy, trying to outshine the juice at the table!\""
+        },
+        {
+            "main_object": "Juice",
+            "other_object_list": [
+                "Pizza"
+            ],
+            "object_sentence": "\"This juice is trying to squeeze into the pizza party, but it knows it can't ketchup with all that cheese!\""
+        }
+    ]
+}

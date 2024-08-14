@@ -1,0 +1,30 @@
+{
+    "folder_index": "60",
+    "object_list": [
+        "Motorcycles",
+        "Alley"
+    ],
+    "whole_object": "These scooters seem to be on stand-up comedy - apparently, they just can't handle a full audience without leaning on each other for support!",
+    "single_object": "- Motorcycles: These motorcycles seem so tired, they're practically two-tired to stand.\n- Alley: This alley must be top secret, it's right up everyone's street but still off the beaten path!",
+    "multi_object": "- Motorcycles  \n- Alley  \n- These motorcycles are so cozy in the alley, they must think they're on a permanent vacation from the open road!  \n\n- Alley  \n- Motorcycles  \n- This alley is like a motorcycle's secret hideout\u2014where they can park and gossip about the latest road trips without any traffic!",
+    "single_object_dict": {
+        "Motorcycles": "These motorcycles seem so tired, they're practically two-tired to stand.",
+        "Alley": "This alley must be top secret, it's right up everyone's street but still off the beaten path!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Motorcycles",
+            "other_object_list": [
+                "Alley"
+            ],
+            "object_sentence": "These motorcycles are so cozy in the alley, they must think they're on a permanent vacation from the open road!"
+        },
+        {
+            "main_object": "Alley",
+            "other_object_list": [
+                "Motorcycles"
+            ],
+            "object_sentence": "This alley is like a motorcycle's secret hideout\u2014where they can park and gossip about the latest road trips without any traffic!"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "140",
+    "object_list": [
+        "Bicycles",
+        "Street sign"
+    ],
+    "whole_object": "These bikes seem to be having a wheelie good time in a meeting of spokes-people.",
+    "single_object": "- Bicycles: These bicycles seem to be in a serious conversation; maybe it's a debate about the wheel of fortune!\n- Street sign: This street sign is so commanding, it seems to have all the other signs pointing in its direction!",
+    "multi_object": "- Bicycles  \n- Street sign  \n- These bicycles are so well parked, they should get a street sign that says \"No bike left behind!\"  \n\n- Street sign  \n- Bicycles  \n- This street sign must be a bike whisperer; it always knows when to steer them in the right direction!",
+    "single_object_dict": {
+        "Bicycles": "These bicycles seem to be in a serious conversation; maybe it's a debate about the wheel of fortune!",
+        "Street sign": "This street sign is so commanding, it seems to have all the other signs pointing in its direction!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bicycles",
+            "other_object_list": [
+                "Street sign"
+            ],
+            "object_sentence": "These bicycles are so well parked, they should get a street sign that says \"No bike left behind!\""
+        },
+        {
+            "main_object": "Street sign",
+            "other_object_list": [
+                "Bicycles"
+            ],
+            "object_sentence": "This street sign must be a bike whisperer; it always knows when to steer them in the right direction!"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "115",
+    "object_list": [
+        "Couch",
+        "Table"
+    ],
+    "whole_object": "When trying to blend in, he decided to go all in with his camouflage tie; now he's practically \"invisible\" in the office!",
+    "single_object": "- Couch: This couch is often found plotting the next sit-com.\n- Table: Ever wonder why it's called a coffee table? Because without coffee, it would simply be a 'tired' table.",
+    "multi_object": "- Couch  \n- Table  \n- \"This couch is so comfortable, it should start charging rent for all the deep conversations it hosts with the table!\"  \n\n- Table  \n- Couch  \n- \"This table is feeling a bit flat; it needs the couch to lift its spirits and support its weighty discussions!\"  ",
+    "single_object_dict": {
+        "Couch": "This couch is often found plotting the next sit-com.",
+        "Table": "Ever wonder why it's called a coffee table? Because without coffee, it would simply be a 'tired' table."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Couch",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"This couch is so comfortable, it should start charging rent for all the deep conversations it hosts with the table!\""
+        },
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Couch"
+            ],
+            "object_sentence": "\"This table is feeling a bit flat; it needs the couch to lift its spirits and support its weighty discussions!\""
+        }
+    ]
+}

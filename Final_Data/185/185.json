@@ -1,0 +1,30 @@
+{
+    "folder_index": "185",
+    "object_list": [
+        "Piano",
+        "Auditorium"
+    ],
+    "whole_object": "\"When the grand piano's sibling went missing, it note-ably caused treble in the auditorium!\" (Wordplay and pun on musical terms)",
+    "single_object": "- Piano: The piano has been feeling quite grand lately, maybe because it's always the key player at concerts.\n- Auditorium: This auditorium is so good at playing 'hard to seat', it always stands room-only at every event!",
+    "multi_object": "- Piano  \n- Auditorium  \n- \"Why did the piano break up with the auditorium? It couldn't handle the pressure of all those empty seats!\"  \n\n- Auditorium  \n- Piano  \n- \"The auditorium told the piano, 'You really know how to strike a chord, but I\u2019m just here for the applause!'\"  ",
+    "single_object_dict": {
+        "Piano": "The piano has been feeling quite grand lately, maybe because it's always the key player at concerts.",
+        "Auditorium": "This auditorium is so good at playing 'hard to seat', it always stands room-only at every event!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Piano",
+            "other_object_list": [
+                "Auditorium"
+            ],
+            "object_sentence": "\"Why did the piano break up with the auditorium? It couldn't handle the pressure of all those empty seats!\""
+        },
+        {
+            "main_object": "Auditorium",
+            "other_object_list": [
+                "Piano"
+            ],
+            "object_sentence": "\"The auditorium told the piano, 'You really know how to strike a chord, but I\u2019m just here for the applause!'\""
+        }
+    ]
+}

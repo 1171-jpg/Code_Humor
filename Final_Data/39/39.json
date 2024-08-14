@@ -1,0 +1,93 @@
+{
+    "folder_index": "39",
+    "object_list": [
+        "Table",
+        "Chairs",
+        "Lamp",
+        "Mirrors",
+        "Painting",
+        "Plant",
+        "Cabinet",
+        "Coffee pot",
+        "Cups"
+    ],
+    "whole_object": "This dining room's so classy, even the plants have a cultivated taste; I guess you could say the decor is truly \"plant-tastic\"!",
+    "single_object": "- Table: This table is outstanding in its field\u2014too bad it's indoors.\n- Chairs: These chairs won't stand up for themselves, but they'll always support you.\n- Lamp: A lamp that's so bright, it once tried to join Mensa.\n- Mirrors: The mirror's career is a reflective one, always looking back on its achievements.\n- Painting: This painting is so abstract, it thinks outside its own frame.\n- Plant: This plant is so popular at parties because it always brings its own pot.\n- Cabinet: They say the cabinet's so vintage, it has memories of furniture school.\n- Coffee pot: The coffee pot decided to open a gossip cafe; it heard it was good at spilling the beans.\n- Cups: These cups are so chipper, they never mug for the camera.",
+    "multi_object": "- Table  \n- Chairs  \n- \"The table was feeling a bit wobbly, but the chairs assured it they were all in the same seat together!\"  \n\n- Chairs  \n- Lamp  \n- \"The chairs were so comfortable that even the lamp wanted to sit down and take a light break!\"  \n\n- Lamp  \n- Mirrors  \n- \"The lamp tried to reflect on its life, but the mirrors just kept showing it the same old light!\"  \n\n- Mirrors  \n- Painting  \n- \"The mirrors were jealous of the painting, claiming it had a much better frame of reference!\"  \n\n- Painting  \n- Plant  \n- \"The painting told the plant to stop growing so tall, or it would have to start charging for the view!\"  \n\n- Plant  \n- Cabinet  \n- \"The plant was rooting for the cabinet, hoping it would finally open up about its hidden treasures!\"  \n\n- Cabinet  \n- Coffee pot  \n- \"The cabinet was always brewing up secrets, but the coffee pot just couldn't keep its lid on!\"  \n\n- Coffee pot  \n- Cups  \n- \"The coffee pot was steaming with excitement, ready to fill the cups with a brew-tiful morning!\"  \n\n- Cups  \n- Table  \n- \"The cups were so full of themselves that they thought they could spill the tea on the table!\"  ",
+    "single_object_dict": {
+        "Table": "This table is outstanding in its field\u2014too bad it's indoors.",
+        "Chairs": "These chairs won't stand up for themselves, but they'll always support you.",
+        "Lamp": "A lamp that's so bright, it once tried to join Mensa.",
+        "Mirrors": "The mirror's career is a reflective one, always looking back on its achievements.",
+        "Painting": "This painting is so abstract, it thinks outside its own frame.",
+        "Plant": "This plant is so popular at parties because it always brings its own pot.",
+        "Cabinet": "They say the cabinet's so vintage, it has memories of furniture school.",
+        "Coffee pot": "The coffee pot decided to open a gossip cafe; it heard it was good at spilling the beans.",
+        "Cups": "These cups are so chipper, they never mug for the camera."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"The table was feeling a bit wobbly, but the chairs assured it they were all in the same seat together!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"The chairs were so comfortable that even the lamp wanted to sit down and take a light break!\""
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Mirrors"
+            ],
+            "object_sentence": "\"The lamp tried to reflect on its life, but the mirrors just kept showing it the same old light!\""
+        },
+        {
+            "main_object": "Mirrors",
+            "other_object_list": [
+                "Painting"
+            ],
+            "object_sentence": "\"The mirrors were jealous of the painting, claiming it had a much better frame of reference!\""
+        },
+        {
+            "main_object": "Painting",
+            "other_object_list": [
+                "Plant"
+            ],
+            "object_sentence": "\"The painting told the plant to stop growing so tall, or it would have to start charging for the view!\""
+        },
+        {
+            "main_object": "Plant",
+            "other_object_list": [
+                "Cabinet"
+            ],
+            "object_sentence": "\"The plant was rooting for the cabinet, hoping it would finally open up about its hidden treasures!\""
+        },
+        {
+            "main_object": "Cabinet",
+            "other_object_list": [
+                "Coffee pot"
+            ],
+            "object_sentence": "\"The cabinet was always brewing up secrets, but the coffee pot just couldn't keep its lid on!\""
+        },
+        {
+            "main_object": "Coffee pot",
+            "other_object_list": [
+                "Cups"
+            ],
+            "object_sentence": "\"The coffee pot was steaming with excitement, ready to fill the cups with a brew-tiful morning!\""
+        },
+        {
+            "main_object": "Cups",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"The cups were so full of themselves that they thought they could spill the tea on the table!\""
+        }
+    ]
+}

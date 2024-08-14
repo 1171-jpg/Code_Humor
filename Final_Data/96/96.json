@@ -1,0 +1,84 @@
+{
+    "folder_index": "96",
+    "object_list": [
+        "Candle",
+        "Chair",
+        "Piano",
+        "Plate",
+        "Teapot",
+        "Mug",
+        "Spoon",
+        "Fork"
+    ],
+    "whole_object": "This room's so elegant, even the piano has composed itself in anticipation of dessert!",
+    "single_object": "- Candle: \"I told the candle to lighten up, but it just waxed poetic!\"\n- Chair: \"This chair is so comfortable, it should come with a 'sit and stay' command!\"\n- Piano: \"The piano tried to play it cool, but it couldn't resist a little key drama!\"\n- Plate: \"This plate is on a diet; it only serves up a slice of life!\"\n- Teapot: \"The teapot is always brewing up gossip; it can't help but spill the tea!\"\n- Mug: \"This mug is a real cup of cheer; it always knows how to espresso itself!\"\n- Spoon: \"The spoon is feeling a bit stir-crazy; it just wants to mix things up!\"\n- Fork: \"The fork is a real point of contention; it always wants to stab at the issue!\"",
+    "multi_object": "- Candle  \n- Chair  \n- \"The candle was so bright, it made the chair feel like it was sitting in the spotlight!\"  \n\n- Chair  \n- Piano  \n- \"The chair tried to play the piano, but it just couldn't find the right seat!\"  \n\n- Piano  \n- Teapot  \n- \"The piano wanted to brew a symphony, but the teapot insisted on steeping in silence!\"  \n\n- Plate  \n- Spoon  \n- \"The plate was feeling empty, but the spoon said, 'Don't worry, I've got your back\u2014let's dish out some fun!'\"  \n\n- Teapot  \n- Mug  \n- \"The teapot was steaming with excitement, while the mug just sat there, sipping on the gossip!\"  \n\n- Mug  \n- Fork  \n- \"The mug thought it was the life of the party, but the fork kept poking fun at its handle!\"  \n\n- Spoon  \n- Candle  \n- \"The spoon felt a little dull next to the candle, which was always lighting up the room!\"  \n\n- Fork  \n- Plate  \n- \"The fork was ready to dig in, but the plate said, 'Hold your horses, I'm not a buffet!'\"  ",
+    "single_object_dict": {
+        "Candle": "\"I told the candle to lighten up, but it just waxed poetic!\"",
+        "Chair": "\"This chair is so comfortable, it should come with a 'sit and stay' command!\"",
+        "Piano": "\"The piano tried to play it cool, but it couldn't resist a little key drama!\"",
+        "Plate": "\"This plate is on a diet; it only serves up a slice of life!\"",
+        "Teapot": "\"The teapot is always brewing up gossip; it can't help but spill the tea!\"",
+        "Mug": "\"This mug is a real cup of cheer; it always knows how to espresso itself!\"",
+        "Spoon": "\"The spoon is feeling a bit stir-crazy; it just wants to mix things up!\"",
+        "Fork": "\"The fork is a real point of contention; it always wants to stab at the issue!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Candle",
+            "other_object_list": [
+                "Chair"
+            ],
+            "object_sentence": "\"The candle was so bright, it made the chair feel like it was sitting in the spotlight!\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Piano"
+            ],
+            "object_sentence": "\"The chair tried to play the piano, but it just couldn't find the right seat!\""
+        },
+        {
+            "main_object": "Piano",
+            "other_object_list": [
+                "Teapot"
+            ],
+            "object_sentence": "\"The piano wanted to brew a symphony, but the teapot insisted on steeping in silence!\""
+        },
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Spoon"
+            ],
+            "object_sentence": "\"The plate was feeling empty, but the spoon said, 'Don't worry, I've got your back\u2014let's dish out some fun!'\""
+        },
+        {
+            "main_object": "Teapot",
+            "other_object_list": [
+                "Mug"
+            ],
+            "object_sentence": "\"The teapot was steaming with excitement, while the mug just sat there, sipping on the gossip!\""
+        },
+        {
+            "main_object": "Mug",
+            "other_object_list": [
+                "Fork"
+            ],
+            "object_sentence": "\"The mug thought it was the life of the party, but the fork kept poking fun at its handle!\""
+        },
+        {
+            "main_object": "Spoon",
+            "other_object_list": [
+                "Candle"
+            ],
+            "object_sentence": "\"The spoon felt a little dull next to the candle, which was always lighting up the room!\""
+        },
+        {
+            "main_object": "Fork",
+            "other_object_list": [
+                "Plate"
+            ],
+            "object_sentence": "\"The fork was ready to dig in, but the plate said, 'Hold your horses, I'm not a buffet!'\""
+        }
+    ]
+}

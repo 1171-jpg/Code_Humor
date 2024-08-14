@@ -1,0 +1,84 @@
+{
+    "folder_index": "50",
+    "object_list": [
+        "Lamp",
+        "Computer keyboard",
+        "CD",
+        "Books",
+        "Mug",
+        "Remote control",
+        "Tape",
+        "Papers"
+    ],
+    "whole_object": "Clearly, someone's been working on their \"file-osophy\" \u2013 the art of piling things higher and deeper!",
+    "single_object": "- Lamp: This lamp's been standing around like it's light years away from retirement.\n- Computer keyboard: The keyboard's feeling quite depressed lately; it's always under pressure.\n- CD: The CD was overheard spinning tales of when it used to be a chart-topper.\n- Books: Stacked up in chaos, the books are rebelling against the shelf-imposed order.\n- Mug: This mug's been holding coffee for so long, it's convinced it's a bean bag.\n- Remote control: The remote control is truly a control freak, always changing its mind.\n- Tape: This tape has issues sticking around; it's not very attached to its role.\n- Papers: These papers look like they've partied all night and can't seem to get back in order.",
+    "multi_object": "- Lamp  \n- Computer keyboard  \n- \"I told the lamp to lighten up, but it just kept flickering like my computer keyboard during a typing test!\"  \n\n- Computer keyboard  \n- Mug  \n- \"My computer keyboard is so sticky from coffee spills, it might just start typing 'mug-nificent' on its own!\"  \n\n- CD  \n- Books  \n- \"These CDs are feeling a bit outdated, like books trying to convince me they\u2019re still the best way to get 'read'!\"  \n\n- Books  \n- Remote control  \n- \"These books are stacked so high, I might need the remote control to change the channel on my reading habits!\"  \n\n- Mug  \n- Tape  \n- \"My mug is so full of coffee, it\u2019s practically taped to my hand at this point!\"  \n\n- Remote control  \n- Papers  \n- \"The remote control is hiding under all these papers, probably trying to escape the drama of my TV shows!\"  \n\n- Tape  \n- Lamp  \n- \"I tried to tape my lamp to the desk, but it just wanted to shine bright and not stick around!\"  \n\n- Papers  \n- Computer keyboard  \n- \"These papers are so disorganized, even my computer keyboard is starting to feel like it needs a vacation!\"  ",
+    "single_object_dict": {
+        "Lamp": "This lamp's been standing around like it's light years away from retirement.",
+        "Computer keyboard": "The keyboard's feeling quite depressed lately; it's always under pressure.",
+        "CD": "The CD was overheard spinning tales of when it used to be a chart-topper.",
+        "Books": "Stacked up in chaos, the books are rebelling against the shelf-imposed order.",
+        "Mug": "This mug's been holding coffee for so long, it's convinced it's a bean bag.",
+        "Remote control": "The remote control is truly a control freak, always changing its mind.",
+        "Tape": "This tape has issues sticking around; it's not very attached to its role.",
+        "Papers": "These papers look like they've partied all night and can't seem to get back in order."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Computer keyboard"
+            ],
+            "object_sentence": "\"I told the lamp to lighten up, but it just kept flickering like my computer keyboard during a typing test!\""
+        },
+        {
+            "main_object": "Computer keyboard",
+            "other_object_list": [
+                "Mug"
+            ],
+            "object_sentence": "\"My computer keyboard is so sticky from coffee spills, it might just start typing 'mug-nificent' on its own!\""
+        },
+        {
+            "main_object": "CD",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "\"These CDs are feeling a bit outdated, like books trying to convince me they\u2019re still the best way to get 'read'!\""
+        },
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "Remote control"
+            ],
+            "object_sentence": "\"These books are stacked so high, I might need the remote control to change the channel on my reading habits!\""
+        },
+        {
+            "main_object": "Mug",
+            "other_object_list": [
+                "Tape"
+            ],
+            "object_sentence": "\"My mug is so full of coffee, it\u2019s practically taped to my hand at this point!\""
+        },
+        {
+            "main_object": "Remote control",
+            "other_object_list": [
+                "Papers"
+            ],
+            "object_sentence": "\"The remote control is hiding under all these papers, probably trying to escape the drama of my TV shows!\""
+        },
+        {
+            "main_object": "Tape",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"I tried to tape my lamp to the desk, but it just wanted to shine bright and not stick around!\""
+        },
+        {
+            "main_object": "Papers",
+            "other_object_list": [
+                "Computer keyboard"
+            ],
+            "object_sentence": "\"These papers are so disorganized, even my computer keyboard is starting to feel like it needs a vacation!\""
+        }
+    ]
+}

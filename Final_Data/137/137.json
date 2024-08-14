@@ -1,0 +1,66 @@
+{
+    "folder_index": "137",
+    "object_list": [
+        "Bicycle",
+        "Trash can",
+        "Traffic light",
+        "Car",
+        "Building",
+        "Tree"
+    ],
+    "whole_object": "When the traffic light turned green, the trash bin was still pondering whether to stay or take out itself.",
+    "single_object": "- Bicycle: This bicycle decided to take a brake from pedaling around town.\n- Trash can: Garbage day is the trash can's moment to lid up the street!\n- Traffic light: Always up for a game of red light, green light \u2013 without moving an inch.\n- Car: I would tell you a car joke, but I'm still working on the delivery.\n- Building: The building felt stories high when it finally got over its fear of elevators.\n- Tree: The tree never leaves a conversation without branching into new topics.",
+    "multi_object": "- Bicycle  \n- Traffic light  \n- \"Why did the bicycle stop at the traffic light? It wanted to pedal its way to a green light party!\"  \n\n- Trash can  \n- Car  \n- \"The trash can told the car, 'You may have the wheels, but I have the real garbage gossip!'\"  \n\n- Traffic light  \n- Tree  \n- \"The traffic light and the tree had a disagreement; one wanted to go green, while the other just wanted to leaf it alone!\"  \n\n- Car  \n- Building  \n- \"The car parked next to the building and said, 'I hope you don't mind me taking a little space; I just needed a solid foundation for my dreams!'\"  \n\n- Building  \n- Bicycle  \n- \"The building looked down at the bicycle and said, 'You may be two-tired, but I\u2019m just here to support your lofty ambitions!'\"  \n\n- Tree  \n- Trash can  \n- \"The tree whispered to the trash can, 'I\u2019m rooting for you to clean up your act, but I\u2019m still shedding leaves over your mess!'\"  ",
+    "single_object_dict": {
+        "Bicycle": "This bicycle decided to take a brake from pedaling around town.",
+        "Trash can": "Garbage day is the trash can's moment to lid up the street!",
+        "Traffic light": "Always up for a game of red light, green light \u2013 without moving an inch.",
+        "Car": "I would tell you a car joke, but I'm still working on the delivery.",
+        "Building": "The building felt stories high when it finally got over its fear of elevators.",
+        "Tree": "The tree never leaves a conversation without branching into new topics."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Traffic light"
+            ],
+            "object_sentence": "\"Why did the bicycle stop at the traffic light? It wanted to pedal its way to a green light party!\""
+        },
+        {
+            "main_object": "Trash can",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The trash can told the car, 'You may have the wheels, but I have the real garbage gossip!'\""
+        },
+        {
+            "main_object": "Traffic light",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "\"The traffic light and the tree had a disagreement; one wanted to go green, while the other just wanted to leaf it alone!\""
+        },
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The car parked next to the building and said, 'I hope you don't mind me taking a little space; I just needed a solid foundation for my dreams!'\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"The building looked down at the bicycle and said, 'You may be two-tired, but I\u2019m just here to support your lofty ambitions!'\""
+        },
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Trash can"
+            ],
+            "object_sentence": "\"The tree whispered to the trash can, 'I\u2019m rooting for you to clean up your act, but I\u2019m still shedding leaves over your mess!'\""
+        }
+    ]
+}

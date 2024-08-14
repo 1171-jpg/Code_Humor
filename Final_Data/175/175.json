@@ -1,0 +1,30 @@
+{
+    "folder_index": "175",
+    "object_list": [
+        "Buses",
+        "Trees"
+    ],
+    "whole_object": "Looks like the buses are having a wheelie good time just loafing around the lot.",
+    "single_object": "- Buses: These buses must be in a rowman-tic relationship; they're always following each other!\n- Trees: These trees always stick to their roots, because branching out is just too mainstream.",
+    "multi_object": "- Buses  \n- Trees  \n- These buses are so tired, they could use a little tree-mendous rest!  \n\n- Trees  \n- Buses  \n- The trees are whispering, \"Those buses are really going places, but we just leaf it to them!\"",
+    "single_object_dict": {
+        "Buses": "These buses must be in a rowman-tic relationship; they're always following each other!",
+        "Trees": "These trees always stick to their roots, because branching out is just too mainstream."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Buses",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "These buses are so tired, they could use a little tree-mendous rest!"
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Buses"
+            ],
+            "object_sentence": "The trees are whispering, \"Those buses are really going places, but we just leaf it to them!\""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "53",
+    "object_list": [
+        "Payphone",
+        "Car"
+    ],
+    "whole_object": "At night, even the parking meters can't help but \"reflect\" on their day's earnings.",
+    "single_object": "- Payphone: This payphone might not get many calls, but it's still ringing in the nostalgia.\n- Car: Even when parked, this car dreams of being a \"wheel\" big sensation on the open road.",
+    "multi_object": "- Payphone  \n- Car  \n- \"The payphone was feeling lonely, wishing it could call the car for a ride, but all it could do was ring in the silence!\"  \n\n- Car  \n- Payphone  \n- \"The car rolled by, thinking the payphone was just a relic of the past, but little did it know, the payphone was still dialing for attention!\"  ",
+    "single_object_dict": {
+        "Payphone": "This payphone might not get many calls, but it's still ringing in the nostalgia.",
+        "Car": "Even when parked, this car dreams of being a \"wheel\" big sensation on the open road."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Payphone",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The payphone was feeling lonely, wishing it could call the car for a ride, but all it could do was ring in the silence!\""
+        },
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Payphone"
+            ],
+            "object_sentence": "\"The car rolled by, thinking the payphone was just a relic of the past, but little did it know, the payphone was still dialing for attention!\""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "147",
+    "object_list": [
+        "Cars",
+        "Buildings"
+    ],
+    "whole_object": "\"In a lot full of parked cars, the compact blue one must have thought it was a tight squeeze, because it looks like it's turning a bit blue in the face.\"",
+    "single_object": "- Cars: \"These cars are so parked, they could win a gold medal in the Olympic Games of staying still!\"  \n- Buildings: \"These buildings are like introverts at a party\u2014standing tall but keeping to themselves!\"",
+    "multi_object": "- Cars  \n- Buildings  \n- These cars are parked so close, they must be sharing secrets about the buildings next door\u2014like who has the best view!  \n\n- Buildings  \n- Cars  \n- These buildings are so tall, they must be trying to look down on the cars and say, \"You think you can park here? I\u2019m on a higher level!\"",
+    "single_object_dict": {
+        "Cars": "\"These cars are so parked, they could win a gold medal in the Olympic Games of staying still!\"",
+        "Buildings": "\"These buildings are like introverts at a party\u2014standing tall but keeping to themselves!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "These cars are parked so close, they must be sharing secrets about the buildings next door\u2014like who has the best view!"
+        },
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "These buildings are so tall, they must be trying to look down on the cars and say, \"You think you can park here? I\u2019m on a higher level!\""
+        }
+    ]
+}

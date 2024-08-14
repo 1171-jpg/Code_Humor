@@ -1,0 +1,30 @@
+{
+    "folder_index": "144",
+    "object_list": [
+        "Boats",
+        "Dock"
+    ],
+    "whole_object": "Looks like the parking lot is full\u2014the boats really schooled the cars at finding the best spots today!",
+    "single_object": "- Boats: \"These boats are just trying to stay afloat in a sea of expectations!\"  \n- Dock: \"The dock is like a stage, always ready for the next big splash!\"",
+    "multi_object": "- Boats  \n- Dock  \n- These boats are so well-docked, they must have taken a masterclass in \"How to Stay Afloat in Style!\"  \n\n- Dock  \n- Boats  \n- The dock is feeling a bit overwhelmed; it\u2019s like a therapist for boats with too many emotional anchors!",
+    "single_object_dict": {
+        "Boats": "\"These boats are just trying to stay afloat in a sea of expectations!\"",
+        "Dock": "\"The dock is like a stage, always ready for the next big splash!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Boats",
+            "other_object_list": [
+                "Dock"
+            ],
+            "object_sentence": "These boats are so well-docked, they must have taken a masterclass in \"How to Stay Afloat in Style!\""
+        },
+        {
+            "main_object": "Dock",
+            "other_object_list": [
+                "Boats"
+            ],
+            "object_sentence": "The dock is feeling a bit overwhelmed; it\u2019s like a therapist for boats with too many emotional anchors!"
+        }
+    ]
+}

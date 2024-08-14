@@ -1,0 +1,57 @@
+{
+    "folder_index": "55",
+    "object_list": [
+        "Bus",
+        "Bicycle",
+        "Trash can",
+        "Building",
+        "Flower basket"
+    ],
+    "whole_object": "As the bus wheeled around the corner, it seemed to be saying, \"I'm tire-d of going in circles all day!\"",
+    "single_object": "- Bus: \"Why did the bus break up with its girlfriend? It just couldn't handle the emotional baggage!\"\n- Bicycle: \"I told my bicycle a joke, but it just couldn't handle the wheel of laughter!\"\n- Trash can: \"I asked the trash can for advice, but it just said, 'Don't throw your dreams away!'\"\n- Building: \"This building has so many stories, it should start a podcast!\"\n- Flower basket: \"Why did the flower basket get promoted? It always knew how to bloom where it was planted!\"",
+    "multi_object": "- Bus  \n- Bicycle  \n- \"The bus was so full, it felt like it was carrying a bicycle's weight in passengers!\"  \n\n- Bicycle  \n- Trash can  \n- \"The bicycle tried to impress the trash can, but it just couldn't handle the 'waste' of time!\"  \n\n- Trash can  \n- Flower basket  \n- \"The trash can was feeling down, but the flower basket reminded it that beauty can bloom even in the mess!\"  \n\n- Building  \n- Bus  \n- \"The building was so tall, it told the bus, 'You may have wheels, but I've got stories that go way up!'\"  \n\n- Flower basket  \n- Building  \n- \"The flower basket told the building, 'You may have a solid foundation, but I've got the petals to make it pretty!'\"  ",
+    "single_object_dict": {
+        "Bus": "\"Why did the bus break up with its girlfriend? It just couldn't handle the emotional baggage!\"",
+        "Bicycle": "\"I told my bicycle a joke, but it just couldn't handle the wheel of laughter!\"",
+        "Trash can": "\"I asked the trash can for advice, but it just said, 'Don't throw your dreams away!'\"",
+        "Building": "\"This building has so many stories, it should start a podcast!\"",
+        "Flower basket": "\"Why did the flower basket get promoted? It always knew how to bloom where it was planted!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bus",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"The bus was so full, it felt like it was carrying a bicycle's weight in passengers!\""
+        },
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Trash can"
+            ],
+            "object_sentence": "\"The bicycle tried to impress the trash can, but it just couldn't handle the 'waste' of time!\""
+        },
+        {
+            "main_object": "Trash can",
+            "other_object_list": [
+                "Flower basket"
+            ],
+            "object_sentence": "\"The trash can was feeling down, but the flower basket reminded it that beauty can bloom even in the mess!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Bus"
+            ],
+            "object_sentence": "\"The building was so tall, it told the bus, 'You may have wheels, but I've got stories that go way up!'\""
+        },
+        {
+            "main_object": "Flower basket",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The flower basket told the building, 'You may have a solid foundation, but I've got the petals to make it pretty!'\""
+        }
+    ]
+}

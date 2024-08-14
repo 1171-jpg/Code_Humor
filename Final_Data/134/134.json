@@ -1,0 +1,30 @@
+{
+    "folder_index": "134",
+    "object_list": [
+        "Zebras",
+        "Sand"
+    ],
+    "whole_object": "When zebras play tag, they really take \"earning your stripes\" to a whole new level!",
+    "single_object": "- Zebras: \"Why do zebras never play hide and seek? Because good luck hiding when you\u2019re always in black and white!\"  \n- Sand: \"I told the sand to stop being so granular, but it just kept getting into the finer details!\"",
+    "multi_object": "- Zebras  \n- Sand  \n- These zebras are really kicking up some sand\u2014guess they\u2019re just trying to make a \u201cstripe\u201d in the beach volleyball scene!  \n\n- Sand  \n- Zebras  \n- This sand must be feeling a bit \u201czebra-ted\u201d with all the stripes running around\u2014talk about a wild beach party!  ",
+    "single_object_dict": {
+        "Zebras": "\"Why do zebras never play hide and seek? Because good luck hiding when you\u2019re always in black and white!\"",
+        "Sand": "\"I told the sand to stop being so granular, but it just kept getting into the finer details!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Zebras",
+            "other_object_list": [
+                "Sand"
+            ],
+            "object_sentence": "These zebras are really kicking up some sand\u2014guess they\u2019re just trying to make a \u201cstripe\u201d in the beach volleyball scene!"
+        },
+        {
+            "main_object": "Sand",
+            "other_object_list": [
+                "Zebras"
+            ],
+            "object_sentence": "This sand must be feeling a bit \u201czebra-ted\u201d with all the stripes running around\u2014talk about a wild beach party!"
+        }
+    ]
+}

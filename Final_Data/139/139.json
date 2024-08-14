@@ -1,0 +1,30 @@
+{
+    "folder_index": "139",
+    "object_list": [
+        "Cranes",
+        "Cathedral"
+    ],
+    "whole_object": "Looks like the crane's really uplifting the spirits of the architecture\u2014talk about a constructive night out!",
+    "single_object": "- Cranes: \"Why did the crane bring a ladder to the construction site? Because it wanted to reach new heights in its career!\"\n- Cathedral: \"This cathedral is so tall, it must have a great view\u2014talk about a holy sight!\"",
+    "multi_object": "- Cranes  \n- Cathedral  \n- \"The cranes are working overtime, trying to lift the cathedral's spirits\u2014it's a real construction site comedy!\"  \n\n- Cathedral  \n- Cranes  \n- \"The cathedral is so tall, it\u2019s practically asking the cranes for a lift to reach the heavens!\"  ",
+    "single_object_dict": {
+        "Cranes": "\"Why did the crane bring a ladder to the construction site? Because it wanted to reach new heights in its career!\"",
+        "Cathedral": "\"This cathedral is so tall, it must have a great view\u2014talk about a holy sight!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Cranes",
+            "other_object_list": [
+                "Cathedral"
+            ],
+            "object_sentence": "\"The cranes are working overtime, trying to lift the cathedral's spirits\u2014it's a real construction site comedy!\""
+        },
+        {
+            "main_object": "Cathedral",
+            "other_object_list": [
+                "Cranes"
+            ],
+            "object_sentence": "\"The cathedral is so tall, it\u2019s practically asking the cranes for a lift to reach the heavens!\""
+        }
+    ]
+}

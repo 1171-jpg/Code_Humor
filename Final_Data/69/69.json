@@ -1,0 +1,57 @@
+{
+    "folder_index": "69",
+    "object_list": [
+        "Plate",
+        "Chicken breast",
+        "Potatoes",
+        "Cauliflower",
+        "Mouse"
+    ],
+    "whole_object": "This chicken must be a comedian because it's always cracking up the eggs at the roast.",
+    "single_object": "- Plate: \"I'm a plate who believes in a well-rounded meal. I'm not flat, I'm just plateauing!\"\n- Chicken breast: \"I may just be a chicken breast, but I've always considered myself quite the breast-taking view.\"\n- Potatoes: \"You could say I'm a potato who really digs the spotlight.\"\n- Cauliflower: \"As a cauliflower, I'm truly outstanding in my field, even if that field is just a plate.\"\n- Mouse: \"As the computer's best friend, I'm a mouse who's always ready to click with good company.\"",
+    "multi_object": "- Plate  \n- Chicken breast  \n- \"This plate is feeling a bit chicken, but at least it\u2019s not a mouse on the menu!\"  \n\n- Chicken breast  \n- Potatoes  \n- \"This chicken breast is so grilled it thinks it\u2019s the main event, but those potatoes are just here for the starch!\"  \n\n- Potatoes  \n- Cauliflower  \n- \"These potatoes are feeling a bit mashed, but they\u2019re still trying to outshine the cauliflower\u2019s \u2018florets of glory\u2019!\"  \n\n- Cauliflower  \n- Chicken breast  \n- \"This cauliflower is trying to be the \u2018blooming\u2019 star, but it knows the chicken breast is the one getting all the \u2018grill\u2019 attention!\"  \n\n- Mouse  \n- Plate  \n- \"If this mouse had a plate, it would definitely be a \u2018cheesy\u2019 affair, but I guess it\u2019s just here for the crumbs!\"  ",
+    "single_object_dict": {
+        "Plate": "\"I'm a plate who believes in a well-rounded meal. I'm not flat, I'm just plateauing!\"",
+        "Chicken breast": "\"I may just be a chicken breast, but I've always considered myself quite the breast-taking view.\"",
+        "Potatoes": "\"You could say I'm a potato who really digs the spotlight.\"",
+        "Cauliflower": "\"As a cauliflower, I'm truly outstanding in my field, even if that field is just a plate.\"",
+        "Mouse": "\"As the computer's best friend, I'm a mouse who's always ready to click with good company.\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Chicken breast"
+            ],
+            "object_sentence": "\"This plate is feeling a bit chicken, but at least it\u2019s not a mouse on the menu!\""
+        },
+        {
+            "main_object": "Chicken breast",
+            "other_object_list": [
+                "Potatoes"
+            ],
+            "object_sentence": "\"This chicken breast is so grilled it thinks it\u2019s the main event, but those potatoes are just here for the starch!\""
+        },
+        {
+            "main_object": "Potatoes",
+            "other_object_list": [
+                "Cauliflower"
+            ],
+            "object_sentence": "\"These potatoes are feeling a bit mashed, but they\u2019re still trying to outshine the cauliflower\u2019s \u2018florets of glory\u2019!\""
+        },
+        {
+            "main_object": "Cauliflower",
+            "other_object_list": [
+                "Chicken breast"
+            ],
+            "object_sentence": "\"This cauliflower is trying to be the \u2018blooming\u2019 star, but it knows the chicken breast is the one getting all the \u2018grill\u2019 attention!\""
+        },
+        {
+            "main_object": "Mouse",
+            "other_object_list": [
+                "Plate"
+            ],
+            "object_sentence": "\"If this mouse had a plate, it would definitely be a \u2018cheesy\u2019 affair, but I guess it\u2019s just here for the crumbs!\""
+        }
+    ]
+}

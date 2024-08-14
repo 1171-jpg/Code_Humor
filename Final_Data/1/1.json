@@ -1,0 +1,93 @@
+{
+    "folder_index": "1",
+    "object_list": [
+        "Person1",
+        "Person2",
+        "Building",
+        "Trees",
+        "Cars",
+        "Bicycle",
+        "Sidewalk",
+        "Street",
+        "Streetlight"
+    ],
+    "whole_object": "When trees secretly aspire to be telephone poles, they start branching out into new lines of communication.",
+    "single_object": "- Person1: Don't worry, I'm not going out on a limb here, but I think I might just branch out into tree-whispering!\n- Person2: I'd tell you a joke about the sidewalk, but you've probably heard it before\u2014it's all over town!\n- Building: I'm not saying I'm popular, but I do have people climbing the walls to get in.\n- Trees: We're not very good at leaf-ing. In fact, we tend to stick around for all seasons.\n- Cars: We're on a roll, but every now and then, we tire out.\n- Bicycle: I spoke too much at the wheel-meeting and now I'm two-tired.\n- Sidewalk: I pride myself on being a concrete example of stability, even if I do crack up occasionally.\n- Street: One could say I'm the pathway to success; everyone's always driving towards their goals on me.\n- Streetlight: I'm not too bright during the day, but at night, I really shine!\n",
+    "multi_object": "- Person1  \n- Person2  \n- \"Person1 told Person2 he was going to 'leaf' soon, but the trees were just too shady for that!\"\n\n- Person2  \n- Cars  \n- \"Person2 was so excited to see the cars that he almost forgot to 'brake' for a chat!\"\n\n- Building  \n- Trees  \n- \"The building was feeling a bit 'stumped' by the trees, wondering who had the better shade!\"\n\n- Trees  \n- Sidewalk  \n- \"The trees were having a 'root' awakening, realizing the sidewalk was just a 'pavement' for their dreams!\"\n\n- Cars  \n- Bicycle  \n- \"The cars were jealous of the bicycle, claiming it was just 'two-tired' to keep up with their speed!\"\n\n- Bicycle  \n- Streetlight  \n- \"The bicycle asked the streetlight for directions, but all it got was a 'bright' idea!\" \n\n- Sidewalk  \n- Street  \n- \"The sidewalk was tired of being walked on and wanted to 'pave' its own way down the street!\" \n\n- Street  \n- Person1  \n- \"Person1 thought the street was a runway, but it just wanted to 'pave' the way for a smooth exit!\" \n\n- Streetlight  \n- Person2  \n- \"Person2 thought the streetlight was giving him the green light, but it was just 'flashing' its approval!\"",
+    "single_object_dict": {
+        "Person1": "Don't worry, I'm not going out on a limb here, but I think I might just branch out into tree-whispering!",
+        "Person2": "I'd tell you a joke about the sidewalk, but you've probably heard it before\u2014it's all over town!",
+        "Building": "I'm not saying I'm popular, but I do have people climbing the walls to get in.",
+        "Trees": "We're not very good at leaf-ing. In fact, we tend to stick around for all seasons.",
+        "Cars": "We're on a roll, but every now and then, we tire out.",
+        "Bicycle": "I spoke too much at the wheel-meeting and now I'm two-tired.",
+        "Sidewalk": "I pride myself on being a concrete example of stability, even if I do crack up occasionally.",
+        "Street": "One could say I'm the pathway to success; everyone's always driving towards their goals on me.",
+        "Streetlight": "I'm not too bright during the day, but at night, I really shine!\n"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Person1",
+            "other_object_list": [
+                "Person2"
+            ],
+            "object_sentence": "\"Person1 told Person2 he was going to 'leaf' soon, but the trees were just too shady for that!\""
+        },
+        {
+            "main_object": "Person2",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "\"Person2 was so excited to see the cars that he almost forgot to 'brake' for a chat!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "\"The building was feeling a bit 'stumped' by the trees, wondering who had the better shade!\""
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Sidewalk"
+            ],
+            "object_sentence": "\"The trees were having a 'root' awakening, realizing the sidewalk was just a 'pavement' for their dreams!\""
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"The cars were jealous of the bicycle, claiming it was just 'two-tired' to keep up with their speed!\""
+        },
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Streetlight"
+            ],
+            "object_sentence": "\"The bicycle asked the streetlight for directions, but all it got was a 'bright' idea!\""
+        },
+        {
+            "main_object": "Sidewalk",
+            "other_object_list": [
+                "Street"
+            ],
+            "object_sentence": "\"The sidewalk was tired of being walked on and wanted to 'pave' its own way down the street!\""
+        },
+        {
+            "main_object": "Street",
+            "other_object_list": [
+                "Person1"
+            ],
+            "object_sentence": "\"Person1 thought the street was a runway, but it just wanted to 'pave' the way for a smooth exit!\""
+        },
+        {
+            "main_object": "Streetlight",
+            "other_object_list": [
+                "Person2"
+            ],
+            "object_sentence": "\"Person2 thought the streetlight was giving him the green light, but it was just 'flashing' its approval!\""
+        }
+    ]
+}

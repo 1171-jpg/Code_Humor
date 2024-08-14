@@ -1,0 +1,30 @@
+{
+    "folder_index": "176",
+    "object_list": [
+        "Fountain",
+        "Building"
+    ],
+    "whole_object": "\"The fountain's not the only thing having a splash, but I told the photographer, 'Water you doing? I'm not ready for my close-up!'\"",
+    "single_object": "- Fountain: \"This fountain really knows how to make a splash at parties\u2014it's always the life of the water!\"  \n- Building: \"This building must have a great sense of humor; it always has a roof over its head and never gets a little 'shaky'!\"",
+    "multi_object": "- Fountain  \n- Building  \n- \"The fountain was feeling a bit splashy, trying to impress the building with its waterworks!\"  \n\n- Building  \n- Fountain  \n- \"The building stood tall, thinking it was the main attraction, but the fountain kept stealing the show with its dazzling display!\"  ",
+    "single_object_dict": {
+        "Fountain": "\"This fountain really knows how to make a splash at parties\u2014it's always the life of the water!\"",
+        "Building": "\"This building must have a great sense of humor; it always has a roof over its head and never gets a little 'shaky'!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Fountain",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The fountain was feeling a bit splashy, trying to impress the building with its waterworks!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Fountain"
+            ],
+            "object_sentence": "\"The building stood tall, thinking it was the main attraction, but the fountain kept stealing the show with its dazzling display!\""
+        }
+    ]
+}

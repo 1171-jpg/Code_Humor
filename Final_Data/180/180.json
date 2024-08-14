@@ -1,0 +1,57 @@
+{
+    "folder_index": "180",
+    "object_list": [
+        "Lounge chairs",
+        "Hot tub",
+        "Palm tree",
+        "Deck",
+        "Drink"
+    ],
+    "whole_object": "She's found the ideal spot to 'pool' her thoughts together!",
+    "single_object": "- Lounge chairs: These lounge chairs are so laid-back, they refuse to take part in any form of upright activity.\n- Hot tub: This hot tub's social bubble is very exclusive - only the most chilled-out can join.\n- Palm tree: The palm tree always knew how to keep its fronds close and its enemies closer.\n- Deck: The deck is truly outstanding in its field\u2014well, if only it weren't so flat and wooden.\n- Drink: This tropical drink has so much zest for life, it's always the main squeeze at parties.",
+    "multi_object": "- Lounge chairs  \n- Hot tub  \n- \"These lounge chairs are so comfortable, I might just take a dip in the hot tub to celebrate their greatness!\"  \n\n- Hot tub  \n- Drink  \n- \"This hot tub is like a party for my muscles, and my drink is the DJ spinning the tunes!\"  \n\n- Palm tree  \n- Deck  \n- \"The palm tree is so chill, it\u2019s practically the bouncer of the deck, keeping all the stress out!\"  \n\n- Deck  \n- Lounge chairs  \n- \"The deck is the ultimate hangout spot, where lounge chairs gather to gossip about the hot tub's latest bubbles!\"  \n\n- Drink  \n- Palm tree  \n- \"My drink is so refreshing, even the palm tree is swaying in approval, trying to catch a sip!\"  ",
+    "single_object_dict": {
+        "Lounge chairs": "These lounge chairs are so laid-back, they refuse to take part in any form of upright activity.",
+        "Hot tub": "This hot tub's social bubble is very exclusive - only the most chilled-out can join.",
+        "Palm tree": "The palm tree always knew how to keep its fronds close and its enemies closer.",
+        "Deck": "The deck is truly outstanding in its field\u2014well, if only it weren't so flat and wooden.",
+        "Drink": "This tropical drink has so much zest for life, it's always the main squeeze at parties."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Lounge chairs",
+            "other_object_list": [
+                "Hot tub"
+            ],
+            "object_sentence": "\"These lounge chairs are so comfortable, I might just take a dip in the hot tub to celebrate their greatness!\""
+        },
+        {
+            "main_object": "Hot tub",
+            "other_object_list": [
+                "Drink"
+            ],
+            "object_sentence": "\"This hot tub is like a party for my muscles, and my drink is the DJ spinning the tunes!\""
+        },
+        {
+            "main_object": "Palm tree",
+            "other_object_list": [
+                "Deck"
+            ],
+            "object_sentence": "\"The palm tree is so chill, it\u2019s practically the bouncer of the deck, keeping all the stress out!\""
+        },
+        {
+            "main_object": "Deck",
+            "other_object_list": [
+                "Lounge chairs"
+            ],
+            "object_sentence": "\"The deck is the ultimate hangout spot, where lounge chairs gather to gossip about the hot tub's latest bubbles!\""
+        },
+        {
+            "main_object": "Drink",
+            "other_object_list": [
+                "Palm tree"
+            ],
+            "object_sentence": "\"My drink is so refreshing, even the palm tree is swaying in approval, trying to catch a sip!\""
+        }
+    ]
+}

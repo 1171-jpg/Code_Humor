@@ -1,0 +1,30 @@
+{
+    "folder_index": "158",
+    "object_list": [
+        "Butterfly",
+        "Flower"
+    ],
+    "whole_object": "Looks like this butterfly is on a petal-stool, being admired by all the bloomarazzi!",
+    "single_object": "- Butterfly: This butterfly must be a butter-fanatic; it can't resist fluttering by for a taste.\n- Flower: This bloom must've gone to beauty school because it's petal-perfect in every way!",
+    "multi_object": "- Butterfly  \n- Flower  \n- \"Why did the butterfly sit on the flower? Because it wanted to take a petal break!\"  \n\n- Flower  \n- Butterfly  \n- \"This flower is so bright, it makes the butterfly feel like it's in a blooming good mood!\"",
+    "single_object_dict": {
+        "Butterfly": "This butterfly must be a butter-fanatic; it can't resist fluttering by for a taste.",
+        "Flower": "This bloom must've gone to beauty school because it's petal-perfect in every way!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Butterfly",
+            "other_object_list": [
+                "Flower"
+            ],
+            "object_sentence": "\"Why did the butterfly sit on the flower? Because it wanted to take a petal break!\""
+        },
+        {
+            "main_object": "Flower",
+            "other_object_list": [
+                "Butterfly"
+            ],
+            "object_sentence": "\"This flower is so bright, it makes the butterfly feel like it's in a blooming good mood!\""
+        }
+    ]
+}

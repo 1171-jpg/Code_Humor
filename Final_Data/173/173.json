@@ -1,0 +1,30 @@
+{
+    "folder_index": "173",
+    "object_list": [
+        "Books",
+        "Shelves"
+    ],
+    "whole_object": "Certainly! Utilizing wordplay, here's a humorous sentence for the given image:\n\n\"Looks like she's got a truly novel approach to checking out - bet she can't bookmark her place in that conversation!\"",
+    "single_object": "- Books: \"These books must be athletic because they're always in a binding workout!\"\n- Shelves: \"These shelves have their lives all figured out\u2014they're always on a different level!\"",
+    "multi_object": "- Books  \n- Shelves  \n- These books are so well-read, they should start charging the shelves rent for all the stories they\u2019ve shared!  \n\n- Shelves  \n- Books  \n- The shelves are feeling a bit overwhelmed; they just can\u2019t handle all the book drama\u2014it's a real shelf-life crisis!",
+    "single_object_dict": {
+        "Books": "\"These books must be athletic because they're always in a binding workout!\"",
+        "Shelves": "\"These shelves have their lives all figured out\u2014they're always on a different level!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "Shelves"
+            ],
+            "object_sentence": "These books are so well-read, they should start charging the shelves rent for all the stories they\u2019ve shared!"
+        },
+        {
+            "main_object": "Shelves",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "The shelves are feeling a bit overwhelmed; they just can\u2019t handle all the book drama\u2014it's a real shelf-life crisis!"
+        }
+    ]
+}

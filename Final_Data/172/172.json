@@ -1,0 +1,66 @@
+{
+    "folder_index": "172",
+    "object_list": [
+        "Bistro",
+        "Tables",
+        "Chairs",
+        "Building",
+        "Tree",
+        "Lamp post"
+    ],
+    "whole_object": "When the chairs outside the bistro staged a protest for being left out in the cold, they decided to make a stand but ended up sitting down on the job.",
+    "single_object": "- Bistro: This bistro is so popular, even the chef has to book a table to taste his own cooking!\n- Tables: These tables are such gossips, always chatting about the meals they've had on top of them.\n- Chairs: The chairs here are truly outstanding; they stand out more than they sit in.\n- Building: This building is such a show-off, always trying to rise above its neighbors.\n- Tree: This tree is the ultimate networker, constantly branching out.\n- Lamp post: This lamp post is so bright, it's got a PhD in illumination.",
+    "multi_object": "- Bistro  \n- Tables  \n- The bistro is so popular, even the tables are booked for dinner!\n\n- Tables  \n- Chairs  \n- These tables are feeling a bit wobbly; they need their chairs to support them!\n\n- Chairs  \n- Lamp post  \n- The chairs are jealous of the lamp post; it always gets to stand tall while they just sit around!\n\n- Building  \n- Tree  \n- The building told the tree, \"Stop leafing me out of your plans!\"\n\n- Tree  \n- Bistro  \n- The tree is trying to branch out by opening a bistro, but it keeps getting stumped! \n\n- Lamp post  \n- Building  \n- The lamp post said to the building, \"You really know how to raise the roof!\"",
+    "single_object_dict": {
+        "Bistro": "This bistro is so popular, even the chef has to book a table to taste his own cooking!",
+        "Tables": "These tables are such gossips, always chatting about the meals they've had on top of them.",
+        "Chairs": "The chairs here are truly outstanding; they stand out more than they sit in.",
+        "Building": "This building is such a show-off, always trying to rise above its neighbors.",
+        "Tree": "This tree is the ultimate networker, constantly branching out.",
+        "Lamp post": "This lamp post is so bright, it's got a PhD in illumination."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bistro",
+            "other_object_list": [
+                "Tables"
+            ],
+            "object_sentence": "The bistro is so popular, even the tables are booked for dinner!"
+        },
+        {
+            "main_object": "Tables",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "These tables are feeling a bit wobbly; they need their chairs to support them!"
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Lamp post"
+            ],
+            "object_sentence": "The chairs are jealous of the lamp post; it always gets to stand tall while they just sit around!"
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "The building told the tree, \"Stop leafing me out of your plans!\""
+        },
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Bistro"
+            ],
+            "object_sentence": "The tree is trying to branch out by opening a bistro, but it keeps getting stumped!"
+        },
+        {
+            "main_object": "Lamp post",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "The lamp post said to the building, \"You really know how to raise the roof!\""
+        }
+    ]
+}

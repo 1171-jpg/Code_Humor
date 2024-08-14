@@ -1,0 +1,84 @@
+{
+    "folder_index": "95",
+    "object_list": [
+        "Plate",
+        "Napkin",
+        "Wrapped candy",
+        "Forks",
+        "Knives",
+        "Spoons",
+        "Wine glasses",
+        "Water glass"
+    ],
+    "whole_object": "When utensils are laid out like this, you know the dinner's going to be so fancy, even the napkin's been to etiquette school.",
+    "single_object": "- Plate: \"I'm just a plate, but I always feel like I'm being taken for granted\u2014especially when I'm just a side dish!\"\n- Napkin: \"I\u2019m a napkin, and I\u2019m here to catch all your spills\u2014call me the \u2018absorbent superhero\u2019 of the dining table!\"\n- Wrapped candy: \"I\u2019m wrapped candy, and I\u2019m just here to sweeten the deal\u2014because who can resist a little sugar-coated charm?\"\n- Forks: \"I\u2019m a fork, and I\u2019m just trying to get to the point\u2014especially when it comes to pasta!\"\n- Knives: \"I\u2019m a knife, and I always cut to the chase\u2014no need for buttering me up!\"\n- Spoons: \"I\u2019m a spoon, and I\u2019m just here to stir things up\u2014let\u2019s get this party souped up!\"\n- Wine glasses: \"I\u2019m a wine glass, and I\u2019m always ready to raise a toast\u2014because life is too short for empty glasses!\"\n- Water glass: \"I\u2019m a water glass, and I\u2019m just here to keep things refreshing\u2014hydration is my motivation!\"",
+    "multi_object": "- Plate  \n- Napkin  \n- \"This plate is ready for a feast, but the napkin is just here to wipe away the evidence!\"  \n\n- Napkin  \n- Wrapped candy  \n- \"The napkin is feeling a bit wrapped up in its duties, just like that candy trying to sweeten the deal!\"  \n\n- Wrapped candy  \n- Wine glasses  \n- \"This wrapped candy is hoping to get a taste of the good life, but the wine glasses are already feeling a little tipsy!\"  \n\n- Forks  \n- Knives  \n- \"These forks are just trying to get a grip, while the knives are cutting in line for the best bites!\"  \n\n- Knives  \n- Spoons  \n- \"The knives are sharp, but they can't cut through the spoon's smooth talk!\"  \n\n- Spoons  \n- Water glass  \n- \"These spoons are ready to dive into the soup, but the water glass is just trying to keep it cool!\"  \n\n- Wine glasses  \n- Water glass  \n- \"The wine glasses are feeling classy, while the water glass is just trying to stay hydrated in this fancy party!\"  \n\n- Water glass  \n- Plate  \n- \"The water glass is feeling a bit empty, while the plate is overflowing with potential!\"  ",
+    "single_object_dict": {
+        "Plate": "\"I'm just a plate, but I always feel like I'm being taken for granted\u2014especially when I'm just a side dish!\"",
+        "Napkin": "\"I\u2019m a napkin, and I\u2019m here to catch all your spills\u2014call me the \u2018absorbent superhero\u2019 of the dining table!\"",
+        "Wrapped candy": "\"I\u2019m wrapped candy, and I\u2019m just here to sweeten the deal\u2014because who can resist a little sugar-coated charm?\"",
+        "Forks": "\"I\u2019m a fork, and I\u2019m just trying to get to the point\u2014especially when it comes to pasta!\"",
+        "Knives": "\"I\u2019m a knife, and I always cut to the chase\u2014no need for buttering me up!\"",
+        "Spoons": "\"I\u2019m a spoon, and I\u2019m just here to stir things up\u2014let\u2019s get this party souped up!\"",
+        "Wine glasses": "\"I\u2019m a wine glass, and I\u2019m always ready to raise a toast\u2014because life is too short for empty glasses!\"",
+        "Water glass": "\"I\u2019m a water glass, and I\u2019m just here to keep things refreshing\u2014hydration is my motivation!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Napkin"
+            ],
+            "object_sentence": "\"This plate is ready for a feast, but the napkin is just here to wipe away the evidence!\""
+        },
+        {
+            "main_object": "Napkin",
+            "other_object_list": [
+                "Wrapped candy"
+            ],
+            "object_sentence": "\"The napkin is feeling a bit wrapped up in its duties, just like that candy trying to sweeten the deal!\""
+        },
+        {
+            "main_object": "Wrapped candy",
+            "other_object_list": [
+                "Wine glasses"
+            ],
+            "object_sentence": "\"This wrapped candy is hoping to get a taste of the good life, but the wine glasses are already feeling a little tipsy!\""
+        },
+        {
+            "main_object": "Forks",
+            "other_object_list": [
+                "Knives"
+            ],
+            "object_sentence": "\"These forks are just trying to get a grip, while the knives are cutting in line for the best bites!\""
+        },
+        {
+            "main_object": "Knives",
+            "other_object_list": [
+                "Spoons"
+            ],
+            "object_sentence": "\"The knives are sharp, but they can't cut through the spoon's smooth talk!\""
+        },
+        {
+            "main_object": "Spoons",
+            "other_object_list": [
+                "Water glass"
+            ],
+            "object_sentence": "\"These spoons are ready to dive into the soup, but the water glass is just trying to keep it cool!\""
+        },
+        {
+            "main_object": "Wine glasses",
+            "other_object_list": [
+                "Water glass"
+            ],
+            "object_sentence": "\"The wine glasses are feeling classy, while the water glass is just trying to stay hydrated in this fancy party!\""
+        },
+        {
+            "main_object": "Water glass",
+            "other_object_list": [
+                "Plate"
+            ],
+            "object_sentence": "\"The water glass is feeling a bit empty, while the plate is overflowing with potential!\""
+        }
+    ]
+}

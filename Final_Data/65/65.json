@@ -1,0 +1,30 @@
+{
+    "folder_index": "65",
+    "object_list": [
+        "Car",
+        "Van"
+    ],
+    "whole_object": "When this tiny car drives by, you can't help but wonder if it's on a diet, because it sure has slimmed down between courses of traffic.",
+    "single_object": "- Car: This little car must be a magician on the road, because it always turns into a compact spot!\n- Van: That van's so utilitarian, it could carry the whole plot of a sitcom and its laugh track too.",
+    "multi_object": "- Car  \n- Van  \n- \"This car is so compact, it could fit in the van's glove compartment and still have room for a snack!\"  \n\n- Van  \n- Car  \n- \"The van thinks it's the big cheese, but the car knows it's just a little wheel in a big traffic jam!\"  ",
+    "single_object_dict": {
+        "Car": "This little car must be a magician on the road, because it always turns into a compact spot!",
+        "Van": "That van's so utilitarian, it could carry the whole plot of a sitcom and its laugh track too."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Van"
+            ],
+            "object_sentence": "\"This car is so compact, it could fit in the van's glove compartment and still have room for a snack!\""
+        },
+        {
+            "main_object": "Van",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The van thinks it's the big cheese, but the car knows it's just a little wheel in a big traffic jam!\""
+        }
+    ]
+}

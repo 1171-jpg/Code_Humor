@@ -1,0 +1,57 @@
+{
+    "folder_index": "103",
+    "object_list": [
+        "Houses",
+        "Trees",
+        "Car",
+        "Fire hydrant",
+        "Trash can"
+    ],
+    "whole_object": "It seems the trees have really branched out into real estate, they're offering some unbe-leaf-able shade!",
+    "single_object": "- Houses: \"These houses seem to think they're in a race, always trying to one-up each other with their 'storeys'!\"\n- Trees: \"The trees are really branching out in social media \u2013 they're now Instagrams and Facebark influencers.\"\n- Car: \"This car must be a magician; it's always turning money into gas.\"\n- Fire hydrant: \"The fire hydrant's social life is pretty dry \u2013 it only gets to hang out with the 'hottest' friends in emergencies.\"\n- Trash can: \"The trash can is the neighborhood's gossip hub, always collecting the latest 'dirt'.\"",
+    "multi_object": "- Houses  \n- Trees  \n- \"These houses are so close to the trees, I half expect them to start leafing through the neighborhood gossip!\"  \n\n- Trees  \n- Fire hydrant  \n- \"The trees are standing tall, but that fire hydrant is just waiting for a chance to make a splash!\"  \n\n- Car  \n- Trash can  \n- \"That car looks so shiny, it must be trying to impress the trash can next to it\u2014talk about a real garbage romance!\"  \n\n- Fire hydrant  \n- Trash can  \n- \"The fire hydrant and the trash can are having a heated debate about who has the best 'drain' on the neighborhood!\"  \n\n- Trash can  \n- Houses  \n- \"The trash can is feeling a bit out of place next to those houses; it\u2019s like the neighborhood's messy secret!\"  ",
+    "single_object_dict": {
+        "Houses": "\"These houses seem to think they're in a race, always trying to one-up each other with their 'storeys'!\"",
+        "Trees": "\"The trees are really branching out in social media \u2013 they're now Instagrams and Facebark influencers.\"",
+        "Car": "\"This car must be a magician; it's always turning money into gas.\"",
+        "Fire hydrant": "\"The fire hydrant's social life is pretty dry \u2013 it only gets to hang out with the 'hottest' friends in emergencies.\"",
+        "Trash can": "\"The trash can is the neighborhood's gossip hub, always collecting the latest 'dirt'.\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Houses",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "\"These houses are so close to the trees, I half expect them to start leafing through the neighborhood gossip!\""
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Fire hydrant"
+            ],
+            "object_sentence": "\"The trees are standing tall, but that fire hydrant is just waiting for a chance to make a splash!\""
+        },
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Trash can"
+            ],
+            "object_sentence": "\"That car looks so shiny, it must be trying to impress the trash can next to it\u2014talk about a real garbage romance!\""
+        },
+        {
+            "main_object": "Fire hydrant",
+            "other_object_list": [
+                "Trash can"
+            ],
+            "object_sentence": "\"The fire hydrant and the trash can are having a heated debate about who has the best 'drain' on the neighborhood!\""
+        },
+        {
+            "main_object": "Trash can",
+            "other_object_list": [
+                "Houses"
+            ],
+            "object_sentence": "\"The trash can is feeling a bit out of place next to those houses; it\u2019s like the neighborhood's messy secret!\""
+        }
+    ]
+}

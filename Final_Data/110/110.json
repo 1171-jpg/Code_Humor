@@ -1,0 +1,102 @@
+{
+    "folder_index": "110",
+    "object_list": [
+        "Table",
+        "Chairs",
+        "Curtains",
+        "Trophy",
+        "Painting",
+        "Window",
+        "Lamp",
+        "Cabinet",
+        "Books",
+        "Model ship"
+    ],
+    "whole_object": "This boardroom is so fancy, it looks like even the chairs are having a meeting of the 'knotty' pine committee.",
+    "single_object": "- Table: \"I told the table to take a break, but it just couldn't handle the pressure of all those meetings!\"\n- Chairs: \"These chairs are so supportive, they should start a motivational speaking tour!\"\n- Curtains: \"The curtains are great at keeping secrets; they never let the light in on the gossip!\"\n- Trophy: \"This trophy is a real show-off; it always wants to be the center of attention!\"\n- Painting: \"The painting is so well-done, it could probably teach a class on how to hang around!\"\n- Window: \"The window has a clear view on life, but it still can't see why people love to stare!\"\n- Lamp: \"This lamp is always brightening up the room, but it really needs to work on its light-hearted jokes!\"\n- Cabinet: \"The cabinet is a real hoarder; it just can't resist keeping all the best stories behind closed doors!\"\n- Books: \"These books are so full of knowledge, they should start charging for their wisdom!\" \n- Model ship: \"The model ship is always ready to sail into new adventures, but it never leaves the dock!\"",
+    "multi_object": "- Table  \n- Chairs  \n- \"The table was feeling a bit flat, but the chairs were ready to lift its spirits!\"  \n\n- Chairs  \n- Trophy  \n- \"The chairs were jealous of the trophy, claiming it was just a 'sitting' success!\"  \n\n- Curtains  \n- Window  \n- \"The curtains were always peeking at the window, trying to get the latest gossip from outside!\"  \n\n- Trophy  \n- Lamp  \n- \"The trophy shone brighter than the lamp, but only because it was tired of being a 'second place' light!\"  \n\n- Painting  \n- Cabinet  \n- \"The painting tried to impress the cabinet, but it just couldn't find the right frame of reference!\"  \n\n- Window  \n- Books  \n- \"The window wanted to read the books, but it couldn't find a good 'pane' to sit on!\"  \n\n- Lamp  \n- Model ship  \n- \"The lamp thought it was the captain of the room, but the model ship reminded it that it was just a light in the harbor!\"  \n\n- Cabinet  \n- Table  \n- \"The cabinet was always storing secrets, while the table just wanted to lay everything out on the surface!\"  \n\n- Books  \n- Curtains  \n- \"The books were getting dusty, while the curtains were just hanging around, waiting for a good story!\"  \n\n- Model ship  \n- Trophy  \n- \"The model ship dreamed of sailing to victory, but the trophy reminded it that it was all just a 'nautical' nonsense!\"  ",
+    "single_object_dict": {
+        "Table": "\"I told the table to take a break, but it just couldn't handle the pressure of all those meetings!\"",
+        "Chairs": "\"These chairs are so supportive, they should start a motivational speaking tour!\"",
+        "Curtains": "\"The curtains are great at keeping secrets; they never let the light in on the gossip!\"",
+        "Trophy": "\"This trophy is a real show-off; it always wants to be the center of attention!\"",
+        "Painting": "\"The painting is so well-done, it could probably teach a class on how to hang around!\"",
+        "Window": "\"The window has a clear view on life, but it still can't see why people love to stare!\"",
+        "Lamp": "\"This lamp is always brightening up the room, but it really needs to work on its light-hearted jokes!\"",
+        "Cabinet": "\"The cabinet is a real hoarder; it just can't resist keeping all the best stories behind closed doors!\"",
+        "Books": "\"These books are so full of knowledge, they should start charging for their wisdom!\"",
+        "Model ship": "\"The model ship is always ready to sail into new adventures, but it never leaves the dock!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"The table was feeling a bit flat, but the chairs were ready to lift its spirits!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Trophy"
+            ],
+            "object_sentence": "\"The chairs were jealous of the trophy, claiming it was just a 'sitting' success!\""
+        },
+        {
+            "main_object": "Curtains",
+            "other_object_list": [
+                "Window"
+            ],
+            "object_sentence": "\"The curtains were always peeking at the window, trying to get the latest gossip from outside!\""
+        },
+        {
+            "main_object": "Trophy",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"The trophy shone brighter than the lamp, but only because it was tired of being a 'second place' light!\""
+        },
+        {
+            "main_object": "Painting",
+            "other_object_list": [
+                "Cabinet"
+            ],
+            "object_sentence": "\"The painting tried to impress the cabinet, but it just couldn't find the right frame of reference!\""
+        },
+        {
+            "main_object": "Window",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "\"The window wanted to read the books, but it couldn't find a good 'pane' to sit on!\""
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Model ship"
+            ],
+            "object_sentence": "\"The lamp thought it was the captain of the room, but the model ship reminded it that it was just a light in the harbor!\""
+        },
+        {
+            "main_object": "Cabinet",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"The cabinet was always storing secrets, while the table just wanted to lay everything out on the surface!\""
+        },
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "Curtains"
+            ],
+            "object_sentence": "\"The books were getting dusty, while the curtains were just hanging around, waiting for a good story!\""
+        },
+        {
+            "main_object": "Model ship",
+            "other_object_list": [
+                "Trophy"
+            ],
+            "object_sentence": "\"The model ship dreamed of sailing to victory, but the trophy reminded it that it was all just a 'nautical' nonsense!\""
+        }
+    ]
+}

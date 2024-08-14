@@ -1,0 +1,84 @@
+{
+    "folder_index": "47",
+    "object_list": [
+        "Buildings",
+        "Cars",
+        "Traffic lights",
+        "Crosswalk",
+        "Trash can",
+        "Street lights",
+        "People",
+        "Trees"
+    ],
+    "whole_object": "It seems even the cars are pooling together on this wet day \u2014 nobody likes to drive alone in the rain!",
+    "single_object": "- Buildings: \"These buildings are so close, they've been thinking of starting a brick-and-mortar social network.\"\n- Cars: \"Why don't cars ever get tired? Because they come with their own set of wheels!\"\n- Traffic lights: \"A traffic light turned green and saw all the cars go. It thought to itself, 'I knew I had the power to move people.'\"\n- Crosswalk: \"This crosswalk is so popular, it's practically a pedestrian's runway.\"\n- Trash can: \"You know the trash can considers itself quite the 'can'-do personality in the world of waste management.\"\n- Street lights: \"The street lights are the city's way of giving the stars a run for their money.\"\n- People: \"People like to walk in the rain because it\u2019s the only time no one can see them cry, or maybe they just like puddles.\"\n- Trees: \"Why did the tree worry about making friends? It couldn't get out of its bark to meet new leaves!\"",
+    "multi_object": "- Buildings  \n- Cars  \n- \"These buildings are so tall, they must be trying to outshine the cars with their skyscraper personalities!\"  \n\n- Cars  \n- Traffic lights  \n- \"The cars are playing a game of red light, green light, but I think the traffic lights are just enjoying the drama!\"  \n\n- Traffic lights  \n- Crosswalk  \n- \"The traffic lights are like the referees of the street, making sure the crosswalk doesn\u2019t get too carried away with its pedestrian dance!\"  \n\n- Crosswalk  \n- Trees  \n- \"The crosswalk is like a runway for pedestrians, but those trees are the overzealous paparazzi snapping every step!\"  \n\n- Trash can  \n- Street lights  \n- \"The trash can is feeling a bit down, but the street lights keep shining bright, reminding it that every can has its day!\"  \n\n- Street lights  \n- People  \n- \"The street lights are like the spotlight on a stage, but the people are the real stars, just trying to avoid a wardrobe malfunction in the rain!\"  \n\n- People  \n- Trees  \n- \"The people are huddled under their umbrellas, while the trees are just standing there, showing off their natural 'leaf' of absence!\"  \n\n- Trees  \n- Buildings  \n- \"The trees are whispering secrets to the buildings, but I think the buildings are just pretending to listen while they tower over them!\"  ",
+    "single_object_dict": {
+        "Buildings": "\"These buildings are so close, they've been thinking of starting a brick-and-mortar social network.\"",
+        "Cars": "\"Why don't cars ever get tired? Because they come with their own set of wheels!\"",
+        "Traffic lights": "\"A traffic light turned green and saw all the cars go. It thought to itself, 'I knew I had the power to move people.'\"",
+        "Crosswalk": "\"This crosswalk is so popular, it's practically a pedestrian's runway.\"",
+        "Trash can": "\"You know the trash can considers itself quite the 'can'-do personality in the world of waste management.\"",
+        "Street lights": "\"The street lights are the city's way of giving the stars a run for their money.\"",
+        "People": "\"People like to walk in the rain because it\u2019s the only time no one can see them cry, or maybe they just like puddles.\"",
+        "Trees": "\"Why did the tree worry about making friends? It couldn't get out of its bark to meet new leaves!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "\"These buildings are so tall, they must be trying to outshine the cars with their skyscraper personalities!\""
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Traffic lights"
+            ],
+            "object_sentence": "\"The cars are playing a game of red light, green light, but I think the traffic lights are just enjoying the drama!\""
+        },
+        {
+            "main_object": "Traffic lights",
+            "other_object_list": [
+                "Crosswalk"
+            ],
+            "object_sentence": "\"The traffic lights are like the referees of the street, making sure the crosswalk doesn\u2019t get too carried away with its pedestrian dance!\""
+        },
+        {
+            "main_object": "Crosswalk",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "\"The crosswalk is like a runway for pedestrians, but those trees are the overzealous paparazzi snapping every step!\""
+        },
+        {
+            "main_object": "Trash can",
+            "other_object_list": [
+                "Street lights"
+            ],
+            "object_sentence": "\"The trash can is feeling a bit down, but the street lights keep shining bright, reminding it that every can has its day!\""
+        },
+        {
+            "main_object": "Street lights",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The street lights are like the spotlight on a stage, but the people are the real stars, just trying to avoid a wardrobe malfunction in the rain!\""
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "\"The people are huddled under their umbrellas, while the trees are just standing there, showing off their natural 'leaf' of absence!\""
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "\"The trees are whispering secrets to the buildings, but I think the buildings are just pretending to listen while they tower over them!\""
+        }
+    ]
+}

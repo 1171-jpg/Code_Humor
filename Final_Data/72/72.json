@@ -1,0 +1,84 @@
+{
+    "folder_index": "72",
+    "object_list": [
+        "Plates",
+        "Glasses",
+        "Napkins",
+        "Bread",
+        "Salad",
+        "Wine",
+        "Water",
+        "Name tags"
+    ],
+    "whole_object": "When the steaks are high, the salad looks a little green with envy at this dinner party.",
+    "single_object": "- Plates: They say you are what you eat, but after I take seconds, I'm more what I plate.\n- Glasses: These glasses are so clear, I think they've had a vision correction.\n- Napkins: They're not just napkins \u2013 they're lap-tops for the etiquette elite.\n- Bread: This bread must be a gym enthusiast; it's always getting toasted.\n- Salad: The salad is always dressed better than I am \u2013 it has so many layers.\n- Wine: The wine says it's aged to perfection; clearly, it's in its grapest form.\n- Water: The water's so clean it must have had a filter through its life choices.\n- Name tags: These name tags know everybody; it's like they have a first-name basis with the whole table.",
+    "multi_object": "- Plates  \n- Glasses  \n- \"These plates are so full, they might just start a glassy-eyed revolution!\"\n\n- Glasses  \n- Wine  \n- \"I told my glasses to stop drinking wine, but they just couldn't resist a little grape adventure!\"\n\n- Napkins  \n- Salad  \n- \"These napkins are so fancy, they could probably give the salad a run for its dressing!\"\n\n- Bread  \n- Water  \n- \"This bread is so crusty, it thinks it can float on water like a loaf of bread-venture!\"\n\n- Salad  \n- Name tags  \n- \"This salad is so colorful, it should have its own name tag: 'Lettuce be friends!'\"\n\n- Wine  \n- Napkins  \n- \"This wine is so smooth, it makes the napkins feel like they need a little pick-me-up!\" \n\n- Water  \n- Plates  \n- \"This water is so refreshing, it could make even the most boring plates feel like a party!\" \n\n- Name tags  \n- Bread  \n- \"These name tags are so eager to mingle, they might just start buttering up the bread!\"",
+    "single_object_dict": {
+        "Plates": "They say you are what you eat, but after I take seconds, I'm more what I plate.",
+        "Glasses": "These glasses are so clear, I think they've had a vision correction.",
+        "Napkins": "They're not just napkins \u2013 they're lap-tops for the etiquette elite.",
+        "Bread": "This bread must be a gym enthusiast; it's always getting toasted.",
+        "Salad": "The salad is always dressed better than I am \u2013 it has so many layers.",
+        "Wine": "The wine says it's aged to perfection; clearly, it's in its grapest form.",
+        "Water": "The water's so clean it must have had a filter through its life choices.",
+        "Name tags": "These name tags know everybody; it's like they have a first-name basis with the whole table."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Plates",
+            "other_object_list": [
+                "Glasses"
+            ],
+            "object_sentence": "\"These plates are so full, they might just start a glassy-eyed revolution!\""
+        },
+        {
+            "main_object": "Glasses",
+            "other_object_list": [
+                "Wine"
+            ],
+            "object_sentence": "\"I told my glasses to stop drinking wine, but they just couldn't resist a little grape adventure!\""
+        },
+        {
+            "main_object": "Napkins",
+            "other_object_list": [
+                "Salad"
+            ],
+            "object_sentence": "\"These napkins are so fancy, they could probably give the salad a run for its dressing!\""
+        },
+        {
+            "main_object": "Bread",
+            "other_object_list": [
+                "Water"
+            ],
+            "object_sentence": "\"This bread is so crusty, it thinks it can float on water like a loaf of bread-venture!\""
+        },
+        {
+            "main_object": "Salad",
+            "other_object_list": [
+                "Name tags"
+            ],
+            "object_sentence": "\"This salad is so colorful, it should have its own name tag: 'Lettuce be friends!'\""
+        },
+        {
+            "main_object": "Wine",
+            "other_object_list": [
+                "Napkins"
+            ],
+            "object_sentence": "\"This wine is so smooth, it makes the napkins feel like they need a little pick-me-up!\""
+        },
+        {
+            "main_object": "Water",
+            "other_object_list": [
+                "Plates"
+            ],
+            "object_sentence": "\"This water is so refreshing, it could make even the most boring plates feel like a party!\""
+        },
+        {
+            "main_object": "Name tags",
+            "other_object_list": [
+                "Bread"
+            ],
+            "object_sentence": "\"These name tags are so eager to mingle, they might just start buttering up the bread!\""
+        }
+    ]
+}

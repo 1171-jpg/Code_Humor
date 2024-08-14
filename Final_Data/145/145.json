@@ -1,0 +1,30 @@
+{
+    "folder_index": "145",
+    "object_list": [
+        "Car",
+        "Billboard"
+    ],
+    "whole_object": "\"Looks like the billboard decided to take a day off\u2014now it's truly an 'ad-less' adventure!\"",
+    "single_object": "- Car: \"Why did the car apply for a job? It wanted to drive its career forward!\"\n- Billboard: \"I told the billboard to lighten up, but it just couldn't handle the pressure of being so 'stretched' thin!\"",
+    "multi_object": "- Car  \n- Billboard  \n- \"This car is so fast, it could outrun the billboard's ability to advertise a good time!\"  \n\n- Billboard  \n- Car  \n- \"That billboard is just waiting for a car to drive by and give it a reason to change its message from 'Buy Now!' to 'Drive Faster!'\"  ",
+    "single_object_dict": {
+        "Car": "\"Why did the car apply for a job? It wanted to drive its career forward!\"",
+        "Billboard": "\"I told the billboard to lighten up, but it just couldn't handle the pressure of being so 'stretched' thin!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Billboard"
+            ],
+            "object_sentence": "\"This car is so fast, it could outrun the billboard's ability to advertise a good time!\""
+        },
+        {
+            "main_object": "Billboard",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"That billboard is just waiting for a car to drive by and give it a reason to change its message from 'Buy Now!' to 'Drive Faster!'\""
+        }
+    ]
+}

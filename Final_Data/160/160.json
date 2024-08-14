@@ -1,0 +1,30 @@
+{
+    "folder_index": "160",
+    "object_list": [
+        "Pots",
+        "Purple dresses"
+    ],
+    "whole_object": "At the newest cafe, the dress code is strictly 'pot' couture, where everyone carries their own pot on the head to blend in!",
+    "single_object": "- Pots: These pots must be the latest in high-fashion headwear \u2013 they really are 'topping' the style charts!\n- Purple dresses: These purple dresses aren't just violet delights, they must be the 'purple'-fect attire for a sophisticated squat!",
+    "multi_object": "- Pots  \n- Purple dresses  \n- These pots are really trying to dress up their game, but they just can't seem to find the right purple to match!  \n\n- Purple dresses  \n- Pots  \n- These purple dresses are so vibrant, even the pots are jealous of their ability to steal the spotlight!  ",
+    "single_object_dict": {
+        "Pots": "These pots must be the latest in high-fashion headwear \u2013 they really are 'topping' the style charts!",
+        "Purple dresses": "These purple dresses aren't just violet delights, they must be the 'purple'-fect attire for a sophisticated squat!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Pots",
+            "other_object_list": [
+                "Purple dresses"
+            ],
+            "object_sentence": "These pots are really trying to dress up their game, but they just can't seem to find the right purple to match!"
+        },
+        {
+            "main_object": "Purple dresses",
+            "other_object_list": [
+                "Pots"
+            ],
+            "object_sentence": "These purple dresses are so vibrant, even the pots are jealous of their ability to steal the spotlight!"
+        }
+    ]
+}

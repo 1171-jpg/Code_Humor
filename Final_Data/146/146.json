@@ -1,0 +1,30 @@
+{
+    "folder_index": "146",
+    "object_list": [
+        "Scooter",
+        "Broom"
+    ],
+    "whole_object": "The scooter in the corner seems to be thinking, \"I've really hit the wall when it comes to social distancing!\"",
+    "single_object": "- Scooter: \"Why did the scooter break up with the bicycle? It couldn't handle the two-tired relationship!\"\n- Broom: \"I swept the competition, but now I'm just gathering dust!\"",
+    "multi_object": "- Scooter  \n- Broom  \n- \"Why did the scooter bring a broom to the garage? Because it wanted to sweep everyone off their wheels!\"  \n\n- Broom  \n- Scooter  \n- \"The broom tried to race the scooter, but it realized it was just too swept up in the moment!\"  ",
+    "single_object_dict": {
+        "Scooter": "\"Why did the scooter break up with the bicycle? It couldn't handle the two-tired relationship!\"",
+        "Broom": "\"I swept the competition, but now I'm just gathering dust!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Scooter",
+            "other_object_list": [
+                "Broom"
+            ],
+            "object_sentence": "\"Why did the scooter bring a broom to the garage? Because it wanted to sweep everyone off their wheels!\""
+        },
+        {
+            "main_object": "Broom",
+            "other_object_list": [
+                "Scooter"
+            ],
+            "object_sentence": "\"The broom tried to race the scooter, but it realized it was just too swept up in the moment!\""
+        }
+    ]
+}

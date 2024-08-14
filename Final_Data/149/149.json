@@ -1,0 +1,66 @@
+{
+    "folder_index": "149",
+    "object_list": [
+        "Tree",
+        "Parking meter",
+        "Cars",
+        "Building",
+        "Traffic cone",
+        "Sidewalk"
+    ],
+    "whole_object": "Looks like even the trees are branching out into new parking spaces nowadays!",
+    "single_object": "- Tree: \"I'm quite poplar in this neighborhood, branching out to make new friends!\"\n- Parking meter: \"Just standing here, collecting change, like a piggy bank with a better view.\"\n- Cars: \"Always in a race to nowhere, they're tired of the daily commute!\"\n- Building: \"I've got many stories, but I'll save the tall tales for later.\"\n- Traffic cone: \"I'm the life of the party, always cone-tributing to street safety!\"\n- Sidewalk: \"I provide support to everyone, but nobody ever takes me out for a walk.\"",
+    "multi_object": "- Tree  \n- Parking meter  \n- \"The tree was feeling a bit shady, especially with that parking meter always counting its leaves!\"  \n\n- Parking meter  \n- Cars  \n- \"The parking meter was so tired of counting coins, it wished it could just drive away with the cars!\"  \n\n- Cars  \n- Building  \n- \"The cars were parked so neatly, they looked like they were auditioning for a role in a building's parking lot drama!\"  \n\n- Building  \n- Traffic cone  \n- \"The building was so tall, it felt like it needed a traffic cone to direct all the compliments its way!\"  \n\n- Traffic cone  \n- Sidewalk  \n- \"The traffic cone was standing guard over the sidewalk, making sure no one tripped over its own ego!\"  \n\n- Sidewalk  \n- Tree  \n- \"The sidewalk was feeling a bit cracked, but at least the tree was there to leaf it some support!\"  ",
+    "single_object_dict": {
+        "Tree": "\"I'm quite poplar in this neighborhood, branching out to make new friends!\"",
+        "Parking meter": "\"Just standing here, collecting change, like a piggy bank with a better view.\"",
+        "Cars": "\"Always in a race to nowhere, they're tired of the daily commute!\"",
+        "Building": "\"I've got many stories, but I'll save the tall tales for later.\"",
+        "Traffic cone": "\"I'm the life of the party, always cone-tributing to street safety!\"",
+        "Sidewalk": "\"I provide support to everyone, but nobody ever takes me out for a walk.\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Parking meter"
+            ],
+            "object_sentence": "\"The tree was feeling a bit shady, especially with that parking meter always counting its leaves!\""
+        },
+        {
+            "main_object": "Parking meter",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "\"The parking meter was so tired of counting coins, it wished it could just drive away with the cars!\""
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The cars were parked so neatly, they looked like they were auditioning for a role in a building's parking lot drama!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Traffic cone"
+            ],
+            "object_sentence": "\"The building was so tall, it felt like it needed a traffic cone to direct all the compliments its way!\""
+        },
+        {
+            "main_object": "Traffic cone",
+            "other_object_list": [
+                "Sidewalk"
+            ],
+            "object_sentence": "\"The traffic cone was standing guard over the sidewalk, making sure no one tripped over its own ego!\""
+        },
+        {
+            "main_object": "Sidewalk",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "\"The sidewalk was feeling a bit cracked, but at least the tree was there to leaf it some support!\""
+        }
+    ]
+}

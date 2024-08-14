@@ -1,0 +1,84 @@
+{
+    "folder_index": "117",
+    "object_list": [
+        "Bed",
+        "Painting",
+        "Wall lamp",
+        "Mirror",
+        "Nightstand",
+        "Phone",
+        "Light switch",
+        "Electrical outlet"
+    ],
+    "whole_object": "\"After a day of petal-pushing at work, I like to come back to a room that really knows how to flower up the decor!\" (Wordplay)",
+    "single_object": "- Bed: \"I told my bed about my dreams, but it just rolled its eyes and said, 'Get a pillow!'\"\n- Painting: \"This painting really knows how to draw a crowd, but it\u2019s still hanging around!\"\n- Wall lamp: \"I asked the wall lamp for advice, but it just said, 'Lighten up!'\"\n- Mirror: \"The mirror and I have a love-hate relationship; it reflects my best side but also my worst hair days!\"\n- Nightstand: \"My nightstand is like a magician; it makes my phone disappear every time I need it!\"\n- Phone: \"My phone is so smart, it even knows when I\u2019m about to drop it\u2014talk about a call for help!\"\n- Light switch: \"I told the light switch to brighten my day, but it just flicked me off!\"\n- Electrical outlet: \"The electrical outlet is always plugged into the latest gossip; it really knows how to connect!\"",
+    "multi_object": "- Bed  \n- Nightstand  \n- \"I told the bed to wake me up, but it just kept snoozing like the nightstand was telling bedtime stories!\"  \n\n- Painting  \n- Mirror  \n- \"The painting was feeling a bit reflective, but the mirror just kept saying, 'You think you're the only one with a frame of reference?'\"  \n\n- Wall lamp  \n- Light switch  \n- \"The wall lamp and the light switch had a bright idea, but the switch just kept flickering between 'on' and 'off' like it was playing hard to get!\"  \n\n- Mirror  \n- Phone  \n- \"The mirror was tired of selfies; it told the phone, 'I reflect on my life, not just your angles!'\"  \n\n- Nightstand  \n- Electrical outlet  \n- \"The nightstand was feeling charged up, but the electrical outlet just said, 'Don't plug me into your drama!'\"  \n\n- Phone  \n- Bed  \n- \"The phone tried to call the bed for a cozy chat, but the bed just texted back, 'I'm too busy dreaming!'\"  \n\n- Light switch  \n- Wall lamp  \n- \"The light switch and the wall lamp had a bright relationship, but they always argued about who turned the mood on!\"  \n\n- Electrical outlet  \n- Painting  \n- \"The electrical outlet admired the painting, saying, 'You may be a masterpiece, but I\u2019m the one with all the connections!'\"  ",
+    "single_object_dict": {
+        "Bed": "\"I told my bed about my dreams, but it just rolled its eyes and said, 'Get a pillow!'\"",
+        "Painting": "\"This painting really knows how to draw a crowd, but it\u2019s still hanging around!\"",
+        "Wall lamp": "\"I asked the wall lamp for advice, but it just said, 'Lighten up!'\"",
+        "Mirror": "\"The mirror and I have a love-hate relationship; it reflects my best side but also my worst hair days!\"",
+        "Nightstand": "\"My nightstand is like a magician; it makes my phone disappear every time I need it!\"",
+        "Phone": "\"My phone is so smart, it even knows when I\u2019m about to drop it\u2014talk about a call for help!\"",
+        "Light switch": "\"I told the light switch to brighten my day, but it just flicked me off!\"",
+        "Electrical outlet": "\"The electrical outlet is always plugged into the latest gossip; it really knows how to connect!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bed",
+            "other_object_list": [
+                "Nightstand"
+            ],
+            "object_sentence": "\"I told the bed to wake me up, but it just kept snoozing like the nightstand was telling bedtime stories!\""
+        },
+        {
+            "main_object": "Painting",
+            "other_object_list": [
+                "Mirror"
+            ],
+            "object_sentence": "\"The painting was feeling a bit reflective, but the mirror just kept saying, 'You think you're the only one with a frame of reference?'\""
+        },
+        {
+            "main_object": "Wall lamp",
+            "other_object_list": [
+                "Light switch"
+            ],
+            "object_sentence": "\"The wall lamp and the light switch had a bright idea, but the switch just kept flickering between 'on' and 'off' like it was playing hard to get!\""
+        },
+        {
+            "main_object": "Mirror",
+            "other_object_list": [
+                "Phone"
+            ],
+            "object_sentence": "\"The mirror was tired of selfies; it told the phone, 'I reflect on my life, not just your angles!'\""
+        },
+        {
+            "main_object": "Nightstand",
+            "other_object_list": [
+                "Electrical outlet"
+            ],
+            "object_sentence": "\"The nightstand was feeling charged up, but the electrical outlet just said, 'Don't plug me into your drama!'\""
+        },
+        {
+            "main_object": "Phone",
+            "other_object_list": [
+                "Bed"
+            ],
+            "object_sentence": "\"The phone tried to call the bed for a cozy chat, but the bed just texted back, 'I'm too busy dreaming!'\""
+        },
+        {
+            "main_object": "Light switch",
+            "other_object_list": [
+                "Wall lamp"
+            ],
+            "object_sentence": "\"The light switch and the wall lamp had a bright relationship, but they always argued about who turned the mood on!\""
+        },
+        {
+            "main_object": "Electrical outlet",
+            "other_object_list": [
+                "Painting"
+            ],
+            "object_sentence": "\"The electrical outlet admired the painting, saying, 'You may be a masterpiece, but I\u2019m the one with all the connections!'\""
+        }
+    ]
+}

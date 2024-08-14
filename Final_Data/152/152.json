@@ -1,0 +1,57 @@
+{
+    "folder_index": "152",
+    "object_list": [
+        "People",
+        "Sofas",
+        "Bottles",
+        "Plant",
+        "Poster"
+    ],
+    "whole_object": "\"They've clearly mastered the art of 'sofa-nization', effortlessly blending into the furniture with those snazzy suits!\"",
+    "single_object": "- People: They must be some sort of sitting volleyball team, because they certainly know how to take a seat.\n- Sofas: Those sofas really know how to support a cast of characters; they're the real backbone of furniture.\n- Bottles: This bottle tries so hard to be transparent, but it\u2019s clearly filled with mystery.\n- Plant: This plant is really branching out into the world of interior design, quite the enterprising evergreen.\n- Poster: The poster is clearly a big fan of itself, it's always hanging around.",
+    "multi_object": "- People  \n- Sofas  \n- \"These people are so comfortable, they could probably win a lounging competition on those sofas!\"  \n\n- Sofas  \n- Bottles  \n- \"These sofas are like the bottles\u2014both are great at holding things up, but only one can handle a party!\"  \n\n- Bottles  \n- Plant  \n- \"These bottles are feeling a bit green with envy; that plant is really stealing the spotlight!\"  \n\n- Plant  \n- Poster  \n- \"That plant is trying to leaf a lasting impression, but the poster is just hanging around!\"  \n\n- Poster  \n- People  \n- \"The poster is so inspiring, it makes the people want to pose like it's a fashion show!\"  ",
+    "single_object_dict": {
+        "People": "They must be some sort of sitting volleyball team, because they certainly know how to take a seat.",
+        "Sofas": "Those sofas really know how to support a cast of characters; they're the real backbone of furniture.",
+        "Bottles": "This bottle tries so hard to be transparent, but it\u2019s clearly filled with mystery.",
+        "Plant": "This plant is really branching out into the world of interior design, quite the enterprising evergreen.",
+        "Poster": "The poster is clearly a big fan of itself, it's always hanging around."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Sofas"
+            ],
+            "object_sentence": "\"These people are so comfortable, they could probably win a lounging competition on those sofas!\""
+        },
+        {
+            "main_object": "Sofas",
+            "other_object_list": [
+                "Bottles"
+            ],
+            "object_sentence": "\"These sofas are like the bottles\u2014both are great at holding things up, but only one can handle a party!\""
+        },
+        {
+            "main_object": "Bottles",
+            "other_object_list": [
+                "Plant"
+            ],
+            "object_sentence": "\"These bottles are feeling a bit green with envy; that plant is really stealing the spotlight!\""
+        },
+        {
+            "main_object": "Plant",
+            "other_object_list": [
+                "Poster"
+            ],
+            "object_sentence": "\"That plant is trying to leaf a lasting impression, but the poster is just hanging around!\""
+        },
+        {
+            "main_object": "Poster",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The poster is so inspiring, it makes the people want to pose like it's a fashion show!\""
+        }
+    ]
+}

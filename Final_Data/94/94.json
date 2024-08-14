@@ -1,0 +1,57 @@
+{
+    "folder_index": "94",
+    "object_list": [
+        "Knife",
+        "Fork",
+        "Salad",
+        "Drink",
+        "Napkin"
+    ],
+    "whole_object": "Let's toss a salad pun your way: this seafood salad surely prawns the competition for the best-dressed dish in town!",
+    "single_object": "- Knife: This knife's culinary skills are so sharp, it's a 'cut' above the rest.\n- Fork: The lonely fork always thought it could be a spoon if it just forked up the courage.\n- Salad: This salad has so much personality, it said it would leaf us if it wasn't dressed properly.\n- Drink: The drink next to the salad is so cool, it's practically ice-cubing with excitement.\n- Napkin: The napkin says it's ready to throw in the table at the slightest spill.",
+    "multi_object": "- Knife  \n- Fork  \n- \"I told the knife to cut it out, but it just couldn't resist a little fork in the road!\"  \n\n- Fork  \n- Salad  \n- \"The fork was feeling a bit green, but it knew it had to dig into the salad to get to the root of the problem!\"  \n\n- Salad  \n- Drink  \n- \"This salad is so fresh, it practically asked the drink for a refreshing splash of personality!\"  \n\n- Drink  \n- Napkin  \n- \"The drink was feeling a little shaken, so it called the napkin for a smooth pick-me-up!\"  \n\n- Napkin  \n- Knife  \n- \"The napkin tried to wrap things up, but the knife just kept cutting in!\"  ",
+    "single_object_dict": {
+        "Knife": "This knife's culinary skills are so sharp, it's a 'cut' above the rest.",
+        "Fork": "The lonely fork always thought it could be a spoon if it just forked up the courage.",
+        "Salad": "This salad has so much personality, it said it would leaf us if it wasn't dressed properly.",
+        "Drink": "The drink next to the salad is so cool, it's practically ice-cubing with excitement.",
+        "Napkin": "The napkin says it's ready to throw in the table at the slightest spill."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Knife",
+            "other_object_list": [
+                "Fork"
+            ],
+            "object_sentence": "\"I told the knife to cut it out, but it just couldn't resist a little fork in the road!\""
+        },
+        {
+            "main_object": "Fork",
+            "other_object_list": [
+                "Salad"
+            ],
+            "object_sentence": "\"The fork was feeling a bit green, but it knew it had to dig into the salad to get to the root of the problem!\""
+        },
+        {
+            "main_object": "Salad",
+            "other_object_list": [
+                "Drink"
+            ],
+            "object_sentence": "\"This salad is so fresh, it practically asked the drink for a refreshing splash of personality!\""
+        },
+        {
+            "main_object": "Drink",
+            "other_object_list": [
+                "Napkin"
+            ],
+            "object_sentence": "\"The drink was feeling a little shaken, so it called the napkin for a smooth pick-me-up!\""
+        },
+        {
+            "main_object": "Napkin",
+            "other_object_list": [
+                "Knife"
+            ],
+            "object_sentence": "\"The napkin tried to wrap things up, but the knife just kept cutting in!\""
+        }
+    ]
+}

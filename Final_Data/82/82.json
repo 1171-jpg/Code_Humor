@@ -1,0 +1,102 @@
+{
+    "folder_index": "82",
+    "object_list": [
+        "Stove",
+        "Kettle",
+        "Dishwasher",
+        "Knife block",
+        "Toaster",
+        "Coffee maker",
+        "Sink",
+        "Washing machine",
+        "Refrigerator",
+        "Cutting board"
+    ],
+    "whole_object": "This kitchen's so clean it's just been caught 'counter'-acting dirt!",
+    "single_object": "- Stove: \"I told the stove to simmer down, but it just couldn't handle the heat!\"\n- Kettle: \"I'm on a tea-rrific adventure, just waiting to whistle while I work!\"\n- Dishwasher: \"I\u2019m not just a dishwasher; I\u2019m a plate\u2019s best friend, always ready to clean up their act!\"\n- Knife block: \"I\u2019m sharp, but I promise I won\u2019t cut corners in the kitchen!\"\n- Toaster: \"I\u2019m just here to make sure your mornings are toast-tally awesome!\"\n- Coffee maker: \"I brew up a storm every morning, because life is too short for bad coffee!\"\n- Sink: \"I\u2019m the ultimate multitasker, always ready to wash away your troubles!\"\n- Washing machine: \"I spin tales of cleanliness, making dirt disappear like magic!\"\n- Refrigerator: \"I keep it cool in here, but my contents are always a-peeling!\"\n- Cutting board: \"I\u2019m the unsung hero of the kitchen, always ready to chop it like it\u2019s hot!\"",
+    "multi_object": "- Stove  \n- Kettle  \n- \"The stove and kettle are having a heated debate about who can boil over first!\"  \n\n- Kettle  \n- Toaster  \n- \"The kettle is always steaming mad at the toaster for getting all the bread crumbs!\"  \n\n- Dishwasher  \n- Knife block  \n- \"The dishwasher told the knife block to cut it out, but the knives just couldn't resist a sharp comeback!\"  \n\n- Knife block  \n- Coffee maker  \n- \"The knife block thinks the coffee maker is brewing up some strong opinions about morning routines!\"  \n\n- Toaster  \n- Sink  \n- \"The toaster keeps popping up with ideas, but the sink just wants to wash them all away!\"  \n\n- Coffee maker  \n- Refrigerator  \n- \"The coffee maker is brewing up a storm while the refrigerator is just chilling out!\"  \n\n- Sink  \n- Washing machine  \n- \"The sink is always overflowing with emotions, while the washing machine just spins around in circles!\"  \n\n- Washing machine  \n- Stove  \n- \"The washing machine is tired of the stove always turning up the heat in the kitchen!\"  \n\n- Refrigerator  \n- Dishwasher  \n- \"The refrigerator is cool as a cucumber, while the dishwasher is just trying to clean up the mess!\"  \n\n- Cutting board  \n- Kettle  \n- \"The cutting board is always ready to slice through the tension, but the kettle just wants to whistle a tune!\"  ",
+    "single_object_dict": {
+        "Stove": "\"I told the stove to simmer down, but it just couldn't handle the heat!\"",
+        "Kettle": "\"I'm on a tea-rrific adventure, just waiting to whistle while I work!\"",
+        "Dishwasher": "\"I\u2019m not just a dishwasher; I\u2019m a plate\u2019s best friend, always ready to clean up their act!\"",
+        "Knife block": "\"I\u2019m sharp, but I promise I won\u2019t cut corners in the kitchen!\"",
+        "Toaster": "\"I\u2019m just here to make sure your mornings are toast-tally awesome!\"",
+        "Coffee maker": "\"I brew up a storm every morning, because life is too short for bad coffee!\"",
+        "Sink": "\"I\u2019m the ultimate multitasker, always ready to wash away your troubles!\"",
+        "Washing machine": "\"I spin tales of cleanliness, making dirt disappear like magic!\"",
+        "Refrigerator": "\"I keep it cool in here, but my contents are always a-peeling!\"",
+        "Cutting board": "\"I\u2019m the unsung hero of the kitchen, always ready to chop it like it\u2019s hot!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Stove",
+            "other_object_list": [
+                "Kettle"
+            ],
+            "object_sentence": "\"The stove and kettle are having a heated debate about who can boil over first!\""
+        },
+        {
+            "main_object": "Kettle",
+            "other_object_list": [
+                "Toaster"
+            ],
+            "object_sentence": "\"The kettle is always steaming mad at the toaster for getting all the bread crumbs!\""
+        },
+        {
+            "main_object": "Dishwasher",
+            "other_object_list": [
+                "Knife block"
+            ],
+            "object_sentence": "\"The dishwasher told the knife block to cut it out, but the knives just couldn't resist a sharp comeback!\""
+        },
+        {
+            "main_object": "Knife block",
+            "other_object_list": [
+                "Coffee maker"
+            ],
+            "object_sentence": "\"The knife block thinks the coffee maker is brewing up some strong opinions about morning routines!\""
+        },
+        {
+            "main_object": "Toaster",
+            "other_object_list": [
+                "Sink"
+            ],
+            "object_sentence": "\"The toaster keeps popping up with ideas, but the sink just wants to wash them all away!\""
+        },
+        {
+            "main_object": "Coffee maker",
+            "other_object_list": [
+                "Refrigerator"
+            ],
+            "object_sentence": "\"The coffee maker is brewing up a storm while the refrigerator is just chilling out!\""
+        },
+        {
+            "main_object": "Sink",
+            "other_object_list": [
+                "Washing machine"
+            ],
+            "object_sentence": "\"The sink is always overflowing with emotions, while the washing machine just spins around in circles!\""
+        },
+        {
+            "main_object": "Washing machine",
+            "other_object_list": [
+                "Stove"
+            ],
+            "object_sentence": "\"The washing machine is tired of the stove always turning up the heat in the kitchen!\""
+        },
+        {
+            "main_object": "Refrigerator",
+            "other_object_list": [
+                "Dishwasher"
+            ],
+            "object_sentence": "\"The refrigerator is cool as a cucumber, while the dishwasher is just trying to clean up the mess!\""
+        },
+        {
+            "main_object": "Cutting board",
+            "other_object_list": [
+                "Kettle"
+            ],
+            "object_sentence": "\"The cutting board is always ready to slice through the tension, but the kettle just wants to whistle a tune!\""
+        }
+    ]
+}

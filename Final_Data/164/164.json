@@ -1,0 +1,30 @@
+{
+    "folder_index": "164",
+    "object_list": [
+        "Moving walkway",
+        "Tunnel"
+    ],
+    "whole_object": "When I said I was 'streamlining my commute,' I didn't expect to be teleported into a sci-fi movie tunnel!",
+    "single_object": "- Moving walkway: \"I tried to walk on the moving walkway, but it just kept taking me for a ride!\"  \n- Tunnel: \"This tunnel is so long, I half expected to find a lost civilization at the other end!\"",
+    "multi_object": "- Moving walkway  \n- Tunnel  \n- \"This moving walkway is like a treadmill for lazy travelers\u2014it's the only time you can walk and still feel like you're in a tunnel of dreams!\"  \n\n- Tunnel  \n- Moving walkway  \n- \"This tunnel is so long, I half-expect to find a moving walkway at the end offering snacks and a nap!\"  ",
+    "single_object_dict": {
+        "Moving walkway": "\"I tried to walk on the moving walkway, but it just kept taking me for a ride!\"",
+        "Tunnel": "\"This tunnel is so long, I half expected to find a lost civilization at the other end!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Moving walkway",
+            "other_object_list": [
+                "Tunnel"
+            ],
+            "object_sentence": "\"This moving walkway is like a treadmill for lazy travelers\u2014it's the only time you can walk and still feel like you're in a tunnel of dreams!\""
+        },
+        {
+            "main_object": "Tunnel",
+            "other_object_list": [
+                "Moving walkway"
+            ],
+            "object_sentence": "\"This tunnel is so long, I half-expect to find a moving walkway at the end offering snacks and a nap!\""
+        }
+    ]
+}

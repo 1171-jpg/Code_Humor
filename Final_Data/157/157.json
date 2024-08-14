@@ -1,0 +1,30 @@
+{
+    "folder_index": "157",
+    "object_list": [
+        "Sidewalk",
+        "Trees"
+    ],
+    "whole_object": "This path might just be having an identity crisis; it's not sure whether it's a trailblazer or just another brick in the wall!",
+    "single_object": "- Sidewalk: This sidewalk is so popular, it's literally underfoot.\n- Trees: These trees are outstanding in their field - well, if they were in a field and not firmly rooted next to the sidewalk!",
+    "multi_object": "- Sidewalk  \n- Trees  \n- The sidewalk was feeling a bit lonely, so it decided to leaf its worries behind and branch out with the trees!  \n\n- Trees  \n- Sidewalk  \n- The trees were so tall they could see the sidewalk's cracks, but they promised not to judge\u2014after all, everyone has their rough patches!",
+    "single_object_dict": {
+        "Sidewalk": "This sidewalk is so popular, it's literally underfoot.",
+        "Trees": "These trees are outstanding in their field - well, if they were in a field and not firmly rooted next to the sidewalk!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Sidewalk",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "The sidewalk was feeling a bit lonely, so it decided to leaf its worries behind and branch out with the trees!"
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Sidewalk"
+            ],
+            "object_sentence": "The trees were so tall they could see the sidewalk's cracks, but they promised not to judge\u2014after all, everyone has their rough patches!"
+        }
+    ]
+}

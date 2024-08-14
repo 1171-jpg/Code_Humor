@@ -1,0 +1,111 @@
+{
+    "folder_index": "88",
+    "object_list": [
+        "Fireplace",
+        "Armchairs",
+        "Bookshelf",
+        "Window",
+        "Lamp",
+        "Sofa",
+        "Coffee table",
+        "Plant",
+        "Rug",
+        "Radiator",
+        "Paintings"
+    ],
+    "whole_object": "The plants decided to stage a leaf-in; they just weren't getting enough room to grow on the inside.",
+    "single_object": "- Fireplace: \"I told the fireplace a joke, but it just couldn't handle the heat!\"\n- Armchairs: \"These armchairs are so cozy, they should come with a 'do not disturb' sign!\"\n- Bookshelf: \"The bookshelf is a real overachiever; it has too many stories to tell!\"\n- Window: \"The window is always looking out for new views; it\u2019s quite the peeping Tom!\"\n- Lamp: \"This lamp is so bright, it could light up a thousand bad puns!\"\n- Sofa: \"The sofa is a real couch potato, always ready for a binge-watching marathon!\"\n- Coffee table: \"The coffee table is the ultimate multitasker, holding coffee and secrets alike!\"\n- Plant: \"This plant is so green, it could give Kermit a run for his money!\"\n- Rug: \"The rug is so soft, it could make clouds jealous of its fluffiness!\"\n- Radiator: \"The radiator is the warmest friend in the room, always ready to heat things up!\"\n- Paintings: \"The paintings are so expressive, they could win an Oscar for best drama!\"",
+    "multi_object": "- Fireplace  \n- Armchairs  \n- \"The fireplace is so hot, it could give the armchairs a run for their money in a cozy competition!\"  \n\n- Armchairs  \n- Bookshelf  \n- \"These armchairs are so comfy, they could convince the bookshelf to take a break and read a novel!\"  \n\n- Bookshelf  \n- Window  \n- \"The bookshelf is so full of stories, it could keep the window entertained for hours with its plot twists!\"  \n\n- Window  \n- Lamp  \n- \"The window is always looking out for the lamp, hoping it won't get too dim in the spotlight!\"  \n\n- Lamp  \n- Sofa  \n- \"The lamp shines so bright, it makes the sofa feel like it's just lounging in the shade!\"  \n\n- Sofa  \n- Coffee table  \n- \"The sofa is so laid-back, it makes the coffee table feel like it needs a strong cup of motivation!\"  \n\n- Coffee table  \n- Plant  \n- \"The coffee table is so cluttered, it could use a plant to help it leaf some of that mess behind!\"  \n\n- Plant  \n- Rug  \n- \"The plant is so rooted in its spot, it could teach the rug a thing or two about staying grounded!\"  \n\n- Rug  \n- Radiator  \n- \"The rug is so warm and inviting, it could make the radiator feel like it's just blowing hot air!\"  \n\n- Radiator  \n- Paintings  \n- \"The radiator is so heated, it could start a debate with the paintings about who\u2019s the real art of warmth!\"  \n\n- Paintings  \n- Fireplace  \n- \"The paintings are so framed by beauty, they could make the fireplace feel like it's just a hot topic!\"  ",
+    "single_object_dict": {
+        "Fireplace": "\"I told the fireplace a joke, but it just couldn't handle the heat!\"",
+        "Armchairs": "\"These armchairs are so cozy, they should come with a 'do not disturb' sign!\"",
+        "Bookshelf": "\"The bookshelf is a real overachiever; it has too many stories to tell!\"",
+        "Window": "\"The window is always looking out for new views; it\u2019s quite the peeping Tom!\"",
+        "Lamp": "\"This lamp is so bright, it could light up a thousand bad puns!\"",
+        "Sofa": "\"The sofa is a real couch potato, always ready for a binge-watching marathon!\"",
+        "Coffee table": "\"The coffee table is the ultimate multitasker, holding coffee and secrets alike!\"",
+        "Plant": "\"This plant is so green, it could give Kermit a run for his money!\"",
+        "Rug": "\"The rug is so soft, it could make clouds jealous of its fluffiness!\"",
+        "Radiator": "\"The radiator is the warmest friend in the room, always ready to heat things up!\"",
+        "Paintings": "\"The paintings are so expressive, they could win an Oscar for best drama!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Fireplace",
+            "other_object_list": [
+                "Armchairs"
+            ],
+            "object_sentence": "\"The fireplace is so hot, it could give the armchairs a run for their money in a cozy competition!\""
+        },
+        {
+            "main_object": "Armchairs",
+            "other_object_list": [
+                "Bookshelf"
+            ],
+            "object_sentence": "\"These armchairs are so comfy, they could convince the bookshelf to take a break and read a novel!\""
+        },
+        {
+            "main_object": "Bookshelf",
+            "other_object_list": [
+                "Window"
+            ],
+            "object_sentence": "\"The bookshelf is so full of stories, it could keep the window entertained for hours with its plot twists!\""
+        },
+        {
+            "main_object": "Window",
+            "other_object_list": [
+                "Lamp"
+            ],
+            "object_sentence": "\"The window is always looking out for the lamp, hoping it won't get too dim in the spotlight!\""
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "\"The lamp shines so bright, it makes the sofa feel like it's just lounging in the shade!\""
+        },
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Coffee table"
+            ],
+            "object_sentence": "\"The sofa is so laid-back, it makes the coffee table feel like it needs a strong cup of motivation!\""
+        },
+        {
+            "main_object": "Coffee table",
+            "other_object_list": [
+                "Plant"
+            ],
+            "object_sentence": "\"The coffee table is so cluttered, it could use a plant to help it leaf some of that mess behind!\""
+        },
+        {
+            "main_object": "Plant",
+            "other_object_list": [
+                "Rug"
+            ],
+            "object_sentence": "\"The plant is so rooted in its spot, it could teach the rug a thing or two about staying grounded!\""
+        },
+        {
+            "main_object": "Rug",
+            "other_object_list": [
+                "Radiator"
+            ],
+            "object_sentence": "\"The rug is so warm and inviting, it could make the radiator feel like it's just blowing hot air!\""
+        },
+        {
+            "main_object": "Radiator",
+            "other_object_list": [
+                "Paintings"
+            ],
+            "object_sentence": "\"The radiator is so heated, it could start a debate with the paintings about who\u2019s the real art of warmth!\""
+        },
+        {
+            "main_object": "Paintings",
+            "other_object_list": [
+                "Fireplace"
+            ],
+            "object_sentence": "\"The paintings are so framed by beauty, they could make the fireplace feel like it's just a hot topic!\""
+        }
+    ]
+}

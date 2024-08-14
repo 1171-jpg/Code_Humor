@@ -1,0 +1,57 @@
+{
+    "folder_index": "151",
+    "object_list": [
+        "Cereal box",
+        "Milk carton",
+        "Bowl",
+        "Spoon",
+        "Can"
+    ],
+    "whole_object": "When it comes to breakfast, I'm cereal-ously considering making it a pour decision.",
+    "single_object": "- Cereal box: This cereal box is grain-standing in the kitchen, clearly not oat-dated yet!\n- Milk carton: Some people say this milk carton is udderly in love with keeping it cool.\n- Bowl: This bowl must have a split personality, sometimes it's full of soup-er ideas, and other times it's just serially empty.\n- Spoon: That spoon\u2019s got a scoop: it\u2019s been seen canoodling with the sugar when it stirs up drama!\n- Can: The can is known for being soda-pressing, always getting canned from the pantry parties.",
+    "multi_object": "- Cereal box  \n- Milk carton  \n- \"I told the cereal box to stop being so flaky, but it just said, 'I\u2019m just here for the milk!'\"\n\n- Milk carton  \n- Bowl  \n- \"The milk carton said it was feeling a little empty, but I assured it that the bowl was just waiting for a splash of excitement!\"  \n\n- Bowl  \n- Spoon  \n- \"The bowl was feeling a bit shallow, but the spoon said, 'Don\u2019t worry, I\u2019m here to stir up some fun!'\"\n\n- Spoon  \n- Can  \n- \"The spoon tried to impress the can by saying, 'I can scoop up anything, but you really know how to pop a party!'\"  \n\n- Can  \n- Cereal box  \n- \"The can bragged about being a 'can-do' item, while the cereal box just crunched numbers!\"",
+    "single_object_dict": {
+        "Cereal box": "This cereal box is grain-standing in the kitchen, clearly not oat-dated yet!",
+        "Milk carton": "Some people say this milk carton is udderly in love with keeping it cool.",
+        "Bowl": "This bowl must have a split personality, sometimes it's full of soup-er ideas, and other times it's just serially empty.",
+        "Spoon": "That spoon\u2019s got a scoop",
+        "Can": "The can is known for being soda-pressing, always getting canned from the pantry parties."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Cereal box",
+            "other_object_list": [
+                "Milk carton"
+            ],
+            "object_sentence": "\"I told the cereal box to stop being so flaky, but it just said, 'I\u2019m just here for the milk!'\""
+        },
+        {
+            "main_object": "Milk carton",
+            "other_object_list": [
+                "Bowl"
+            ],
+            "object_sentence": "\"The milk carton said it was feeling a little empty, but I assured it that the bowl was just waiting for a splash of excitement!\""
+        },
+        {
+            "main_object": "Bowl",
+            "other_object_list": [
+                "Spoon"
+            ],
+            "object_sentence": "\"The bowl was feeling a bit shallow, but the spoon said, 'Don\u2019t worry, I\u2019m here to stir up some fun!'\""
+        },
+        {
+            "main_object": "Spoon",
+            "other_object_list": [
+                "Can"
+            ],
+            "object_sentence": "\"The spoon tried to impress the can by saying, 'I can scoop up anything, but you really know how to pop a party!'\""
+        },
+        {
+            "main_object": "Can",
+            "other_object_list": [
+                "Cereal box"
+            ],
+            "object_sentence": "\"The can bragged about being a 'can-do' item, while the cereal box just crunched numbers!\""
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "folder_index": "150",
+    "object_list": [
+        "Tree",
+        "Trash can",
+        "Store",
+        "People",
+        "Shopping bags",
+        "Street lamp",
+        "Display window"
+    ],
+    "whole_object": "Even the tree's been shopping; it's really branching out into fashion now!",
+    "single_object": "- Tree: This tree's branching out into street style, always dressed in the latest bark trends.\n- Trash can: A can-do attitude is great unless you're a trash can; then you're just full of it.\n- Store: They say the store is where the heart is, especially if you retail therapy a bit too seriously.\n- People: People in photographs always seem to be framed by the moment but somehow still picture-perfect.\n- Shopping bags: These shopping bags look so stuffed, they could use a spa day for retail relaxation. \n- Street lamp: There's never a dull moment for the street lamp; it's always the light of the party after sunset.\n- Display window: The display window is a true pane in the glass, always transparent about its shopping agenda.",
+    "multi_object": "- Tree  \n- Trash can  \n- \"Why did the tree bring a trash can to the party? Because it wanted to branch out and keep things tidy!\"  \n\n- Trash can  \n- Shopping bags  \n- \"The trash can was feeling a bit empty, but those shopping bags were overflowing with 'bargain' bin humor!\"  \n\n- Store  \n- Display window  \n- \"The store's display window was so bright, it made the tree feel like it was in the spotlight, but it just wanted to leaf it all behind!\"  \n\n- People  \n- Street lamp  \n- \"The people were so excited about shopping, they could have lit up the street lamp with their enthusiasm!\"  \n\n- Shopping bags  \n- Tree  \n- \"Those shopping bags were so full, they could have used the tree as a personal assistant to carry their weight!\"  \n\n- Street lamp  \n- Store  \n- \"The street lamp was jealous of the store's sales; it just wanted to shine a light on some good deals!\"  \n\n- Display window  \n- People  \n- \"The display window was like a stage, and the people were the stars, but the tree was just there for the shade!\"  ",
+    "single_object_dict": {
+        "Tree": "This tree's branching out into street style, always dressed in the latest bark trends.",
+        "Trash can": "A can-do attitude is great unless you're a trash can; then you're just full of it.",
+        "Store": "They say the store is where the heart is, especially if you retail therapy a bit too seriously.",
+        "People": "People in photographs always seem to be framed by the moment but somehow still picture-perfect.",
+        "Shopping bags": "These shopping bags look so stuffed, they could use a spa day for retail relaxation.",
+        "Street lamp": "There's never a dull moment for the street lamp; it's always the light of the party after sunset.",
+        "Display window": "The display window is a true pane in the glass, always transparent about its shopping agenda."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Trash can"
+            ],
+            "object_sentence": "\"Why did the tree bring a trash can to the party? Because it wanted to branch out and keep things tidy!\""
+        },
+        {
+            "main_object": "Trash can",
+            "other_object_list": [
+                "Shopping bags"
+            ],
+            "object_sentence": "\"The trash can was feeling a bit empty, but those shopping bags were overflowing with 'bargain' bin humor!\""
+        },
+        {
+            "main_object": "Store",
+            "other_object_list": [
+                "Display window"
+            ],
+            "object_sentence": "\"The store's display window was so bright, it made the tree feel like it was in the spotlight, but it just wanted to leaf it all behind!\""
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Street lamp"
+            ],
+            "object_sentence": "\"The people were so excited about shopping, they could have lit up the street lamp with their enthusiasm!\""
+        },
+        {
+            "main_object": "Shopping bags",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "\"Those shopping bags were so full, they could have used the tree as a personal assistant to carry their weight!\""
+        },
+        {
+            "main_object": "Street lamp",
+            "other_object_list": [
+                "Store"
+            ],
+            "object_sentence": "\"The street lamp was jealous of the store's sales; it just wanted to shine a light on some good deals!\""
+        },
+        {
+            "main_object": "Display window",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The display window was like a stage, and the people were the stars, but the tree was just there for the shade!\""
+        }
+    ]
+}

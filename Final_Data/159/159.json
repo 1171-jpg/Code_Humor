@@ -1,0 +1,30 @@
+{
+    "folder_index": "159",
+    "object_list": [
+        "Tree",
+        "Cars"
+    ],
+    "whole_object": "Looks like the cars are branching out into new parking formations!",
+    "single_object": "- Tree: This tree is so popular, it's branching out into real estate and providing shade is its primary canopy-tal.\n- Cars: These cars must be part of an underground movement \u2013 they're always parking themselves.",
+    "multi_object": "- Tree  \n- Cars  \n- Why did the tree bring a car to the party? Because it wanted to branch out and drive everyone nuts!  \n\n- Cars  \n- Tree  \n- These cars are so close to the tree, they must be trying to leaf a good impression!  ",
+    "single_object_dict": {
+        "Tree": "This tree is so popular, it's branching out into real estate and providing shade is its primary canopy-tal.",
+        "Cars": "These cars must be part of an underground movement \u2013 they're always parking themselves."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "Why did the tree bring a car to the party? Because it wanted to branch out and drive everyone nuts!"
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "These cars are so close to the tree, they must be trying to leaf a good impression!"
+        }
+    ]
+}

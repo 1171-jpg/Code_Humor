@@ -1,0 +1,30 @@
+{
+    "folder_index": "102",
+    "object_list": [
+        "Car",
+        "House"
+    ],
+    "whole_object": "Given that there's greenery crawling up the wall, I'd say that house is really climbing the property ladder!",
+    "single_object": "- Car: This car's performance is so good, it's practically wheelie impressive!\n- House: If this house could talk, it would probably say \"I'm no spring chicken, but I still have some vine ideas.\"",
+    "multi_object": "- Car  \n- House  \n- \"This car is so tired of waiting outside the house, it\u2019s thinking of getting a \u2018drive-thru\u2019 coffee just to stay awake!\"  \n\n- House  \n- Car  \n- \"The house told the car, 'You may have four wheels, but I have four walls and a roof over my head\u2014who's really winning here?'\"  ",
+    "single_object_dict": {
+        "Car": "This car's performance is so good, it's practically wheelie impressive!",
+        "House": "If this house could talk, it would probably say \"I'm no spring chicken, but I still have some vine ideas.\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "House"
+            ],
+            "object_sentence": "\"This car is so tired of waiting outside the house, it\u2019s thinking of getting a \u2018drive-thru\u2019 coffee just to stay awake!\""
+        },
+        {
+            "main_object": "House",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "\"The house told the car, 'You may have four wheels, but I have four walls and a roof over my head\u2014who's really winning here?'\""
+        }
+    ]
+}

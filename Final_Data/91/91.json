@@ -1,0 +1,84 @@
+{
+    "folder_index": "91",
+    "object_list": [
+        "Sofa",
+        "Blanket",
+        "Floor lamp",
+        "Painting",
+        "Folding chairs",
+        "Table",
+        "Lamp",
+        "Cushions"
+    ],
+    "whole_object": "Looks like the couch is truly \"sofa\"-isticated, lounging around all day without a single cushion in the world!",
+    "single_object": "- Sofa: \"Why did the sofa break up with the chair? It just couldn't handle the pressure of their relationship!\"\n- Blanket: \"I told my blanket it was too clingy, but it just wrapped itself around me tighter!\"\n- Floor lamp: \"Why did the floor lamp apply for a job? It wanted to brighten up its career!\"\n- Painting: \"I asked the painting how it felt about being hung up all day, and it said it was just 'frame-tastic'!\"\n- Folding chairs: \"Folding chairs are the ultimate multitaskers; they can sit and fold under pressure at the same time!\"\n- Table: \"I told the table it was looking a bit flat, and it replied, 'I\u2019m just trying to keep things level!'\"\n- Lamp: \"Why did the lamp go to school? It wanted to get a little more 'light' on the subject!\"\n- Cushions: \"Cushions are like friends; they always have your back when you need to take a load off!\"",
+    "multi_object": "- Sofa  \n- Blanket  \n- The sofa is so cozy, it\u2019s like a blanket\u2019s best friend, always ready for a snuggle party!  \n\n- Blanket  \n- Floor lamp  \n- This blanket is so warm, it could give the floor lamp a run for its light!  \n\n- Floor lamp  \n- Painting  \n- The floor lamp shines so bright, it thinks it\u2019s the star of the painting!  \n\n- Painting  \n- Folding chairs  \n- The painting is so colorful, it makes the folding chairs feel like they\u2019re just sitting in black and white!  \n\n- Folding chairs  \n- Table  \n- The folding chairs are always ready for a party, but the table just wants to keep things grounded!  \n\n- Table  \n- Cushions  \n- The table is so sturdy, it could hold up the weight of all the cushions\u2019 dreams of being a cloud!  \n\n- Lamp  \n- Sofa  \n- The lamp is so bright, it makes the sofa feel like it\u2019s just lounging in the dark!  \n\n- Cushions  \n- Blanket  \n- The cushions are so fluffy, they could give the blanket a run for its softness!  ",
+    "single_object_dict": {
+        "Sofa": "\"Why did the sofa break up with the chair? It just couldn't handle the pressure of their relationship!\"",
+        "Blanket": "\"I told my blanket it was too clingy, but it just wrapped itself around me tighter!\"",
+        "Floor lamp": "\"Why did the floor lamp apply for a job? It wanted to brighten up its career!\"",
+        "Painting": "\"I asked the painting how it felt about being hung up all day, and it said it was just 'frame-tastic'!\"",
+        "Folding chairs": "\"Folding chairs are the ultimate multitaskers; they can sit and fold under pressure at the same time!\"",
+        "Table": "\"I told the table it was looking a bit flat, and it replied, 'I\u2019m just trying to keep things level!'\"",
+        "Lamp": "\"Why did the lamp go to school? It wanted to get a little more 'light' on the subject!\"",
+        "Cushions": "\"Cushions are like friends; they always have your back when you need to take a load off!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Blanket"
+            ],
+            "object_sentence": "The sofa is so cozy, it\u2019s like a blanket\u2019s best friend, always ready for a snuggle party!"
+        },
+        {
+            "main_object": "Blanket",
+            "other_object_list": [
+                "Floor lamp"
+            ],
+            "object_sentence": "This blanket is so warm, it could give the floor lamp a run for its light!"
+        },
+        {
+            "main_object": "Floor lamp",
+            "other_object_list": [
+                "Painting"
+            ],
+            "object_sentence": "The floor lamp shines so bright, it thinks it\u2019s the star of the painting!"
+        },
+        {
+            "main_object": "Painting",
+            "other_object_list": [
+                "Folding chairs"
+            ],
+            "object_sentence": "The painting is so colorful, it makes the folding chairs feel like they\u2019re just sitting in black and white!"
+        },
+        {
+            "main_object": "Folding chairs",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "The folding chairs are always ready for a party, but the table just wants to keep things grounded!"
+        },
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Cushions"
+            ],
+            "object_sentence": "The table is so sturdy, it could hold up the weight of all the cushions\u2019 dreams of being a cloud!"
+        },
+        {
+            "main_object": "Lamp",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "The lamp is so bright, it makes the sofa feel like it\u2019s just lounging in the dark!"
+        },
+        {
+            "main_object": "Cushions",
+            "other_object_list": [
+                "Blanket"
+            ],
+            "object_sentence": "The cushions are so fluffy, they could give the blanket a run for its softness!"
+        }
+    ]
+}

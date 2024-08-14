@@ -1,0 +1,93 @@
+{
+    "folder_index": "138",
+    "object_list": [
+        "Tree",
+        "Streetlight",
+        "Building",
+        "Van",
+        "Bicycle",
+        "Traffic light",
+        "Street sign",
+        "Fence",
+        "Pole"
+    ],
+    "whole_object": "Looks like the city planners were really thinking ahead \u2013 they built a skyscraper that's the perfect size for a giant's game of ring toss!",
+    "single_object": "- Tree: \"I'm rooting for you to grow tall and branch out!\"\n- Streetlight: \"I\u2019m just here to brighten your day, one bulb at a time!\"\n- Building: \"I\u2019m not just a structure; I\u2019m a skyscraper of dreams!\"\n- Van: \"I\u2019m not just a vehicle; I\u2019m a mobile adventure waiting to happen!\"\n- Bicycle: \"I\u2019m two-tired of standing still; let\u2019s pedal to the metal!\"\n- Traffic light: \"I\u2019m the ultimate referee in this game of stop and go!\"\n- Street sign: \"I\u2019m here to point you in the right direction, no ifs, ands, or buts!\"\n- Fence: \"I\u2019m just trying to keep my boundaries in check, one picket at a time!\"\n- Pole: \"I\u2019m not just standing around; I\u2019m a support system for all your needs!\"",
+    "multi_object": "- Tree  \n- Streetlight  \n- \"The tree told the streetlight, 'I\u2019m rooting for you to shine bright, but I\u2019m just here for the shade!'\"\n\n- Streetlight  \n- Traffic light  \n- \"The streetlight said to the traffic light, 'You may have the red light, but I\u2019m always in the spotlight!'\"\n\n- Building  \n- Van  \n- \"The building looked down at the van and said, 'I may have more stories, but you\u2019ve got the wheels to roll with!'\"\n\n- Van  \n- Bicycle  \n- \"The van chuckled at the bicycle, 'I may be bigger, but you\u2019ve got the pedal power to outrun my parking tickets!'\"\n\n- Bicycle  \n- Fence  \n- \"The bicycle leaned against the fence and said, 'I may be two-tired, but at least I don\u2019t have to deal with a picket fence!'\"\n\n- Traffic light  \n- Pole  \n- \"The traffic light told the pole, 'I\u2019m just here to stop traffic, but you\u2019re really holding it all together!'\"\n\n- Street sign  \n- Building  \n- \"The street sign pointed at the building and said, 'I may give directions, but you\u2019ve got the address everyone wants!'\"\n\n- Fence  \n- Tree  \n- \"The fence whispered to the tree, 'I may keep things in line, but you\u2019re the one with the roots in the ground!'\" \n\n- Pole  \n- Streetlight  \n- \"The pole joked with the streetlight, 'I\u2019m just here to hold you up, but you\u2019re the one lighting up the night!'\"",
+    "single_object_dict": {
+        "Tree": "\"I'm rooting for you to grow tall and branch out!\"",
+        "Streetlight": "\"I\u2019m just here to brighten your day, one bulb at a time!\"",
+        "Building": "\"I\u2019m not just a structure; I\u2019m a skyscraper of dreams!\"",
+        "Van": "\"I\u2019m not just a vehicle; I\u2019m a mobile adventure waiting to happen!\"",
+        "Bicycle": "\"I\u2019m two-tired of standing still; let\u2019s pedal to the metal!\"",
+        "Traffic light": "\"I\u2019m the ultimate referee in this game of stop and go!\"",
+        "Street sign": "\"I\u2019m here to point you in the right direction, no ifs, ands, or buts!\"",
+        "Fence": "\"I\u2019m just trying to keep my boundaries in check, one picket at a time!\"",
+        "Pole": "\"I\u2019m not just standing around; I\u2019m a support system for all your needs!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Streetlight"
+            ],
+            "object_sentence": "\"The tree told the streetlight, 'I\u2019m rooting for you to shine bright, but I\u2019m just here for the shade!'\""
+        },
+        {
+            "main_object": "Streetlight",
+            "other_object_list": [
+                "Traffic light"
+            ],
+            "object_sentence": "\"The streetlight said to the traffic light, 'You may have the red light, but I\u2019m always in the spotlight!'\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Van"
+            ],
+            "object_sentence": "\"The building looked down at the van and said, 'I may have more stories, but you\u2019ve got the wheels to roll with!'\""
+        },
+        {
+            "main_object": "Van",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"The van chuckled at the bicycle, 'I may be bigger, but you\u2019ve got the pedal power to outrun my parking tickets!'\""
+        },
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Fence"
+            ],
+            "object_sentence": "\"The bicycle leaned against the fence and said, 'I may be two-tired, but at least I don\u2019t have to deal with a picket fence!'\""
+        },
+        {
+            "main_object": "Traffic light",
+            "other_object_list": [
+                "Pole"
+            ],
+            "object_sentence": "\"The traffic light told the pole, 'I\u2019m just here to stop traffic, but you\u2019re really holding it all together!'\""
+        },
+        {
+            "main_object": "Street sign",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "\"The street sign pointed at the building and said, 'I may give directions, but you\u2019ve got the address everyone wants!'\""
+        },
+        {
+            "main_object": "Fence",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "\"The fence whispered to the tree, 'I may keep things in line, but you\u2019re the one with the roots in the ground!'\""
+        },
+        {
+            "main_object": "Pole",
+            "other_object_list": [
+                "Streetlight"
+            ],
+            "object_sentence": "\"The pole joked with the streetlight, 'I\u2019m just here to hold you up, but you\u2019re the one lighting up the night!'\""
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "folder_index": "64",
+    "object_list": [
+        "Windmill",
+        "Buildings",
+        "Trees",
+        "Benches",
+        "Street",
+        "Poles",
+        "Stairs"
+    ],
+    "whole_object": "It seems this neighborhood has really embraced renewable energy; they\u2019ve even installed a fan-tastic piece of history to wind down from the modern rush!",
+    "single_object": "- Windmill: This windmill is clearly outstanding in its field... or rather, in the town square!\n- Buildings: High stakes in real estate: the higher you go, the better you condo!\n- Trees: These trees are branching out into urban development.\n- Benches: These benches are truly outstanding in their sitting.\n- Street: This street has clearly paved the way for urban exploration.\n- Poles: You could say the poles here are the ultimate supporters of vertical expression.\n- Stairs: The stairs are always up to something, aren't they?",
+    "multi_object": "- Windmill  \n- Buildings  \n- The windmill is so tall, it\u2019s trying to get a better view of the buildings\u2019 fashion choices!  \n\n- Buildings  \n- Trees  \n- The buildings are so close together, they must be sharing secrets with the trees about who has the best view!  \n\n- Trees  \n- Benches  \n- The trees are so shady, they make the benches feel like they\u2019re on a permanent vacation!  \n\n- Benches  \n- Street  \n- The benches are always ready for a chat, but the street just wants to keep things moving!  \n\n- Street  \n- Poles  \n- The street is tired of the poles always standing around; it wishes they\u2019d take a stroll!  \n\n- Poles  \n- Stairs  \n- The poles are jealous of the stairs; they get to take people to new heights while they just stand there!  \n\n- Stairs  \n- Windmill  \n- The stairs are always climbing the social ladder, but the windmill just spins around in circles!  ",
+    "single_object_dict": {
+        "Windmill": "This windmill is clearly outstanding in its field... or rather, in the town square!",
+        "Buildings": "High stakes in real estate",
+        "Trees": "These trees are branching out into urban development.",
+        "Benches": "These benches are truly outstanding in their sitting.",
+        "Street": "This street has clearly paved the way for urban exploration.",
+        "Poles": "You could say the poles here are the ultimate supporters of vertical expression.",
+        "Stairs": "The stairs are always up to something, aren't they?"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Windmill",
+            "other_object_list": [
+                "Buildings"
+            ],
+            "object_sentence": "The windmill is so tall, it\u2019s trying to get a better view of the buildings\u2019 fashion choices!"
+        },
+        {
+            "main_object": "Buildings",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "The buildings are so close together, they must be sharing secrets with the trees about who has the best view!"
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Benches"
+            ],
+            "object_sentence": "The trees are so shady, they make the benches feel like they\u2019re on a permanent vacation!"
+        },
+        {
+            "main_object": "Benches",
+            "other_object_list": [
+                "Street"
+            ],
+            "object_sentence": "The benches are always ready for a chat, but the street just wants to keep things moving!"
+        },
+        {
+            "main_object": "Street",
+            "other_object_list": [
+                "Poles"
+            ],
+            "object_sentence": "The street is tired of the poles always standing around; it wishes they\u2019d take a stroll!"
+        },
+        {
+            "main_object": "Poles",
+            "other_object_list": [
+                "Stairs"
+            ],
+            "object_sentence": "The poles are jealous of the stairs; they get to take people to new heights while they just stand there!"
+        },
+        {
+            "main_object": "Stairs",
+            "other_object_list": [
+                "Windmill"
+            ],
+            "object_sentence": "The stairs are always climbing the social ladder, but the windmill just spins around in circles!"
+        }
+    ]
+}

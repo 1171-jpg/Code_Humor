@@ -1,0 +1,30 @@
+{
+    "folder_index": "188",
+    "object_list": [
+        "Swing set",
+        "Palm tree"
+    ],
+    "whole_object": "It's all fun and games at the beach until some-birdy takes your spot on the swing set!",
+    "single_object": "- Swing set: This swing set seems to be taking a \u201cstand\u201d against playtime \u2013 stiff competition for the fun-loving kids!\n- Palm tree: This lone palm is branching out, trying to leaf its mark on the skyline.",
+    "multi_object": "- Swing set  \n- Palm tree  \n- \"Why did the swing set bring a palm tree to the playground? Because it wanted to have a swinging good time in the shade!\"  \n\n- Palm tree  \n- Swing set  \n- \"The palm tree told the swing set, 'I may sway in the breeze, but you really know how to take things to new heights!'\"  ",
+    "single_object_dict": {
+        "Swing set": "This swing set seems to be taking a \u201cstand\u201d against playtime \u2013 stiff competition for the fun-loving kids!",
+        "Palm tree": "This lone palm is branching out, trying to leaf its mark on the skyline."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Swing set",
+            "other_object_list": [
+                "Palm tree"
+            ],
+            "object_sentence": "\"Why did the swing set bring a palm tree to the playground? Because it wanted to have a swinging good time in the shade!\""
+        },
+        {
+            "main_object": "Palm tree",
+            "other_object_list": [
+                "Swing set"
+            ],
+            "object_sentence": "\"The palm tree told the swing set, 'I may sway in the breeze, but you really know how to take things to new heights!'\""
+        }
+    ]
+}

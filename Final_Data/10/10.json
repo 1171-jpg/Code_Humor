@@ -1,0 +1,102 @@
+{
+    "folder_index": "10",
+    "object_list": [
+        "Desk",
+        "Computer",
+        "Bookshelf",
+        "Chair",
+        "Papers",
+        "Monitor",
+        "Water bottle",
+        "Jacket",
+        "Corkboard",
+        "Phone"
+    ],
+    "whole_object": "This office is so underwater with paperwork, even the screensavers have started swimming with the fishes!",
+    "single_object": "- Desk: Even when it's overwhelmed, the desk still stands up for itself.\n- Computer: This computer is so old, it remembers when the Internet was just a small net in the sea of technology.\n- Bookshelf: The bookshelf is a kind of intellectual spice rack; it just loves to shelf-improve.\n- Chair: The chair's life goal is to support you through thick and thin \u2014 mostly when you're thick from sitting thin doing nothing.\n- Papers: These papers are so scattered, they must be plotting to take over the desk.\n- Monitor: The monitor is known for displaying its feelings very vividly, all in high definition.\n- Water bottle: The water bottle always likes to keep a lid on its emotions.\n- Jacket: This jacket hangs around more than the most persistent of door-to-door salesmen.\n- Corkboard: A corkboard's favorite game is \"pin the tail on the memo.\"\n- Phone: The phone was once so cordless, it nearly forgot what it felt like to be tied down by conversations.",
+    "multi_object": "- Desk  \n- Computer  \n- \"This desk is so cluttered, it\u2019s starting to think it\u2019s a computer\u2019s personal assistant!\"\n\n- Computer  \n- Monitor  \n- \"My computer and monitor are in a constant battle; the monitor says it\u2019s the \u2018screen\u2019 star, but the computer insists it\u2019s the one doing all the \u2018processing\u2019!\"\n\n- Bookshelf  \n- Papers  \n- \"The bookshelf is feeling a bit \u2018shelf-conscious\u2019 with all those papers trying to climb up the ladder of knowledge!\"\n\n- Chair  \n- Water bottle  \n- \"This chair is so comfortable, even the water bottle is trying to take a seat and chill out!\"\n\n- Papers  \n- Corkboard  \n- \"These papers are so disorganized, they\u2019re considering applying for a \u2018corkboard\u2019 to get their lives pinned down!\"\n\n- Monitor  \n- Phone  \n- \"The monitor keeps telling the phone to \u2018screen\u2019 its calls, but the phone just wants to keep things \u2018textual\u2019!\"\n\n- Water bottle  \n- Jacket  \n- \"This water bottle is feeling a bit \u2018thirsty\u2019 for attention, while the jacket is just hanging around, trying to stay \u2018cool\u2019!\"\n\n- Jacket  \n- Chair  \n- \"The jacket is so cozy, it\u2019s trying to convince the chair to join it in a \u2018snuggle session\u2019!\" \n\n- Corkboard  \n- Desk  \n- \"The corkboard is tired of being the \u2018pinned\u2019 down one; it wants to take the desk for a spin!\" \n\n- Phone  \n- Computer  \n- \"The phone keeps texting the computer, asking if it can join the \u2018data\u2019 party!\"",
+    "single_object_dict": {
+        "Desk": "Even when it's overwhelmed, the desk still stands up for itself.",
+        "Computer": "This computer is so old, it remembers when the Internet was just a small net in the sea of technology.",
+        "Bookshelf": "The bookshelf is a kind of intellectual spice rack; it just loves to shelf-improve.",
+        "Chair": "The chair's life goal is to support you through thick and thin \u2014 mostly when you're thick from sitting thin doing nothing.",
+        "Papers": "These papers are so scattered, they must be plotting to take over the desk.",
+        "Monitor": "The monitor is known for displaying its feelings very vividly, all in high definition.",
+        "Water bottle": "The water bottle always likes to keep a lid on its emotions.",
+        "Jacket": "This jacket hangs around more than the most persistent of door-to-door salesmen.",
+        "Corkboard": "A corkboard's favorite game is \"pin the tail on the memo.\"",
+        "Phone": "The phone was once so cordless, it nearly forgot what it felt like to be tied down by conversations."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Desk",
+            "other_object_list": [
+                "Computer"
+            ],
+            "object_sentence": "\"This desk is so cluttered, it\u2019s starting to think it\u2019s a computer\u2019s personal assistant!\""
+        },
+        {
+            "main_object": "Computer",
+            "other_object_list": [
+                "Monitor"
+            ],
+            "object_sentence": "\"My computer and monitor are in a constant battle; the monitor says it\u2019s the \u2018screen\u2019 star, but the computer insists it\u2019s the one doing all the \u2018processing\u2019!\""
+        },
+        {
+            "main_object": "Bookshelf",
+            "other_object_list": [
+                "Papers"
+            ],
+            "object_sentence": "\"The bookshelf is feeling a bit \u2018shelf-conscious\u2019 with all those papers trying to climb up the ladder of knowledge!\""
+        },
+        {
+            "main_object": "Chair",
+            "other_object_list": [
+                "Water bottle"
+            ],
+            "object_sentence": "\"This chair is so comfortable, even the water bottle is trying to take a seat and chill out!\""
+        },
+        {
+            "main_object": "Papers",
+            "other_object_list": [
+                "Corkboard"
+            ],
+            "object_sentence": "\"These papers are so disorganized, they\u2019re considering applying for a \u2018corkboard\u2019 to get their lives pinned down!\""
+        },
+        {
+            "main_object": "Monitor",
+            "other_object_list": [
+                "Phone"
+            ],
+            "object_sentence": "\"The monitor keeps telling the phone to \u2018screen\u2019 its calls, but the phone just wants to keep things \u2018textual\u2019!\""
+        },
+        {
+            "main_object": "Water bottle",
+            "other_object_list": [
+                "Jacket"
+            ],
+            "object_sentence": "\"This water bottle is feeling a bit \u2018thirsty\u2019 for attention, while the jacket is just hanging around, trying to stay \u2018cool\u2019!\""
+        },
+        {
+            "main_object": "Jacket",
+            "other_object_list": [
+                "Chair"
+            ],
+            "object_sentence": "\"The jacket is so cozy, it\u2019s trying to convince the chair to join it in a \u2018snuggle session\u2019!\""
+        },
+        {
+            "main_object": "Corkboard",
+            "other_object_list": [
+                "Desk"
+            ],
+            "object_sentence": "\"The corkboard is tired of being the \u2018pinned\u2019 down one; it wants to take the desk for a spin!\""
+        },
+        {
+            "main_object": "Phone",
+            "other_object_list": [
+                "Computer"
+            ],
+            "object_sentence": "\"The phone keeps texting the computer, asking if it can join the \u2018data\u2019 party!\""
+        }
+    ]
+}

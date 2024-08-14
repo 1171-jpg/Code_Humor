@@ -1,0 +1,30 @@
+{
+    "folder_index": "136",
+    "object_list": [
+        "Building",
+        "Sign"
+    ],
+    "whole_object": "Looks like the graduate student center is offering a spectrum of opportunities so bright, even the sunlight wants to enroll!",
+    "single_object": "- Building: This building is so self-absorbed, it always stays story-high on confidence.\n- Sign: Even as a sign, I sometimes feel like I'm not getting the message across.",
+    "multi_object": "- Building  \n- Sign  \n- This building is so well-structured, it must have a sign that says, \"I\u2019m not just a pretty face; I have a degree in architecture!\"  \n\n- Sign  \n- Building  \n- The sign outside is so proud of the building, it keeps saying, \"I\u2019m the real graduate here; I\u2019ve got all the right letters!\"",
+    "single_object_dict": {
+        "Building": "This building is so self-absorbed, it always stays story-high on confidence.",
+        "Sign": "Even as a sign, I sometimes feel like I'm not getting the message across."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Sign"
+            ],
+            "object_sentence": "This building is so well-structured, it must have a sign that says, \"I\u2019m not just a pretty face; I have a degree in architecture!\""
+        },
+        {
+            "main_object": "Sign",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "The sign outside is so proud of the building, it keeps saying, \"I\u2019m the real graduate here; I\u2019ve got all the right letters!\""
+        }
+    ]
+}

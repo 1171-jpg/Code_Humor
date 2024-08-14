@@ -1,0 +1,75 @@
+{
+    "folder_index": "161",
+    "object_list": [
+        "Tree",
+        "Sidewalk",
+        "Building",
+        "People",
+        "Leaves",
+        "Extension cord",
+        "Toolbox"
+    ],
+    "whole_object": "\"Looks like someone told the tree to 'take a hike,' and it took the first step!\"",
+    "single_object": "- Tree: \"I'm just a palm tree, but I really know how to branch out in social situations!\"\n- Sidewalk: \"I\u2019m not just a path; I\u2019m the ultimate walk of fame for feet!\"\n- Building: \"I may be tall and sturdy, but I still can\u2019t handle the pressure of a good joke!\"\n- People: \"We\u2019re like a group of trees\u2014sometimes we just need to leaf our worries behind!\"\n- Leaves: \"I\u2019m falling for autumn, but I promise I won\u2019t leaf you hanging!\"\n- Extension cord: \"I\u2019m just here to connect with everyone, but I can\u2019t handle too much current drama!\"\n- Toolbox: \"I\u2019m a toolbox, and I\u2019ve got all the right tools to fix a bad pun!\"",
+    "multi_object": "- Tree  \n- Sidewalk  \n- \"This tree is so rooted in its ways, it thinks the sidewalk is just a branch of its family!\"  \n\n- Sidewalk  \n- Toolbox  \n- \"The sidewalk is feeling a bit cracked; it could really use a toolbox to fix its 'pavement' issues!\"  \n\n- Building  \n- Leaves  \n- \"The building is so tall, it\u2019s trying to convince the leaves that they should aspire to reach new heights!\"  \n\n- People  \n- Extension cord  \n- \"These people are so connected, they could probably power a city with their conversations\u2014just like an extension cord!\"  \n\n- Leaves  \n- Tree  \n- \"The leaves are having a falling out with the tree; they just can't seem to stick around!\"  \n\n- Extension cord  \n- Toolbox  \n- \"The extension cord is tired of being stretched thin; it wishes it could just plug into a toolbox for some support!\"  \n\n- Toolbox  \n- People  \n- \"The toolbox is jealous of the people; it wishes it had as many tools for socializing!\"  ",
+    "single_object_dict": {
+        "Tree": "\"I'm just a palm tree, but I really know how to branch out in social situations!\"",
+        "Sidewalk": "\"I\u2019m not just a path; I\u2019m the ultimate walk of fame for feet!\"",
+        "Building": "\"I may be tall and sturdy, but I still can\u2019t handle the pressure of a good joke!\"",
+        "People": "\"We\u2019re like a group of trees\u2014sometimes we just need to leaf our worries behind!\"",
+        "Leaves": "\"I\u2019m falling for autumn, but I promise I won\u2019t leaf you hanging!\"",
+        "Extension cord": "\"I\u2019m just here to connect with everyone, but I can\u2019t handle too much current drama!\"",
+        "Toolbox": "\"I\u2019m a toolbox, and I\u2019ve got all the right tools to fix a bad pun!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Sidewalk"
+            ],
+            "object_sentence": "\"This tree is so rooted in its ways, it thinks the sidewalk is just a branch of its family!\""
+        },
+        {
+            "main_object": "Sidewalk",
+            "other_object_list": [
+                "Toolbox"
+            ],
+            "object_sentence": "\"The sidewalk is feeling a bit cracked; it could really use a toolbox to fix its 'pavement' issues!\""
+        },
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Leaves"
+            ],
+            "object_sentence": "\"The building is so tall, it\u2019s trying to convince the leaves that they should aspire to reach new heights!\""
+        },
+        {
+            "main_object": "People",
+            "other_object_list": [
+                "Extension cord"
+            ],
+            "object_sentence": "\"These people are so connected, they could probably power a city with their conversations\u2014just like an extension cord!\""
+        },
+        {
+            "main_object": "Leaves",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "\"The leaves are having a falling out with the tree; they just can't seem to stick around!\""
+        },
+        {
+            "main_object": "Extension cord",
+            "other_object_list": [
+                "Toolbox"
+            ],
+            "object_sentence": "\"The extension cord is tired of being stretched thin; it wishes it could just plug into a toolbox for some support!\""
+        },
+        {
+            "main_object": "Toolbox",
+            "other_object_list": [
+                "People"
+            ],
+            "object_sentence": "\"The toolbox is jealous of the people; it wishes it had as many tools for socializing!\""
+        }
+    ]
+}

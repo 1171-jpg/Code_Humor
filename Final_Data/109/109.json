@@ -1,0 +1,30 @@
+{
+    "folder_index": "109",
+    "object_list": [
+        "Bicycle",
+        "Cars"
+    ],
+    "whole_object": "Our cyclist here isn't just spinning his wheels; he's truly on a roll through the urban jungle, pedaling past the car-mouflaged scenery!",
+    "single_object": "- Bicycle: \"This bicycle must be two-tired from spinning around the block all day!\"\n- Cars: \"I guess these cars love to park-icipate in a traffic jam session!\"",
+    "multi_object": "- Bicycle  \n- Cars  \n- \"Why did the bicycle break up with the car? It couldn't handle the pressure of all those exhaust-ing conversations!\"  \n\n- Cars  \n- Bicycle  \n- \"Why do cars always invite bicycles to parties? Because they know how to pedal the fun!\"",
+    "single_object_dict": {
+        "Bicycle": "\"This bicycle must be two-tired from spinning around the block all day!\"",
+        "Cars": "\"I guess these cars love to park-icipate in a traffic jam session!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Bicycle",
+            "other_object_list": [
+                "Cars"
+            ],
+            "object_sentence": "\"Why did the bicycle break up with the car? It couldn't handle the pressure of all those exhaust-ing conversations!\""
+        },
+        {
+            "main_object": "Cars",
+            "other_object_list": [
+                "Bicycle"
+            ],
+            "object_sentence": "\"Why do cars always invite bicycles to parties? Because they know how to pedal the fun!\""
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "folder_index": "106",
+    "object_list": [
+        "Building",
+        "Workers",
+        "Truck",
+        "Fence",
+        "Sign",
+        "Boxes",
+        "Tree",
+        "Pallet"
+    ],
+    "whole_object": "In a world where signs are merely suggestions, one man takes a stand\u2014by not using the pedestrian walkway.",
+    "single_object": "- Building: This building is so popular, even the stairs are spiraling out of control.\n- Workers: The workers keep erecting stories about their construction skills, but they're all built on solid foundations.\n- Truck: Despite many hauls, this truck never tires of its job, always staying wheel-y committed.\n- Fence: The fence is the ultimate gossip\u2014it\u2019s been around the block, seen it all, and still keeps things separated.\n- Sign: This sign is so demanding, it gives walking directions one foot at a time.\n- Boxes: The boxes lead a very squared existence, always thinking inside the box.\n- Tree: The tree stands so quietly, you'd think it was practicing 'bark' meditation.\n- Pallet: This pallet aspired to be an artist but found it couldn't handle the pressure of the palette.",
+    "multi_object": "- Building  \n- Workers  \n- The building is so round, it must be training for a marathon with all those workers running around it!  \n\n- Workers  \n- Truck  \n- These workers are so dedicated, they treat the truck like a mobile coffee shop\u2014always stopping for a \"brew\" break!  \n\n- Truck  \n- Boxes  \n- This truck is so full of boxes, it\u2019s like a game of Tetris that nobody wants to lose!  \n\n- Fence  \n- Tree  \n- The fence is so tall, it\u2019s trying to block the tree from getting any taller\u2014talk about a growth spurt rivalry!  \n\n- Sign  \n- Pallet  \n- The sign says \"Please use pedestrian walkway,\" but that pallet looks like it\u2019s ready to start a dance-off!  \n\n- Boxes  \n- Building  \n- These boxes are stacked so high, they could give the building a run for its money in the height competition!  \n\n- Tree  \n- Workers  \n- The tree is watching the workers and thinking, \"I\u2019ve got more branches than you have tools!\"  \n\n- Pallet  \n- Truck  \n- That pallet is so loaded, it\u2019s practically begging the truck to take it on a vacation!  ",
+    "single_object_dict": {
+        "Building": "This building is so popular, even the stairs are spiraling out of control.",
+        "Workers": "The workers keep erecting stories about their construction skills, but they're all built on solid foundations.",
+        "Truck": "Despite many hauls, this truck never tires of its job, always staying wheel-y committed.",
+        "Fence": "The fence is the ultimate gossip\u2014it\u2019s been around the block, seen it all, and still keeps things separated.",
+        "Sign": "This sign is so demanding, it gives walking directions one foot at a time.",
+        "Boxes": "The boxes lead a very squared existence, always thinking inside the box.",
+        "Tree": "The tree stands so quietly, you'd think it was practicing 'bark' meditation.",
+        "Pallet": "This pallet aspired to be an artist but found it couldn't handle the pressure of the palette."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Building",
+            "other_object_list": [
+                "Workers"
+            ],
+            "object_sentence": "The building is so round, it must be training for a marathon with all those workers running around it!"
+        },
+        {
+            "main_object": "Workers",
+            "other_object_list": [
+                "Truck"
+            ],
+            "object_sentence": "These workers are so dedicated, they treat the truck like a mobile coffee shop\u2014always stopping for a \"brew\" break!"
+        },
+        {
+            "main_object": "Truck",
+            "other_object_list": [
+                "Boxes"
+            ],
+            "object_sentence": "This truck is so full of boxes, it\u2019s like a game of Tetris that nobody wants to lose!"
+        },
+        {
+            "main_object": "Fence",
+            "other_object_list": [
+                "Tree"
+            ],
+            "object_sentence": "The fence is so tall, it\u2019s trying to block the tree from getting any taller\u2014talk about a growth spurt rivalry!"
+        },
+        {
+            "main_object": "Sign",
+            "other_object_list": [
+                "Pallet"
+            ],
+            "object_sentence": "The sign says \"Please use pedestrian walkway,\" but that pallet looks like it\u2019s ready to start a dance-off!"
+        },
+        {
+            "main_object": "Boxes",
+            "other_object_list": [
+                "Building"
+            ],
+            "object_sentence": "These boxes are stacked so high, they could give the building a run for its money in the height competition!"
+        },
+        {
+            "main_object": "Tree",
+            "other_object_list": [
+                "Workers"
+            ],
+            "object_sentence": "The tree is watching the workers and thinking, \"I\u2019ve got more branches than you have tools!\""
+        },
+        {
+            "main_object": "Pallet",
+            "other_object_list": [
+                "Truck"
+            ],
+            "object_sentence": "That pallet is so loaded, it\u2019s practically begging the truck to take it on a vacation!"
+        }
+    ]
+}

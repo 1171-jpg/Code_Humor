@@ -1,0 +1,48 @@
+{
+    "folder_index": "162",
+    "object_list": [
+        "Kiwi",
+        "Grapes",
+        "Pear",
+        "Plate"
+    ],
+    "whole_object": "When life gives you lemons, potatoes, and grapes, you don't make a salad; you make a still life photo that's a-peeling in all the wrong ways!",
+    "single_object": "- Kiwi: Don't envy me because I'm a little sour; I'm just kiwi to the core, and that's my superpower!\n- Grapes: Feeling a little bunch of stress? Just relax and wine a bit!\n- Pear: I'm not playing fruit favorites, but let's be honest, I am pear-fectly delicious!\n- Plate: They say I'm quite dishy, especially when I'm serving up some good eats!",
+    "multi_object": "- Kiwi  \n- Grapes  \n- \"I told the kiwi to stop being so fuzzy, but it just grape-fully ignored me!\"  \n\n- Grapes  \n- Pear  \n- \"The grapes were feeling a bit vine, but the pear just couldn't find its pear-sonality!\"  \n\n- Pear  \n- Kiwi  \n- \"The pear asked the kiwi for advice on how to be more a-peeling, but the kiwi just said to stay fruity!\"  \n\n- Plate  \n- Grapes  \n- \"This plate is feeling a bit empty; it could really use some grape company!\"  ",
+    "single_object_dict": {
+        "Kiwi": "Don't envy me because I'm a little sour; I'm just kiwi to the core, and that's my superpower!",
+        "Grapes": "Feeling a little bunch of stress? Just relax and wine a bit!",
+        "Pear": "I'm not playing fruit favorites, but let's be honest, I am pear-fectly delicious!",
+        "Plate": "They say I'm quite dishy, especially when I'm serving up some good eats!"
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Kiwi",
+            "other_object_list": [
+                "Grapes"
+            ],
+            "object_sentence": "\"I told the kiwi to stop being so fuzzy, but it just grape-fully ignored me!\""
+        },
+        {
+            "main_object": "Grapes",
+            "other_object_list": [
+                "Pear"
+            ],
+            "object_sentence": "\"The grapes were feeling a bit vine, but the pear just couldn't find its pear-sonality!\""
+        },
+        {
+            "main_object": "Pear",
+            "other_object_list": [
+                "Kiwi"
+            ],
+            "object_sentence": "\"The pear asked the kiwi for advice on how to be more a-peeling, but the kiwi just said to stay fruity!\""
+        },
+        {
+            "main_object": "Plate",
+            "other_object_list": [
+                "Grapes"
+            ],
+            "object_sentence": "\"This plate is feeling a bit empty; it could really use some grape company!\""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "87",
+    "object_list": [
+        "Trees",
+        "Water"
+    ],
+    "whole_object": "\"Looks like these folks have really taken the plunge into nature!\"",
+    "single_object": "- Trees: \"Why did the tree go to therapy? It couldn't stop branching out into new problems!\"  \n- Water: \"I'm on a liquid diet; I just can't resist a good splash!\"",
+    "multi_object": "- Trees  \n- Water  \n- The trees are so shady, they could start a gossip column about all the splashes in the water!\n\n- Water  \n- Trees  \n- The water is feeling a bit green with envy, watching the trees get all the shade!",
+    "single_object_dict": {
+        "Trees": "\"Why did the tree go to therapy? It couldn't stop branching out into new problems!\"",
+        "Water": "\"I'm on a liquid diet; I just can't resist a good splash!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Water"
+            ],
+            "object_sentence": "The trees are so shady, they could start a gossip column about all the splashes in the water!"
+        },
+        {
+            "main_object": "Water",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "The water is feeling a bit green with envy, watching the trees get all the shade!"
+        }
+    ]
+}

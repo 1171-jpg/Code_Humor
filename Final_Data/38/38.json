@@ -1,0 +1,102 @@
+{
+    "folder_index": "38",
+    "object_list": [
+        "Table",
+        "Chairs",
+        "Tablecloth",
+        "Flowers",
+        "Statue",
+        "Plants",
+        "Wall",
+        "Arch",
+        "Plates",
+        "Cups"
+    ],
+    "whole_object": "Looks like someone took \"garden variety seating\" to a whole new level\u2014this spot is really branching out!",
+    "single_object": "- Table: This table is so good at hiding, it's practically \"undercover.\"\n- Chairs: Those chairs must be in a band because they really know how to \"take a seat.\"\n- Tablecloth: The tablecloth flaunts more patterns than a chameleon at a disco.\n- Flowers: These flowers are so bright, they must have graduated \"magna bloom laude.\"\n- Statue: The statue stands so still, you'd think it was a professional at \"freeze tag.\"\n- Plants: These plants are so popular, they have \"fronds\" in high places.\n- Wall: The wall is so unentertained; it never cracks up.\n- Arch: This arch must have studied architecture because it really knows how to \"support\" a conversation.\n- Plates: The plates in this setting are such perfectionists; they're always \"dishing out\" their best.\n- Cups: These cups are so energetic, they always seem to be \"mugged\" with excitement.",
+    "multi_object": "- Table  \n- Chairs  \n- \"This table is feeling a bit lonely; it wishes it could pull up a chair and join the conversation!\"  \n\n- Chairs  \n- Flowers  \n- \"These chairs are so comfortable, even the flowers are trying to take a seat and enjoy the view!\"  \n\n- Tablecloth  \n- Plates  \n- \"This tablecloth is so fancy, it makes the plates feel like they're at a royal banquet!\"  \n\n- Flowers  \n- Plants  \n- \"These flowers are in a blooming competition with the plants, but they both agree that the real winner is the garden!\"  \n\n- Statue  \n- Wall  \n- \"The statue is so proud, it thinks it\u2019s the only one who can hold up the wall of fame!\"  \n\n- Plants  \n- Arch  \n- \"These plants are trying to climb the arch, but they keep getting tangled in their own ambitions!\"  \n\n- Wall  \n- Table  \n- \"This wall is so supportive, it\u2019s like the table\u2019s best friend, always holding it up during dinner parties!\"  \n\n- Arch  \n- Cups  \n- \"The arch is so grand, it makes the cups feel like they\u2019re under a royal archway every time they\u2019re filled!\"  \n\n- Plates  \n- Flowers  \n- \"These plates are so colorful, they\u2019re starting to think they\u2019re part of the flower arrangement!\"  \n\n- Cups  \n- Chairs  \n- \"These cups are so full of themselves, they think they deserve a chair at the table!\"  ",
+    "single_object_dict": {
+        "Table": "This table is so good at hiding, it's practically \"undercover.\"",
+        "Chairs": "Those chairs must be in a band because they really know how to \"take a seat.\"",
+        "Tablecloth": "The tablecloth flaunts more patterns than a chameleon at a disco.",
+        "Flowers": "These flowers are so bright, they must have graduated \"magna bloom laude.\"",
+        "Statue": "The statue stands so still, you'd think it was a professional at \"freeze tag.\"",
+        "Plants": "These plants are so popular, they have \"fronds\" in high places.",
+        "Wall": "The wall is so unentertained; it never cracks up.",
+        "Arch": "This arch must have studied architecture because it really knows how to \"support\" a conversation.",
+        "Plates": "The plates in this setting are such perfectionists; they're always \"dishing out\" their best.",
+        "Cups": "These cups are so energetic, they always seem to be \"mugged\" with excitement."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"This table is feeling a bit lonely; it wishes it could pull up a chair and join the conversation!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"These chairs are so comfortable, even the flowers are trying to take a seat and enjoy the view!\""
+        },
+        {
+            "main_object": "Tablecloth",
+            "other_object_list": [
+                "Plates"
+            ],
+            "object_sentence": "\"This tablecloth is so fancy, it makes the plates feel like they're at a royal banquet!\""
+        },
+        {
+            "main_object": "Flowers",
+            "other_object_list": [
+                "Plants"
+            ],
+            "object_sentence": "\"These flowers are in a blooming competition with the plants, but they both agree that the real winner is the garden!\""
+        },
+        {
+            "main_object": "Statue",
+            "other_object_list": [
+                "Wall"
+            ],
+            "object_sentence": "\"The statue is so proud, it thinks it\u2019s the only one who can hold up the wall of fame!\""
+        },
+        {
+            "main_object": "Plants",
+            "other_object_list": [
+                "Arch"
+            ],
+            "object_sentence": "\"These plants are trying to climb the arch, but they keep getting tangled in their own ambitions!\""
+        },
+        {
+            "main_object": "Wall",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"This wall is so supportive, it\u2019s like the table\u2019s best friend, always holding it up during dinner parties!\""
+        },
+        {
+            "main_object": "Arch",
+            "other_object_list": [
+                "Cups"
+            ],
+            "object_sentence": "\"The arch is so grand, it makes the cups feel like they\u2019re under a royal archway every time they\u2019re filled!\""
+        },
+        {
+            "main_object": "Plates",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"These plates are so colorful, they\u2019re starting to think they\u2019re part of the flower arrangement!\""
+        },
+        {
+            "main_object": "Cups",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"These cups are so full of themselves, they think they deserve a chair at the table!\""
+        }
+    ]
+}

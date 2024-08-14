@@ -1,0 +1,93 @@
+{
+    "folder_index": "31",
+    "object_list": [
+        "Cabinets",
+        "Toaster",
+        "Sink",
+        "Dish rack",
+        "Dishwasher",
+        "Flower vase",
+        "Canisters",
+        "Wall clock",
+        "Knife block"
+    ],
+    "whole_object": "\"This kitchen's so clean you could eat off the floor, but with counter space like that, who needs floor-flavoring?\"",
+    "single_object": "- Cabinets: When the Cabinets closed, they whispered, \"We're a tight-knit family that always sticks together!\"\n- Toaster: The Toaster often boasted, \"I've got the hottest buns in town!\"\n- Sink: The Sink had a draining personality\u2014it was always down in the dumps.\n- Dish rack: The Dish rack likes to think of itself as a plateform for culinary artists.\n- Dishwasher: \"I wanted to be a spin doctor,\" mused the Dishwasher, \"but I'm just spinning my wheels here.\"\n- Flower vase: The Flower vase always thought it had blossomed into a fine centerpiece of attention.\n- Canisters: \"I contain multitudes,\" said the Canister with a tinny laugh.\n- Wall clock: The Wall clock was always ticked off about being wound up in the same old routine.\n- Knife block: The Knife block, known for its sharp wits, remarked, \"I've got a point to every story.\"",
+    "multi_object": "- Cabinets  \n- Toaster  \n- \"These cabinets are so organized, even the toaster is feeling a little crumby about its messy bread!\"\n\n- Toaster  \n- Flower vase  \n- \"This toaster is on a roll, but it can't help but feel a bit outshined by the flower vase's blooming personality!\"\n\n- Sink  \n- Dish rack  \n- \"The sink is always ready for a wash, but it can't stand the dish rack's constant drying drama!\"\n\n- Dish rack  \n- Knife block  \n- \"The dish rack is stacking up compliments, but the knife block just cuts in with sharp remarks!\"\n\n- Dishwasher  \n- Wall clock  \n- \"The dishwasher is always running late, while the wall clock just ticks away in perfect timing!\"\n\n- Flower vase  \n- Canisters  \n- \"The flower vase is blooming with joy, while the canisters are just trying to keep it all together!\"\n\n- Canisters  \n- Cabinets  \n- \"The canisters are full of secrets, but the cabinets are the ones really holding everything together!\"\n\n- Wall clock  \n- Sink  \n- \"The wall clock is always ticking, but the sink just wants to make a splash in the conversation!\" \n\n- Knife block  \n- Dishwasher  \n- \"The knife block is sharp as a tack, but the dishwasher just wants to cut through the noise!\"",
+    "single_object_dict": {
+        "Cabinets": "When the Cabinets closed, they whispered, \"We're a tight-knit family that always sticks together!\"",
+        "Toaster": "The Toaster often boasted, \"I've got the hottest buns in town!\"",
+        "Sink": "The Sink had a draining personality\u2014it was always down in the dumps.",
+        "Dish rack": "The Dish rack likes to think of itself as a plateform for culinary artists.",
+        "Dishwasher": "\"I wanted to be a spin doctor,\" mused the Dishwasher, \"but I'm just spinning my wheels here.\"",
+        "Flower vase": "The Flower vase always thought it had blossomed into a fine centerpiece of attention.",
+        "Canisters": "\"I contain multitudes,\" said the Canister with a tinny laugh.",
+        "Wall clock": "The Wall clock was always ticked off about being wound up in the same old routine.",
+        "Knife block": "The Knife block, known for its sharp wits, remarked, \"I've got a point to every story.\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Cabinets",
+            "other_object_list": [
+                "Toaster"
+            ],
+            "object_sentence": "\"These cabinets are so organized, even the toaster is feeling a little crumby about its messy bread!\""
+        },
+        {
+            "main_object": "Toaster",
+            "other_object_list": [
+                "Flower vase"
+            ],
+            "object_sentence": "\"This toaster is on a roll, but it can't help but feel a bit outshined by the flower vase's blooming personality!\""
+        },
+        {
+            "main_object": "Sink",
+            "other_object_list": [
+                "Dish rack"
+            ],
+            "object_sentence": "\"The sink is always ready for a wash, but it can't stand the dish rack's constant drying drama!\""
+        },
+        {
+            "main_object": "Dish rack",
+            "other_object_list": [
+                "Knife block"
+            ],
+            "object_sentence": "\"The dish rack is stacking up compliments, but the knife block just cuts in with sharp remarks!\""
+        },
+        {
+            "main_object": "Dishwasher",
+            "other_object_list": [
+                "Wall clock"
+            ],
+            "object_sentence": "\"The dishwasher is always running late, while the wall clock just ticks away in perfect timing!\""
+        },
+        {
+            "main_object": "Flower vase",
+            "other_object_list": [
+                "Canisters"
+            ],
+            "object_sentence": "\"The flower vase is blooming with joy, while the canisters are just trying to keep it all together!\""
+        },
+        {
+            "main_object": "Canisters",
+            "other_object_list": [
+                "Cabinets"
+            ],
+            "object_sentence": "\"The canisters are full of secrets, but the cabinets are the ones really holding everything together!\""
+        },
+        {
+            "main_object": "Wall clock",
+            "other_object_list": [
+                "Sink"
+            ],
+            "object_sentence": "\"The wall clock is always ticking, but the sink just wants to make a splash in the conversation!\""
+        },
+        {
+            "main_object": "Knife block",
+            "other_object_list": [
+                "Dishwasher"
+            ],
+            "object_sentence": "\"The knife block is sharp as a tack, but the dishwasher just wants to cut through the noise!\""
+        }
+    ]
+}

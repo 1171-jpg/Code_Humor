@@ -1,0 +1,129 @@
+{
+    "folder_index": "89",
+    "object_list": [
+        "Red cabinet",
+        "Table lamp",
+        "Books",
+        "CD player",
+        "Flowers",
+        "Glass table",
+        "Floor lamp",
+        "TV",
+        "Speakers",
+        "Black table",
+        "Zebra rug",
+        "Black sofa",
+        "Red chair"
+    ],
+    "whole_object": "\"After a long debate with the zebra, the floor made a bold statement: 'I'm really not just black and white; I'm more of an animal print enthusiast at heart!'\" (Rhetorical devices - personification and unexpected contrast)",
+    "single_object": "- Red cabinet: This red cabinet is so bright, I need sunglasses just to find my socks!\n- Table lamp: This table lamp stands out like a lighthouse guiding ships on a vast, furniture-filled sea.\n- Books: These books must be on a stealth mission because I've never seen them leave the shelf.\n- CD player: The CD player is so old school, it's practically the principal.\n- Flowers: These flowers are so fresh, they must have aced their photosynthesis exam.\n- Glass table: The glass table is so transparent, it's like it's not even trying to hide its feelings.\n- Floor lamp: The floor lamp is reaching for the ceiling like it's got ambitions to be a chandelier.\n- TV: The TV is so flat, when it turns to the side, it practically disappears.\n- Speakers: The speakers are so loud, they give the local rock band a run for their money.\n- Black table: This black table is the James Bond of furniture\u2014sleek, stylish, and always undercover.\n- Zebra rug: The zebra rug is the only 'animal' in here that doesn't require feeding, yet it still brings all the safari vibes.\n- Black sofa: This black sofa is so comfy, it's like sitting on a cloud made of midnight.\n- Red chair: This red chair vies for attention like a diva on opening night.",
+    "multi_object": "- Red cabinet  \n- Table lamp  \n- \"The red cabinet is so bright, it makes the table lamp feel like it's in a dim relationship!\"  \n\n- Table lamp  \n- Books  \n- \"The table lamp tried to read the books, but it couldn't find the right light to illuminate its thoughts!\"  \n\n- Books  \n- CD player  \n- \"These books are so well-read, they could probably teach the CD player a thing or two about spinning a good tale!\"  \n\n- CD player  \n- Flowers  \n- \"The CD player plays the sweetest tunes, but even it can't compete with the flowers' ability to make hearts bloom!\"  \n\n- Flowers  \n- Glass table  \n- \"The flowers are so stunning, they make the glass table feel transparent about its jealousy!\"  \n\n- Glass table  \n- Floor lamp  \n- \"The glass table is so clear, it can see the floor lamp's bright ideas shining through!\"  \n\n- Floor lamp  \n- TV  \n- \"The floor lamp is always trying to outshine the TV, but it just can't compete with the drama on screen!\"  \n\n- TV  \n- Speakers  \n- \"The TV is so dramatic, it makes the speakers feel like they're just background noise in a blockbuster!\"  \n\n- Speakers  \n- Black table  \n- \"The speakers are so loud, they make the black table feel like it's just a quiet observer in a rock concert!\"  \n\n- Black table  \n- Zebra rug  \n- \"The black table is so sleek, it makes the zebra rug feel like it's just trying to blend in with the crowd!\"  \n\n- Zebra rug  \n- Black sofa  \n- \"The zebra rug is so stylish, it makes the black sofa feel like it's just a supporting character in a fashion show!\"  \n\n- Black sofa  \n- Red chair  \n- \"The black sofa is so comfortable, it makes the red chair feel like it's just a flashy seat at a boring party!\"  \n\n- Red chair  \n- Red cabinet  \n- \"The red chair is so bold, it makes the red cabinet feel like it's just a shy sibling in a family of bright colors!\"  ",
+    "single_object_dict": {
+        "Red cabinet": "This red cabinet is so bright, I need sunglasses just to find my socks!",
+        "Table lamp": "This table lamp stands out like a lighthouse guiding ships on a vast, furniture-filled sea.",
+        "Books": "These books must be on a stealth mission because I've never seen them leave the shelf.",
+        "CD player": "The CD player is so old school, it's practically the principal.",
+        "Flowers": "These flowers are so fresh, they must have aced their photosynthesis exam.",
+        "Glass table": "The glass table is so transparent, it's like it's not even trying to hide its feelings.",
+        "Floor lamp": "The floor lamp is reaching for the ceiling like it's got ambitions to be a chandelier.",
+        "TV": "The TV is so flat, when it turns to the side, it practically disappears.",
+        "Speakers": "The speakers are so loud, they give the local rock band a run for their money.",
+        "Black table": "This black table is the James Bond of furniture\u2014sleek, stylish, and always undercover.",
+        "Zebra rug": "The zebra rug is the only 'animal' in here that doesn't require feeding, yet it still brings all the safari vibes.",
+        "Black sofa": "This black sofa is so comfy, it's like sitting on a cloud made of midnight.",
+        "Red chair": "This red chair vies for attention like a diva on opening night."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Red cabinet",
+            "other_object_list": [
+                "Table lamp"
+            ],
+            "object_sentence": "\"The red cabinet is so bright, it makes the table lamp feel like it's in a dim relationship!\""
+        },
+        {
+            "main_object": "Table lamp",
+            "other_object_list": [
+                "Books"
+            ],
+            "object_sentence": "\"The table lamp tried to read the books, but it couldn't find the right light to illuminate its thoughts!\""
+        },
+        {
+            "main_object": "Books",
+            "other_object_list": [
+                "CD player"
+            ],
+            "object_sentence": "\"These books are so well-read, they could probably teach the CD player a thing or two about spinning a good tale!\""
+        },
+        {
+            "main_object": "CD player",
+            "other_object_list": [
+                "Flowers"
+            ],
+            "object_sentence": "\"The CD player plays the sweetest tunes, but even it can't compete with the flowers' ability to make hearts bloom!\""
+        },
+        {
+            "main_object": "Flowers",
+            "other_object_list": [
+                "Glass table"
+            ],
+            "object_sentence": "\"The flowers are so stunning, they make the glass table feel transparent about its jealousy!\""
+        },
+        {
+            "main_object": "Glass table",
+            "other_object_list": [
+                "Floor lamp"
+            ],
+            "object_sentence": "\"The glass table is so clear, it can see the floor lamp's bright ideas shining through!\""
+        },
+        {
+            "main_object": "Floor lamp",
+            "other_object_list": [
+                "TV"
+            ],
+            "object_sentence": "\"The floor lamp is always trying to outshine the TV, but it just can't compete with the drama on screen!\""
+        },
+        {
+            "main_object": "TV",
+            "other_object_list": [
+                "Speakers"
+            ],
+            "object_sentence": "\"The TV is so dramatic, it makes the speakers feel like they're just background noise in a blockbuster!\""
+        },
+        {
+            "main_object": "Speakers",
+            "other_object_list": [
+                "Black table"
+            ],
+            "object_sentence": "\"The speakers are so loud, they make the black table feel like it's just a quiet observer in a rock concert!\""
+        },
+        {
+            "main_object": "Black table",
+            "other_object_list": [
+                "Zebra rug"
+            ],
+            "object_sentence": "\"The black table is so sleek, it makes the zebra rug feel like it's just trying to blend in with the crowd!\""
+        },
+        {
+            "main_object": "Zebra rug",
+            "other_object_list": [
+                "Black sofa"
+            ],
+            "object_sentence": "\"The zebra rug is so stylish, it makes the black sofa feel like it's just a supporting character in a fashion show!\""
+        },
+        {
+            "main_object": "Black sofa",
+            "other_object_list": [
+                "Red chair"
+            ],
+            "object_sentence": "\"The black sofa is so comfortable, it makes the red chair feel like it's just a flashy seat at a boring party!\""
+        },
+        {
+            "main_object": "Red chair",
+            "other_object_list": [
+                "Red cabinet"
+            ],
+            "object_sentence": "\"The red chair is so bold, it makes the red cabinet feel like it's just a shy sibling in a family of bright colors!\""
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "folder_index": "79",
+    "object_list": [
+        "Dining table",
+        "Chairs",
+        "Sofa",
+        "Coffee table",
+        "Floor lamp",
+        "Curtains",
+        "Ceiling light",
+        "Fireplace",
+        "Rug"
+    ],
+    "whole_object": "This cabin is so knot-ty, even the furniture is pine-ing for attention!",
+    "single_object": "- Dining table: I'm the table where family secrets are spilled more than the drinks!\n- Chairs: I support backs like an understudy supports the lead \u2013 always prepared for the big \"sit\"uation.\n- Sofa: I'm a couch potato\u2019s best bud \u2013 we both excel at lounging around!\n- Coffee table: I hold up coffee like I hold up conversations \u2013 with a strong surface and a bit of character.\n- Floor lamp: I light up the room with my personality \u2013 watt else do you need?\n- Curtains: I've got window dressing down to an art; call me the 'pane' artist.\n- Ceiling light: Hanging around all day, I still manage to be the brightest in the room!\n- Fireplace: Whether it\u2019s a log or a long day, I burn through it with flare.\n- Rug: They say to sweep things under the carpet, but under me? That's where the magic carpet rides begin.",
+    "multi_object": "- Dining table  \n- Chairs  \n- \"The dining table is so sturdy, it could probably hold up a conversation better than the chairs!\"  \n\n- Chairs  \n- Sofa  \n- \"These chairs are feeling a bit jealous of the sofa's ability to lounge around all day!\"  \n\n- Sofa  \n- Coffee table  \n- \"The sofa told the coffee table, 'You may hold the coffee, but I hold the secrets of all the naps!'\"  \n\n- Coffee table  \n- Floor lamp  \n- \"The coffee table is always in the spotlight, but the floor lamp insists it has the brightest ideas!\"  \n\n- Floor lamp  \n- Curtains  \n- \"The floor lamp tried to impress the curtains, but they just waved it off!\"  \n\n- Curtains  \n- Ceiling light  \n- \"The curtains are always drawn to the ceiling light, but they just can't seem to find the right angle!\"  \n\n- Ceiling light  \n- Fireplace  \n- \"The ceiling light thinks it's the brightest in the room, but the fireplace just smirks, saying, 'I bring the heat!'\"  \n\n- Fireplace  \n- Rug  \n- \"The fireplace is always trying to warm up to the rug, but the rug just wants to keep things cozy!\"  \n\n- Rug  \n- Dining table  \n- \"The rug is tired of being walked all over by the dining table's guests; it just wants to roll with the good times!\"  ",
+    "single_object_dict": {
+        "Dining table": "I'm the table where family secrets are spilled more than the drinks!",
+        "Chairs": "I support backs like an understudy supports the lead \u2013 always prepared for the big \"sit\"uation.",
+        "Sofa": "I'm a couch potato\u2019s best bud \u2013 we both excel at lounging around!",
+        "Coffee table": "I hold up coffee like I hold up conversations \u2013 with a strong surface and a bit of character.",
+        "Floor lamp": "I light up the room with my personality \u2013 watt else do you need?",
+        "Curtains": "I've got window dressing down to an art; call me the 'pane' artist.",
+        "Ceiling light": "Hanging around all day, I still manage to be the brightest in the room!",
+        "Fireplace": "Whether it\u2019s a log or a long day, I burn through it with flare.",
+        "Rug": "They say to sweep things under the carpet, but under me? That's where the magic carpet rides begin."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Dining table",
+            "other_object_list": [
+                "Chairs"
+            ],
+            "object_sentence": "\"The dining table is so sturdy, it could probably hold up a conversation better than the chairs!\""
+        },
+        {
+            "main_object": "Chairs",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "\"These chairs are feeling a bit jealous of the sofa's ability to lounge around all day!\""
+        },
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Coffee table"
+            ],
+            "object_sentence": "\"The sofa told the coffee table, 'You may hold the coffee, but I hold the secrets of all the naps!'\""
+        },
+        {
+            "main_object": "Coffee table",
+            "other_object_list": [
+                "Floor lamp"
+            ],
+            "object_sentence": "\"The coffee table is always in the spotlight, but the floor lamp insists it has the brightest ideas!\""
+        },
+        {
+            "main_object": "Floor lamp",
+            "other_object_list": [
+                "Curtains"
+            ],
+            "object_sentence": "\"The floor lamp tried to impress the curtains, but they just waved it off!\""
+        },
+        {
+            "main_object": "Curtains",
+            "other_object_list": [
+                "Ceiling light"
+            ],
+            "object_sentence": "\"The curtains are always drawn to the ceiling light, but they just can't seem to find the right angle!\""
+        },
+        {
+            "main_object": "Ceiling light",
+            "other_object_list": [
+                "Fireplace"
+            ],
+            "object_sentence": "\"The ceiling light thinks it's the brightest in the room, but the fireplace just smirks, saying, 'I bring the heat!'\""
+        },
+        {
+            "main_object": "Fireplace",
+            "other_object_list": [
+                "Rug"
+            ],
+            "object_sentence": "\"The fireplace is always trying to warm up to the rug, but the rug just wants to keep things cozy!\""
+        },
+        {
+            "main_object": "Rug",
+            "other_object_list": [
+                "Dining table"
+            ],
+            "object_sentence": "\"The rug is tired of being walked all over by the dining table's guests; it just wants to roll with the good times!\""
+        }
+    ]
+}

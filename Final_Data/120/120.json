@@ -1,0 +1,102 @@
+{
+    "folder_index": "120",
+    "object_list": [
+        "Sofa",
+        "Coffee table",
+        "Armchair",
+        "Floor lamp",
+        "Table lamp",
+        "Rug",
+        "Painting",
+        "Balcony",
+        "Sliding door",
+        "Side table"
+    ],
+    "whole_object": "This living room is so immaculately clean, it's clear the vacuum cleaner must be hiding, because it certainly has no dirt on it!",
+    "single_object": "- Sofa: This sofa's got so much cushion for the pushin', it's practically a marshmallow on a diet.\n- Coffee table: When it comes to coffee tables, this one's no bean counter - it supports coffee, books, and life's little extras with equal enthusiasm.\n- Armchair: This armchair is so inviting, it's rumored to give the world's best bear hugs \u2013 furniture style. \n- Floor lamp: This floor lamp stands tall, not to brighten your day, but to illuminate your knight moves in living room chess.\n- Table lamp: They say this table lamp is light on its feet - probably because it's always glowing with excitement!\n- Rug: This rug really ties the room together, like a good joke ties up a punchline.\n- Painting: The painting on the wall is, quite frankly, framed elegance - whispering, \"I'm arty and I know it.\"\n- Balcony: The balcony's railings provide the best bars for dropping the hottest fresh air beats.\n- Sliding door: The sliding door: it's not just a pane and a slide; it's your personal gateway to the great balcony beyond.\n- Side table: Side table, or discreet snack butler? We may never know, but it's on standby for your next munchies mission.",
+    "multi_object": "- Sofa  \n- Coffee table  \n- \"The sofa and coffee table are in a serious relationship; they just can't seem to find the right space to settle down!\"  \n\n- Coffee table  \n- Armchair  \n- \"The coffee table told the armchair it was tired of being the center of attention, but the armchair just said, 'Don't worry, I always have your back!'\"  \n\n- Armchair  \n- Floor lamp  \n- \"The armchair tried to impress the floor lamp, but it realized it was just a little too dim-witted!\"  \n\n- Floor lamp  \n- Table lamp  \n- \"The floor lamp and table lamp had a light-hearted debate about who could shine brighter, but in the end, they both agreed it was a bright idea to work together!\"  \n\n- Table lamp  \n- Rug  \n- \"The table lamp thought it was the brightest in the room, but the rug just rolled its eyes and said, 'I\u2019m the one who really ties this place together!'\"  \n\n- Rug  \n- Painting  \n- \"The rug felt a bit flat next to the painting, but the painting assured it that every masterpiece needs a solid foundation!\"  \n\n- Painting  \n- Balcony  \n- \"The painting dreamed of hanging out on the balcony, but the balcony said, 'Sorry, I only support outdoor art!'\"  \n\n- Balcony  \n- Sliding door  \n- \"The balcony and sliding door had a great view of the outside world, but the sliding door always felt a bit pushed around!\"  \n\n- Sliding door  \n- Side table  \n- \"The sliding door told the side table it was tired of being pushed open and closed, but the side table just said, 'At least you get to see all the action!'\"  \n\n- Side table  \n- Sofa  \n- \"The side table always felt a little overshadowed by the sofa, but it knew it was the one holding all the snacks!\"  ",
+    "single_object_dict": {
+        "Sofa": "This sofa's got so much cushion for the pushin', it's practically a marshmallow on a diet.",
+        "Coffee table": "When it comes to coffee tables, this one's no bean counter - it supports coffee, books, and life's little extras with equal enthusiasm.",
+        "Armchair": "This armchair is so inviting, it's rumored to give the world's best bear hugs \u2013 furniture style.",
+        "Floor lamp": "This floor lamp stands tall, not to brighten your day, but to illuminate your knight moves in living room chess.",
+        "Table lamp": "They say this table lamp is light on its feet - probably because it's always glowing with excitement!",
+        "Rug": "This rug really ties the room together, like a good joke ties up a punchline.",
+        "Painting": "The painting on the wall is, quite frankly, framed elegance - whispering, \"I'm arty and I know it.\"",
+        "Balcony": "The balcony's railings provide the best bars for dropping the hottest fresh air beats.",
+        "Sliding door": "The sliding door",
+        "Side table": "Side table, or discreet snack butler? We may never know, but it's on standby for your next munchies mission."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Sofa",
+            "other_object_list": [
+                "Coffee table"
+            ],
+            "object_sentence": "\"The sofa and coffee table are in a serious relationship; they just can't seem to find the right space to settle down!\""
+        },
+        {
+            "main_object": "Coffee table",
+            "other_object_list": [
+                "Armchair"
+            ],
+            "object_sentence": "\"The coffee table told the armchair it was tired of being the center of attention, but the armchair just said, 'Don't worry, I always have your back!'\""
+        },
+        {
+            "main_object": "Armchair",
+            "other_object_list": [
+                "Floor lamp"
+            ],
+            "object_sentence": "\"The armchair tried to impress the floor lamp, but it realized it was just a little too dim-witted!\""
+        },
+        {
+            "main_object": "Floor lamp",
+            "other_object_list": [
+                "Table lamp"
+            ],
+            "object_sentence": "\"The floor lamp and table lamp had a light-hearted debate about who could shine brighter, but in the end, they both agreed it was a bright idea to work together!\""
+        },
+        {
+            "main_object": "Table lamp",
+            "other_object_list": [
+                "Rug"
+            ],
+            "object_sentence": "\"The table lamp thought it was the brightest in the room, but the rug just rolled its eyes and said, 'I\u2019m the one who really ties this place together!'\""
+        },
+        {
+            "main_object": "Rug",
+            "other_object_list": [
+                "Painting"
+            ],
+            "object_sentence": "\"The rug felt a bit flat next to the painting, but the painting assured it that every masterpiece needs a solid foundation!\""
+        },
+        {
+            "main_object": "Painting",
+            "other_object_list": [
+                "Balcony"
+            ],
+            "object_sentence": "\"The painting dreamed of hanging out on the balcony, but the balcony said, 'Sorry, I only support outdoor art!'\""
+        },
+        {
+            "main_object": "Balcony",
+            "other_object_list": [
+                "Sliding door"
+            ],
+            "object_sentence": "\"The balcony and sliding door had a great view of the outside world, but the sliding door always felt a bit pushed around!\""
+        },
+        {
+            "main_object": "Sliding door",
+            "other_object_list": [
+                "Side table"
+            ],
+            "object_sentence": "\"The sliding door told the side table it was tired of being pushed open and closed, but the side table just said, 'At least you get to see all the action!'\""
+        },
+        {
+            "main_object": "Side table",
+            "other_object_list": [
+                "Sofa"
+            ],
+            "object_sentence": "\"The side table always felt a little overshadowed by the sofa, but it knew it was the one holding all the snacks!\""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "folder_index": "101",
+    "object_list": [
+        "Car",
+        "Trees"
+    ],
+    "whole_object": "Given that there's a person near the rear of the car possibly interacting with the trunk, let's try a wordplay:\n\n\"When it comes to packing the car trunk, it's all about the cargo-nization skills!\"",
+    "single_object": "- Car: This car is so tired from driving, it decided to take a brake right here.\n- Trees: These trees are the best gossipers in town; they're always rustling up some leafy rumors.",
+    "multi_object": "- Car  \n- Trees  \n- This car is so loaded, it looks like it's trying to branch out into a tree-hugging lifestyle!  \n\n- Trees  \n- Car  \n- These trees are so tall, they must be giving the car a run for its money in the \"who can reach the sky first\" competition!",
+    "single_object_dict": {
+        "Car": "This car is so tired from driving, it decided to take a brake right here.",
+        "Trees": "These trees are the best gossipers in town; they're always rustling up some leafy rumors."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Car",
+            "other_object_list": [
+                "Trees"
+            ],
+            "object_sentence": "This car is so loaded, it looks like it's trying to branch out into a tree-hugging lifestyle!"
+        },
+        {
+            "main_object": "Trees",
+            "other_object_list": [
+                "Car"
+            ],
+            "object_sentence": "These trees are so tall, they must be giving the car a run for its money in the \"who can reach the sky first\" competition!"
+        }
+    ]
+}

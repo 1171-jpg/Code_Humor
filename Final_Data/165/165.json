@@ -1,0 +1,30 @@
+{
+    "folder_index": "165",
+    "object_list": [
+        "Roller coaster",
+        "Sky"
+    ],
+    "whole_object": "When asked about his financial investments, the roller coaster said, \"I'm into ups and downs, but mostly I like to keep the interest high!\"",
+    "single_object": "- Roller coaster: \"Why did the roller coaster break up with the merry-go-round? It just couldn't handle the ups and downs!\"  \n- Sky: \"The sky called in sick today; it just couldn't find the right shade of blue to wear!\"",
+    "multi_object": "- Roller coaster  \n- Sky  \n- Why did the roller coaster break up with the sky? It couldn't handle the ups and downs!  \n\n- Sky  \n- Roller coaster  \n- The sky is feeling a bit dizzy today, probably from watching all those roller coasters take their wild rides!  ",
+    "single_object_dict": {
+        "Roller coaster": "\"Why did the roller coaster break up with the merry-go-round? It just couldn't handle the ups and downs!\"",
+        "Sky": "\"The sky called in sick today; it just couldn't find the right shade of blue to wear!\""
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Roller coaster",
+            "other_object_list": [
+                "Sky"
+            ],
+            "object_sentence": "Why did the roller coaster break up with the sky? It couldn't handle the ups and downs!"
+        },
+        {
+            "main_object": "Sky",
+            "other_object_list": [
+                "Roller coaster"
+            ],
+            "object_sentence": "The sky is feeling a bit dizzy today, probably from watching all those roller coasters take their wild rides!"
+        }
+    ]
+}

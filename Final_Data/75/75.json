@@ -1,0 +1,102 @@
+{
+    "folder_index": "75",
+    "object_list": [
+        "Sink",
+        "Stove",
+        "Table",
+        "Benches",
+        "Cabinets",
+        "Windows",
+        "Map",
+        "Control panel",
+        "Cushions",
+        "Skylight"
+    ],
+    "whole_object": "When I told my friends I had a yacht, they thought I was being boastful, but clearly, I'm just ship-shape in telling the truth.",
+    "single_object": "- Sink: This sink might be in hot water for always being drained at parties!\n- Stove: The stove's favorite band must be 'The Flaming Lips' because it's always cooking up hits.\n- Table: This table stands four legs above competition when it comes to holding things up.\n- Benches: These benches are outstanding in their field\u2014of seating!\n- Cabinets: These cabinets are so good at hiding things; they're practically in the witness protection program.\n- Windows: These windows are clearly the best at transparency.\n- Map: This map might just be the center of attention, leading everyone in the right direction.\n- Control panel: The control panel is buttoned up, always pressed for information.\n- Cushions: Cushions are the unsung heroes; they've got your back, quietly.\n- Skylight: The skylight's career is definitely on the up and up, it's a true rising star.",
+    "multi_object": "- Sink  \n- Stove  \n- \"The sink and stove had a heated debate about who could handle the most pressure, but the table just sat there, trying to keep things balanced.\"  \n\n- Stove  \n- Cabinets  \n- \"The stove was feeling a bit burnt out, while the cabinets were just trying to keep their cool under all that heat.\"  \n\n- Table  \n- Cushions  \n- \"The table was feeling a bit flat, but the cushions were there to lift its spirits and add some comfort to the conversation.\"  \n\n- Benches  \n- Windows  \n- \"The benches were always looking out the windows, dreaming of a life beyond the cabin, but they were just too attached to their seats!\"  \n\n- Cabinets  \n- Control panel  \n- \"The cabinets were jealous of the control panel, always getting to push buttons while they just stood there, holding all the secrets.\"  \n\n- Windows  \n- Skylight  \n- \"The windows were feeling a bit overshadowed by the skylight, claiming it was just a 'pane' in their existence!\"  \n\n- Map  \n- Cushions  \n- \"The map was trying to chart a course for adventure, but the cushions just wanted to stay put and enjoy the ride!\"  \n\n- Control panel  \n- Sink  \n- \"The control panel was always in charge, but the sink reminded it that sometimes, you just need to let things flow.\"  \n\n- Cushions  \n- Benches  \n- \"The cushions were tired of being pushed around by the benches, insisting they deserved a little more 'seat' at the table!\"  \n\n- Skylight  \n- Table  \n- \"The skylight was always shining bright, while the table just hoped to be the center of attention for once!\"  ",
+    "single_object_dict": {
+        "Sink": "This sink might be in hot water for always being drained at parties!",
+        "Stove": "The stove's favorite band must be 'The Flaming Lips' because it's always cooking up hits.",
+        "Table": "This table stands four legs above competition when it comes to holding things up.",
+        "Benches": "These benches are outstanding in their field\u2014of seating!",
+        "Cabinets": "These cabinets are so good at hiding things; they're practically in the witness protection program.",
+        "Windows": "These windows are clearly the best at transparency.",
+        "Map": "This map might just be the center of attention, leading everyone in the right direction.",
+        "Control panel": "The control panel is buttoned up, always pressed for information.",
+        "Cushions": "Cushions are the unsung heroes; they've got your back, quietly.",
+        "Skylight": "The skylight's career is definitely on the up and up, it's a true rising star."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "Sink",
+            "other_object_list": [
+                "Stove"
+            ],
+            "object_sentence": "\"The sink and stove had a heated debate about who could handle the most pressure, but the table just sat there, trying to keep things balanced.\""
+        },
+        {
+            "main_object": "Stove",
+            "other_object_list": [
+                "Cabinets"
+            ],
+            "object_sentence": "\"The stove was feeling a bit burnt out, while the cabinets were just trying to keep their cool under all that heat.\""
+        },
+        {
+            "main_object": "Table",
+            "other_object_list": [
+                "Cushions"
+            ],
+            "object_sentence": "\"The table was feeling a bit flat, but the cushions were there to lift its spirits and add some comfort to the conversation.\""
+        },
+        {
+            "main_object": "Benches",
+            "other_object_list": [
+                "Windows"
+            ],
+            "object_sentence": "\"The benches were always looking out the windows, dreaming of a life beyond the cabin, but they were just too attached to their seats!\""
+        },
+        {
+            "main_object": "Cabinets",
+            "other_object_list": [
+                "Control panel"
+            ],
+            "object_sentence": "\"The cabinets were jealous of the control panel, always getting to push buttons while they just stood there, holding all the secrets.\""
+        },
+        {
+            "main_object": "Windows",
+            "other_object_list": [
+                "Skylight"
+            ],
+            "object_sentence": "\"The windows were feeling a bit overshadowed by the skylight, claiming it was just a 'pane' in their existence!\""
+        },
+        {
+            "main_object": "Map",
+            "other_object_list": [
+                "Cushions"
+            ],
+            "object_sentence": "\"The map was trying to chart a course for adventure, but the cushions just wanted to stay put and enjoy the ride!\""
+        },
+        {
+            "main_object": "Control panel",
+            "other_object_list": [
+                "Sink"
+            ],
+            "object_sentence": "\"The control panel was always in charge, but the sink reminded it that sometimes, you just need to let things flow.\""
+        },
+        {
+            "main_object": "Cushions",
+            "other_object_list": [
+                "Benches"
+            ],
+            "object_sentence": "\"The cushions were tired of being pushed around by the benches, insisting they deserved a little more 'seat' at the table!\""
+        },
+        {
+            "main_object": "Skylight",
+            "other_object_list": [
+                "Table"
+            ],
+            "object_sentence": "\"The skylight was always shining bright, while the table just hoped to be the center of attention for once!\""
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "folder_index": "68",
+    "object_list": [
+        "TV",
+        "Game console",
+        "Remote control",
+        "TV stand",
+        "DVD player",
+        "Stereo receiver",
+        "Game controller",
+        "Laptop",
+        "Speaker",
+        "Rug"
+    ],
+    "whole_object": "It seems the TV's not the only thing with great reception\u2014those coat hangers are really picking up the vibe!",
+    "single_object": "- TV: This TV is so smart, it teaches the remote control new tricks!\n- Game console: Rather being console-d after a long day, this game console cheers you up with a bit of play!\n- Remote control: This remote has control issues\u2014it never lets the TV change its own channels.\n- TV stand: This stand-up piece of furniture never TVs away from holding your attention.\n- DVD player: The DVD player is so old school, it still thinks high definition is a well-explained dictionary.\n- Stereo receiver: This stereo receiver is so charismatic, it's got all the radio waves crushing on it.\n- Game controller: The game controller is such a mover and shaker, it keeps pressing its own buttons.\n- Laptop: This laptop is such a lap hog, it thinks your knees are its personal recliner.\n- Speaker: The speaker always thought it would excel at hide and seek, but it turns out it can only blast its hiding spot.\n- Rug: The rug has such a complex personality, it sweeps you off your feet while still letting you walk all over it.",
+    "multi_object": "- TV  \n- Game console  \n- \"The TV said it was tired of being the center of attention, but the game console just couldn't stop playing the hero!\"\n\n- Game console  \n- Remote control  \n- \"The game console tried to take control, but the remote said, 'Not on my watch!'\"\n\n- Remote control  \n- DVD player  \n- \"The remote control felt like a magician, making the DVD player disappear into a sea of forgotten movies!\"\n\n- TV stand  \n- Stereo receiver  \n- \"The TV stand claimed it was the backbone of the setup, but the stereo receiver just laughed and said, 'I\u2019m the one with the bass!'\"\n\n- DVD player  \n- Laptop  \n- \"The DVD player sighed, 'I used to be the star, but now the laptop streams all the drama!'\"\n\n- Stereo receiver  \n- Speaker  \n- \"The stereo receiver boasted about its sound quality, but the speaker just turned up the volume on its own ego!\"\n\n- Game controller  \n- Rug  \n- \"The game controller tried to play it cool, but the rug said, 'You\u2019re just a little too wired for my taste!'\"\n\n- Laptop  \n- TV  \n- \"The laptop thought it was the smartest device in the room, but the TV just rolled its eyes and said, 'I\u2019ve got the bigger screen!'\"\n\n- Speaker  \n- Game console  \n- \"The speaker was ready to drop the beat, but the game console said, 'Hold on, I\u2019m about to drop a new level!'\" \n\n- Rug  \n- Remote control  \n- \"The rug felt like a cozy blanket, but the remote control insisted, 'I\u2019m the one who really knows how to cover ground!'\"",
+    "single_object_dict": {
+        "TV": "This TV is so smart, it teaches the remote control new tricks!",
+        "Game console": "Rather being console-d after a long day, this game console cheers you up with a bit of play!",
+        "Remote control": "This remote has control issues\u2014it never lets the TV change its own channels.",
+        "TV stand": "This stand-up piece of furniture never TVs away from holding your attention.",
+        "DVD player": "The DVD player is so old school, it still thinks high definition is a well-explained dictionary.",
+        "Stereo receiver": "This stereo receiver is so charismatic, it's got all the radio waves crushing on it.",
+        "Game controller": "The game controller is such a mover and shaker, it keeps pressing its own buttons.",
+        "Laptop": "This laptop is such a lap hog, it thinks your knees are its personal recliner.",
+        "Speaker": "The speaker always thought it would excel at hide and seek, but it turns out it can only blast its hiding spot.",
+        "Rug": "The rug has such a complex personality, it sweeps you off your feet while still letting you walk all over it."
+    },
+    "multi_object_dict": [
+        {
+            "main_object": "TV",
+            "other_object_list": [
+                "Game console"
+            ],
+            "object_sentence": "\"The TV said it was tired of being the center of attention, but the game console just couldn't stop playing the hero!\""
+        },
+        {
+            "main_object": "Game console",
+            "other_object_list": [
+                "Remote control"
+            ],
+            "object_sentence": "\"The game console tried to take control, but the remote said, 'Not on my watch!'\""
+        },
+        {
+            "main_object": "Remote control",
+            "other_object_list": [
+                "DVD player"
+            ],
+            "object_sentence": "\"The remote control felt like a magician, making the DVD player disappear into a sea of forgotten movies!\""
+        },
+        {
+            "main_object": "TV stand",
+            "other_object_list": [
+                "Stereo receiver"
+            ],
+            "object_sentence": "\"The TV stand claimed it was the backbone of the setup, but the stereo receiver just laughed and said, 'I\u2019m the one with the bass!'\""
+        },
+        {
+            "main_object": "DVD player",
+            "other_object_list": [
+                "Laptop"
+            ],
+            "object_sentence": "\"The DVD player sighed, 'I used to be the star, but now the laptop streams all the drama!'\""
+        },
+        {
+            "main_object": "Stereo receiver",
+            "other_object_list": [
+                "Speaker"
+            ],
+            "object_sentence": "\"The stereo receiver boasted about its sound quality, but the speaker just turned up the volume on its own ego!\""
+        },
+        {
+            "main_object": "Game controller",
+            "other_object_list": [
+                "Rug"
+            ],
+            "object_sentence": "\"The game controller tried to play it cool, but the rug said, 'You\u2019re just a little too wired for my taste!'\""
+        },
+        {
+            "main_object": "Laptop",
+            "other_object_list": [
+                "TV"
+            ],
+            "object_sentence": "\"The laptop thought it was the smartest device in the room, but the TV just rolled its eyes and said, 'I\u2019ve got the bigger screen!'\""
+        },
+        {
+            "main_object": "Speaker",
+            "other_object_list": [
+                "Game console"
+            ],
+            "object_sentence": "\"The speaker was ready to drop the beat, but the game console said, 'Hold on, I\u2019m about to drop a new level!'\""
+        },
+        {
+            "main_object": "Rug",
+            "other_object_list": [
+                "Remote control"
+            ],
+            "object_sentence": "\"The rug felt like a cozy blanket, but the remote control insisted, 'I\u2019m the one who really knows how to cover ground!'\""
+        }
+    ]
+}
